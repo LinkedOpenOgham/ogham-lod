@@ -13,10 +13,12 @@
     ns1:completeness "inc" ;
     ns1:currentlocation "lost" ;
     ns1:currentsetting "lost" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000151> ;
     ns1:discovery_who "Rev. Canon Hewison" ;
     ns1:discovery_year "1896" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675562> ;
     ns1:form "pilsp" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000014> ;
     ns1:preservation "inc" ;
     dc:identifier "KLCUM/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

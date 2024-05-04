@@ -10,7 +10,11 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "KMKDR/3 (Ogham Stone Concept by CISP)"@en ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000162> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675591> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000187> ;
+    ns1:shows <http://lod.ogham.link/data/OP400048>,
+        <http://lod.ogham.link/data/OP400302> ;
     dc:identifier "KMKDR/3" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;

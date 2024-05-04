@@ -11,8 +11,11 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "79. Rathcanning I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000141> ;
     ns1:depth 0.14 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000200> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674332> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000079> ;
     ns1:height 1.73 ;
     ns1:smr_no "CO066-009----" ;
     ns1:width 0.61 ;

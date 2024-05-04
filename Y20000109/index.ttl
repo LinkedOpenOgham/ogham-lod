@@ -11,16 +11,27 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CLCAH/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000204>,
+        <http://lod.ogham.link/data/OI62000205> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "on site" ;
     ns1:currentsetting "in ground" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000067> ;
     ns1:discovery_who "P.J. Lynch" ;
     ns1:discovery_year "1909" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675414> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000230> ;
     ns1:height 2.08 ;
     ns1:preservation "some" ;
+    ns1:shows <http://lod.ogham.link/data/OP400145>,
+        <http://lod.ogham.link/data/OP400198>,
+        <http://lod.ogham.link/data/OP400310>,
+        <http://lod.ogham.link/data/OW2>,
+        <http://lod.ogham.link/data/OW48>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW71> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.18 ;
     ns1:w_status "actual" ;

@@ -11,8 +11,11 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "190. Lugnagappul I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000051> ;
     ns1:depth 0.3 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000181> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674224> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000190> ;
     ns1:height 0.91 ;
     ns1:smr_no "KE054-033002-" ;
     ns1:width 0.41 ;

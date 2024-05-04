@@ -9,7 +9,7 @@
     ns1:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
     ns1:occurrences 2,
         8,
-        106,
+        192,
         194,
         208,
         462,

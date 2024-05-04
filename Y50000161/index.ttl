@@ -10,6 +10,7 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "161 (Ogham Stone Concept by the Research Squirrel Ogham Project)"@en ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000020> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106680829> ;
     dc:identifier "161" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

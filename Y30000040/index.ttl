@@ -10,7 +10,11 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "173. Brackloon (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000040> ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000047> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674212> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000173> ;
+    ns1:shows <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "KE045-081002-" ;
     dc:identifier "173. Brackloon" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

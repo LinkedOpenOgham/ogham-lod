@@ -10,14 +10,19 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "COLIN/5 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000219> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "on site" ;
     ns1:currentsetting "inc" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000073> ;
     ns1:discovery_who "R. A. S. Macalister" ;
     ns1:discovery_year "1929" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675427> ;
     ns1:form "pilsp" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000023> ;
     ns1:preservation "some" ;
+    ns1:shows <http://lod.ogham.link/data/OP400022>,
+        <http://lod.ogham.link/data/OW6> ;
     dc:identifier "COLIN/5" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;

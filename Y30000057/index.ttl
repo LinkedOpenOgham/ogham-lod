@@ -11,9 +11,17 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "197. Coolmagort I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000057> ;
     ns1:depth 0.2 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000077> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674231> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000197> ;
     ns1:height 2.1 ;
+    ns1:shows <http://lod.ogham.link/data/OP400153>,
+        <http://lod.ogham.link/data/OP400481>,
+        <http://lod.ogham.link/data/OW49>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW8> ;
     ns1:smr_no "KE065-078003-" ;
     ns1:width 0.52 ;
     dc:identifier "197. Coolmagort I" ;

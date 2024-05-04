@@ -11,9 +11,14 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "34. Legan (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000122> ;
     ns1:depth 0.42 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000176> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674309> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000033> ;
     ns1:height 2.03 ;
+    ns1:shows <http://lod.ogham.link/data/OW5>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "KK028-026002-" ;
     ns1:width 0.51 ;
     dc:identifier "34. Legan" ;

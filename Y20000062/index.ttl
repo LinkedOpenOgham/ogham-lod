@@ -11,17 +11,24 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "BAWGL/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000127> ;
     ns1:completeness "incomplete" ;
     ns1:currentlocation "other" ;
     ns1:currentsetting "in ground" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000043> ;
     ns1:discovery_who "Lynch, P.J." ;
     ns1:discovery_year "1908" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675362> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000248> ;
     ns1:height 1.07 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 243, `The lower part was missing, and about 1` of what remained of the inscribed edge was frayed away`. " ;
+    ns1:shows <http://lod.ogham.link/data/OP400416>,
+        <http://lod.ogham.link/data/OP400486>,
+        <http://lod.ogham.link/data/OW23>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.3 ;
     ns1:w_status "actual" ;

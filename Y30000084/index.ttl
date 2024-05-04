@@ -11,8 +11,11 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "242. Parkavonear (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000084> ;
     ns1:depth 0.18 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000194> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674261> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000242> ;
     ns1:height 1.54 ;
     ns1:smr_no "KE066-016005-" ;
     ns1:width 0.26 ;

@@ -11,17 +11,24 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CARHA/2 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000194> ;
     ns1:completeness "incomplete" ;
     ns1:currentlocation "inc" ;
     ns1:currentsetting "inc" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000057> ;
     ns1:discovery_who "J.J. O`Crowley" ;
     ns1:discovery_year "1906" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675407> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000074> ;
     ns1:height 0.79 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 77, `broken to make them a size suitable for the purposes of the masons`." ;
+    ns1:shows <http://lod.ogham.link/data/OP400101>,
+        <http://lod.ogham.link/data/OP400442>,
+        <http://lod.ogham.link/data/OW10>,
+        <http://lod.ogham.link/data/OW67> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.18 ;
     ns1:w_status "actual" ;

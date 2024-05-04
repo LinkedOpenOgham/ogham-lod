@@ -10,7 +10,15 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 252 (Ogham Stone Concept by RAS Macalister)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI60000176> ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000130> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892895> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000252> ;
+    ns1:shows <http://lod.ogham.link/data/OW10>,
+        <http://lod.ogham.link/data/OW100>,
+        <http://lod.ogham.link/data/OW14>,
+        <http://lod.ogham.link/data/OW20>,
+        <http://lod.ogham.link/data/OW6> ;
     dc:identifier "252" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;

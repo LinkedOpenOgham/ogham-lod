@@ -10,7 +10,12 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 246 (Ogham Stone Concept by RAS Macalister)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI60000167> ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000208> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892864> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000246> ;
+    ns1:shows <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW68> ;
     dc:identifier "246" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;

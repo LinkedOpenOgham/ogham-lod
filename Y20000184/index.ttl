@@ -11,16 +11,22 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "DUNAL/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000306> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in struct" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000107> ;
     ns1:discovery_who "W.A. Lindsay" ;
     ns1:discovery_year "1936" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675497> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000316> ;
     ns1:height 1.17 ;
     ns1:preservation "inc" ;
+    ns1:shows <http://lod.ogham.link/data/OP400047>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW62> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.3 ;
     ns1:w_status "actual" ;

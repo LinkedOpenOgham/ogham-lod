@@ -11,9 +11,15 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Knockmahon II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000157> ;
     ns1:depth 0.25 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000171> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674351> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000335> ;
     ns1:height 0.87 ;
+    ns1:shows <http://lod.ogham.link/data/OP400479>,
+        <http://lod.ogham.link/data/OP400511>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "WA025-128002-" ;
     ns1:width 0.59 ;
     dc:identifier "Knockmahon II" ;

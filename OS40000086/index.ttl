@@ -11,12 +11,16 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Crehanagh South (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85396978> ;
+    ns1:hasLocation <http://lod.ogham.link/data/OL8000000086>,
+        <http://lod.ogham.link/data/OL9000000329> ;
     ns1:label_barony "Upperthird" ;
     ns1:label_country "Ireland" ;
     ns1:label_county "Waterford" ;
     ns1:label_province "Munster" ;
     ns1:label_townland "Crehanagh South" ;
     ns1:representativePoint <http://lod.ogham.link/data/OS40000086_geom> ;
+    ns1:within <http://lod.ogham.link/data/GSD3000003>,
+        <http://lod.ogham.link/data/GSD5000211> ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,

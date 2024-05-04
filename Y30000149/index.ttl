@@ -11,9 +11,16 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Church Island (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000149> ;
     ns1:depth 0.1 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000063> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674343> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000327> ;
     ns1:height 1.49 ;
+    ns1:shows <http://lod.ogham.link/data/OP400031>,
+        <http://lod.ogham.link/data/OP400432>,
+        <http://lod.ogham.link/data/OW19>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "KE079-032004-" ;
     ns1:width 0.36 ;
     dc:identifier "Church Island" ;

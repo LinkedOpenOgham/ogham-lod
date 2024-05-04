@@ -14,14 +14,18 @@
     ns1:completeness "incomplete" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in ground" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000139> ;
     ns1:discovery_who "G. Petrie" ;
     ns1:discovery_year "1839" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675539> ;
     ns1:form "pilsc" ;
     ns1:h_status "visible" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000001> ;
     ns1:height 0.71 ;
     ns1:preservation "some" ;
     ns1:preservation_note "First recorded in Pelham/1804, 224-225.Macalister/1945, 157 and Cuppage/etal/1986, 44, record the stone as still in it`s earliest position.." ;
+    ns1:shows <http://lod.ogham.link/data/OP400280>,
+        <http://lod.ogham.link/data/OP400348> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.15 ;
     ns1:w_status "actual" ;

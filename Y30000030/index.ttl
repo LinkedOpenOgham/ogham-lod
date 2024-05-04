@@ -11,9 +11,15 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "16. Rathglass (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000030> ;
     ns1:depth 0.82 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000203> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674202> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000016> ;
     ns1:height 1.3 ;
+    ns1:shows <http://lod.ogham.link/data/OP400189>,
+        <http://lod.ogham.link/data/OP400341>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "CW013-018001-" ;
     ns1:width 0.62 ;
     dc:identifier "16. Rathglass" ;

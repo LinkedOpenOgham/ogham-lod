@@ -11,16 +11,25 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "EMLGE/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000312>,
+        <http://lod.ogham.link/data/OI62000313> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "unattch" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000112> ;
     ns1:discovery_who "E. Lhuyd" ;
     ns1:discovery_year "1702" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675502> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000180> ;
     ns1:height 2.39 ;
     ns1:preservation "some" ;
+    ns1:shows <http://lod.ogham.link/data/OP400055>,
+        <http://lod.ogham.link/data/OP400060>,
+        <http://lod.ogham.link/data/OW43>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW8> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.28 ;
     ns1:w_status "actual" ;

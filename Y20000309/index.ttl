@@ -10,14 +10,17 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "NEWLE/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000479> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "inc" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000190> ;
     ns1:discovery_who "P. Power" ;
     ns1:discovery_year "1900" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675638> ;
     ns1:form "pilsp" ;
     ns1:h_status "inc" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000260> ;
     ns1:preservation "inc" ;
     ns1:t_status "inc" ;
     ns1:w_status "inc" ;

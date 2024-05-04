@@ -11,9 +11,15 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "299. Knockboy VIII (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000118> ;
     ns1:depth 0.1 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000170> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674304> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000299> ;
     ns1:height 0.66 ;
+    ns1:shows <http://lod.ogham.link/data/OP400361>,
+        <http://lod.ogham.link/data/OP400364>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "WA013-034015-" ;
     ns1:width 0.28 ;
     dc:identifier "299. Knockboy VIII" ;

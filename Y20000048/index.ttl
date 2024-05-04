@@ -10,15 +10,25 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "BALBR/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000096>,
+        <http://lod.ogham.link/data/OI62000097> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "inc" ;
     ns1:currentsetting "inc" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000027> ;
     ns1:discovery_who "Raftery, Dr" ;
     ns1:discovery_year "1949" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675348> ;
     ns1:form "inc" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000348> ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1949, 197, speaks of some `damage` and a `spall fracture`." ;
+    ns1:shows <http://lod.ogham.link/data/OP400030>,
+        <http://lod.ogham.link/data/OP400224>,
+        <http://lod.ogham.link/data/OP400228>,
+        <http://lod.ogham.link/data/OW20>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW74> ;
     dc:identifier "BALBR/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;

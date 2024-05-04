@@ -10,7 +10,6 @@
     void:property prov:wasGeneratedBy ;
     void:triples 1,
         4,
-        52,
         97,
         104,
         231,

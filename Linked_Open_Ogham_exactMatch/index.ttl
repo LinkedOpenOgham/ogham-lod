@@ -9,7 +9,6 @@
     void:property <http://ontology.ogham.link/exactMatch> ;
     void:triples 1,
         4,
-        52,
         96,
         97,
         98,

@@ -11,17 +11,23 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "KLGRV/6 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000410> ;
     ns1:completeness "incomplete" ;
     ns1:currentlocation "museum" ;
     ns1:currentsetting "in display" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000154> ;
     ns1:discovery_who "anon" ;
     ns1:discovery_year "1966" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675575> ;
     ns1:form "inc" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000332> ;
     ns1:height 0.98 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Rafter/1969, 105, `portion of the stone has been broken off in antiquity`." ;
+    ns1:shows <http://lod.ogham.link/data/OP400122>,
+        <http://lod.ogham.link/data/OP400493>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.13 ;
     ns1:w_status "actual" ;

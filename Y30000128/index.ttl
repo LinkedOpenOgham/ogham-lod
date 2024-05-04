@@ -11,9 +11,18 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "40. Painestown (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000128> ;
     ns1:depth 0.33 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000193> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674315> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000040> ;
     ns1:height 2.24 ;
+    ns1:shows <http://lod.ogham.link/data/OP400241>,
+        <http://lod.ogham.link/data/OP400309>,
+        <http://lod.ogham.link/data/OW14>,
+        <http://lod.ogham.link/data/OW2>,
+        <http://lod.ogham.link/data/OW35>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "ME026-009----" ;
     ns1:width 0.76 ;
     dc:identifier "40. Painestown" ;

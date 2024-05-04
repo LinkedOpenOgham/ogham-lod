@@ -11,9 +11,18 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "159. Ballintaggart V (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000029> ;
     ns1:depth 0.25 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000020> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674201> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000159> ;
     ns1:height 1.27 ;
+    ns1:shows <http://lod.ogham.link/data/OP400229>,
+        <http://lod.ogham.link/data/OP400318>,
+        <http://lod.ogham.link/data/OW10>,
+        <http://lod.ogham.link/data/OW100>,
+        <http://lod.ogham.link/data/OW14>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "KE053-033009-" ;
     ns1:width 0.33 ;
     dc:identifier "159. Ballintaggart V" ;

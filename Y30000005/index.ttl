@@ -11,9 +11,16 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "1083. Rathkenny I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000005> ;
     ns1:depth 0.18 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000204> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674175> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000341> ;
     ns1:height 1.0 ;
+    ns1:shows <http://lod.ogham.link/data/OP400099>,
+        <http://lod.ogham.link/data/OP400244>,
+        <http://lod.ogham.link/data/OW66>,
+        <http://lod.ogham.link/data/OW8> ;
     ns1:smr_no "KE021-087002-" ;
     ns1:width 0.4 ;
     dc:identifier "1083. Rathkenny I" ;

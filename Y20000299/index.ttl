@@ -11,17 +11,21 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "MAUIG/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000468> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in ground" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000184> ;
     ns1:discovery_who "Graves, C." ;
     ns1:discovery_year "1887" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675626> ;
     ns1:form "nboul" ;
     ns1:h_status "visible" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000193> ;
     ns1:height 1.15 ;
     ns1:preservation "good" ;
     ns1:preservation_note "CISP: The stone appeared in good condition when visited in 1996." ;
+    ns1:shows <http://lod.ogham.link/data/OP400096> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.54 ;
     ns1:w_status "actual" ;

@@ -11,12 +11,16 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Mullyknock or Topped Mountain (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85392831> ;
+    ns1:hasLocation <http://lod.ogham.link/data/OL8000000189>,
+        <http://lod.ogham.link/data/OL9000000308> ;
     ns1:label_barony "Tirkennedy" ;
     ns1:label_country "Northern Ireland" ;
     ns1:label_county "Fermanagh" ;
     ns1:label_province "Ulster" ;
     ns1:label_townland "Mullyknock or Topped Mountain" ;
     ns1:representativePoint <http://lod.ogham.link/data/OS40000189_geom> ;
+    ns1:within <http://lod.ogham.link/data/GSD3000004>,
+        <http://lod.ogham.link/data/GSD5000224> ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,

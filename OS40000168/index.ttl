@@ -11,12 +11,17 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Knickeen (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85391711> ;
+    ns1:hasLocation <http://lod.ogham.link/data/OL1045229669>,
+        <http://lod.ogham.link/data/OL8000000168>,
+        <http://lod.ogham.link/data/OL9000000233> ;
     ns1:label_barony "Talbotstown Upper" ;
     ns1:label_country "Ireland" ;
     ns1:label_county "Wicklow" ;
     ns1:label_province "Leinster" ;
     ns1:label_townland "Knickeen" ;
     ns1:representativePoint <http://lod.ogham.link/data/OS40000168_geom> ;
+    ns1:within <http://lod.ogham.link/data/GSD3000002>,
+        <http://lod.ogham.link/data/GSD5000072> ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,

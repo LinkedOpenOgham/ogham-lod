@@ -11,9 +11,13 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "181. Emlagh West (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000044> ;
     ns1:depth 0.24 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000113> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674217> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000181> ;
     ns1:height 1.08 ;
+    ns1:shows <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "KE042-167----" ;
     ns1:width 0.36 ;
     dc:identifier "181. Emlagh West" ;

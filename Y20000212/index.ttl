@@ -11,17 +11,24 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "GRANG/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000353> ;
     ns1:completeness "incomplete" ;
     ns1:currentlocation "on site" ;
     ns1:currentsetting "in ground" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000091> ;
     ns1:discovery_who "Atkinson, G. M." ;
     ns1:discovery_year "1883" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675528> ;
     ns1:form "pilsc" ;
     ns1:h_status "visible" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000269> ;
     ns1:height 1.07 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 265: `The name preceding MAQI had already been broken off, with the butt of the stone, when it was first examined in 1883`." ;
+    ns1:shows <http://lod.ogham.link/data/OP400248>,
+        <http://lod.ogham.link/data/OW22>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW8> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.2 ;
     ns1:w_status "actual" ;

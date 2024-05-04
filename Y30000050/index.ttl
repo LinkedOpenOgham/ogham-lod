@@ -11,9 +11,18 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "19. Colbinstown I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000050> ;
     ns1:depth 0.28 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000073> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674223> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000019> ;
     ns1:height 1.57 ;
+    ns1:shows <http://lod.ogham.link/data/OP400246>,
+        <http://lod.ogham.link/data/OP400406>,
+        <http://lod.ogham.link/data/OW11>,
+        <http://lod.ogham.link/data/OW2>,
+        <http://lod.ogham.link/data/OW22>,
+        <http://lod.ogham.link/data/OW91> ;
     ns1:smr_no "KD032-044001-" ;
     ns1:width 0.28 ;
     dc:identifier "19. Colbinstown I" ;

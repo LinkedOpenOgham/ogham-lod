@@ -11,12 +11,16 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ballingarry (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85396837> ;
+    ns1:hasLocation <http://lod.ogham.link/data/OL8000000018>,
+        <http://lod.ogham.link/data/OL9000000185> ;
     ns1:label_barony "Coshlea" ;
     ns1:label_country "Ireland" ;
     ns1:label_county "Limerick" ;
     ns1:label_province "Munster" ;
     ns1:label_townland "Ballingarry" ;
     ns1:representativePoint <http://lod.ogham.link/data/OS40000018_geom> ;
+    ns1:within <http://lod.ogham.link/data/GSD3000003>,
+        <http://lod.ogham.link/data/GSD5000135> ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,

@@ -10,9 +10,17 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "COOLM/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000229> ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000077> ;
     ns1:discovery_who "workmen" ;
     ns1:discovery_year "1838" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675436> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000197> ;
+    ns1:shows <http://lod.ogham.link/data/OP400153>,
+        <http://lod.ogham.link/data/OP400482>,
+        <http://lod.ogham.link/data/OW49>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW8> ;
     dc:identifier "COOLM/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;

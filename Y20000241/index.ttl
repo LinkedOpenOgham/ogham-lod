@@ -11,16 +11,23 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "KLCOO/6 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000395>,
+        <http://lod.ogham.link/data/OI62000396> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "on site" ;
     ns1:currentsetting "in ground" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000149> ;
     ns1:discovery_who "R.R. Brash" ;
     ns1:discovery_year "1869" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675559> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000211> ;
     ns1:height 1.1 ;
     ns1:preservation "good" ;
+    ns1:shows <http://lod.ogham.link/data/OP400434>,
+        <http://lod.ogham.link/data/OP400510>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.1 ;
     ns1:w_status "actual" ;

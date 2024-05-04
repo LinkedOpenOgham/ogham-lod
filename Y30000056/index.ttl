@@ -11,9 +11,16 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "196. Rathmalode II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000056> ;
     ns1:depth 0.09 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000206> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674230> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000196> ;
     ns1:height 1.24 ;
+    ns1:shows <http://lod.ogham.link/data/OW18>,
+        <http://lod.ogham.link/data/OW2>,
+        <http://lod.ogham.link/data/OW52>,
+        <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "KE042-166---" ;
     ns1:width 0.33 ;
     dc:identifier "196. Rathmalode II" ;

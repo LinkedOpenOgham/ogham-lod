@@ -11,9 +11,16 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "166. Ballinvoher (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000035> ;
     ns1:depth 0.1 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000022> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674207> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000166> ;
     ns1:height 1.22 ;
+    ns1:shows <http://lod.ogham.link/data/OP400090>,
+        <http://lod.ogham.link/data/OP400525>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW64> ;
     ns1:smr_no "KE045-105----" ;
     ns1:width 0.47 ;
     dc:identifier "166. Ballinvoher" ;

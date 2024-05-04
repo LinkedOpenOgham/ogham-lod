@@ -11,9 +11,14 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "278. Drumlohan VII (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI61000105> ;
     ns1:depth 0.22 ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000002> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674285> ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000278> ;
     ns1:height 1.24 ;
+    ns1:shows <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW9> ;
     ns1:smr_no "WA024-033012-" ;
     ns1:width 0.27 ;
     dc:identifier "278. Drumlohan VII" ;

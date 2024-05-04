@@ -11,16 +11,25 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "MONAT/3 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000475> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "museum" ;
     ns1:currentsetting "in display" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000185> ;
     ns1:discovery_who "R.R. Brash" ;
     ns1:discovery_year "1872" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675633> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000120> ;
     ns1:height 1.88 ;
     ns1:preservation "good" ;
+    ns1:shows <http://lod.ogham.link/data/OP400052>,
+        <http://lod.ogham.link/data/OP400489>,
+        <http://lod.ogham.link/data/OW17>,
+        <http://lod.ogham.link/data/OW23>,
+        <http://lod.ogham.link/data/OW5>,
+        <http://lod.ogham.link/data/OW9> ;
     ns1:t_status "actual" ;
     ns1:thickness 0.27 ;
     ns1:w_status "actual" ;

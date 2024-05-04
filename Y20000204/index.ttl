@@ -11,14 +11,18 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "GLHAN/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:carries <http://lod.ogham.link/data/OI62000336>,
+        <http://lod.ogham.link/data/OI62000337> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "museum" ;
     ns1:currentsetting "in display" ;
+    ns1:disclosedAt <http://lod.ogham.link/data/OS40000123> ;
     ns1:discovery_who "Deane, Sir Thomas" ;
     ns1:discovery_year "1893" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675519> ;
     ns1:form "pillc" ;
     ns1:h_status "visible" ;
+    ns1:hasCollection <http://lod.ogham.link/data/Y50000183> ;
     ns1:height 1.39 ;
     ns1:preservation "some" ;
     ns1:t_status "actual" ;
