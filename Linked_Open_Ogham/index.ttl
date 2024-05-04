@@ -40,7 +40,7 @@
         19,
         24,
         30,
-        4176,
+        3080,
         7765,
         9380,
         1013945,
@@ -64,8 +64,8 @@
     ns1:distinctBlankNodes 0 ;
     ns1:distinctIRIReferences 47,
         74,
+        519,
         795,
-        928,
         943,
         957,
         2323,
@@ -76,7 +76,7 @@
         8737 ;
     ns1:distinctLiterals 8,
         17,
-        322,
+        176,
         327,
         335,
         343,
@@ -88,8 +88,8 @@
         3741 ;
     ns1:distinctRDFNodes 55,
         91,
+        695,
         1145,
-        1250,
         1270,
         1300,
         3223,
@@ -102,7 +102,8 @@
         2 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-04T12:37:37"^^xsd:dateTime ;
+    dcterms:modified "2024-05-04T12:39:13"^^xsd:dateTime,
+        "2024-05-04T12:39:14"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -147,8 +148,8 @@
     void:dataDump <https://LinkedOpenOgham.github.io/ogham-lod//index.ttl> ;
     void:distinctObjects 21,
         39,
+        339,
         564,
-        615,
         628,
         642,
         1376,
@@ -159,8 +160,8 @@
         6226 ;
     void:distinctSubjects 11,
         20,
+        165,
         214,
-        298,
         300,
         701,
         1080,
@@ -170,8 +171,8 @@
         2481 ;
     void:entities 8,
         17,
+        162,
         214,
-        295,
         297,
         698,
         1080,
@@ -244,7 +245,7 @@
         <http://lod.ogham.link/data/Linked_Open_Ogham_width> ;
     void:triples 45,
         126,
-        2710,
+        1481,
         2714,
         2716,
         3107,

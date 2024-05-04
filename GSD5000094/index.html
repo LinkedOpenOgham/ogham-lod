@@ -1,0 +1,206 @@
+<html about="http://lod.ogham.link/data/GSD5000094">
+  <head>
+    <script>
+      if (window.location.href.includes("index.html")) {
+        document.write("<title>Damhliag Uachtarach | Linked Open Ogham</title>");
+      } else {
+        document.write(
+          "<title>Index Page for Linked Open Ogham by the Research Squirrel Engineers Network</title>"
+        );
+      }
+    </script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/gh/situx/mini-vowl@master/docs/css/vowl.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.1.1/themes/default/style.min.css" />
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.8.1/proj4.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.2.2/d3.v3.min.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/situx/mini-vowl@master/docs/js/webVOWLGraphh.js"></script>
+    <script src="../epsgdefs.js"></script>
+    <script src="../vowl_result.js"></script>
+    <script src="../fsld_search.js"></script>
+    <script src="../fsld_classtree.js"></script>
+    <script src="../proprelations.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.14/jstree.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/rdflib@2.2.19/dist/rdflib.min.js"></script>
+    <script
+      type="text/javascript"
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <script src="../startscripts.js"></script>
+  </head>
+
+  <div id="mySidenav" class="sidenav" style="overflow: auto">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
+      >&times;</a
+    >
+    GeoClasses: <input type="checkbox" id="geoclasses" /><br />
+    Search:<input type="text" id="classsearch" /><br />
+    <div id="jstree"></div>
+  </div>
+  <script>
+    var indexpage=false;
+    var relativedepth=1;
+    var baseurl="http://lod.ogham.link/data/";
+    var iconprefixx="";
+  </script>
+
+  <body>
+    <div id="headertop">
+      <span class="header_pt1">
+        <b>Squirrel Data</b>&nbsp;|&nbsp;Linked Open Ogham&nbsp;|&nbsp;
+        <i>powered by the Research Squirrel Engineers Network</i>
+      </span>
+      <span class="header_pt2">
+        <b>Linked Ogham</b>&nbsp;&nbsp;<a
+          href="http://ogham.link"
+          target="_blank"
+          ><img
+            src="https://raw.githubusercontent.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/main/icons/linkedopenogham_icon_whitebg.png"
+            style="height: 40px !important; margin-right: 10px"
+        /></a>
+      </span>
+    </div>
+    <div id="header">
+      <script>
+        if (window.location.href.includes("index.html")) {
+          document.write(
+            '<h1 id="title"><img src="https://raw.githubusercontent.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/main/icons/linkedopenogham_icon.png" width="25" height="25"/>Damhliag Uachtarach<span style="font-size: 16px;font-weight: 300;font-style: italic;">EN</span></h1>'
+          );
+        } else {
+          document.write(
+            '<h1 id="title">Index Page for Linked Open Ogham by the Research Squirrels</h1>'
+          );
+        }
+        if (window.location.href.includes("index.html")) {
+          document.write('<br><span id="titletwo">http://lod.ogham.link/data/GSD5000094</span>');
+        } else {
+          console.log(window.location.href);
+        }
+      </script>
+    </div>
+    <div class="page-resource-uri">
+      <script>
+        if (window.location.href.includes("index.html")) {
+          document.write(
+            '<b>The Damhliag Uachtarach</b> resource is powered by Static <a style="color:#007bff;" target="_blank" href="https://github.com/i3mainz/geopubby">GeoPubby</a> generated using the <a style="color:#007bff;" target="_blank" href="https://github.com/sparqlunicorn/sparqlunicornGoesGIS">SPARQLing Unicorn QGIS Plugin</a></div>'
+          );
+        } else {
+          document.write(
+            'Powered by Static <a style="color:#007bff;" target="_blank" href="https://github.com/i3mainz/geopubby">GeoPubby</a> generated using the <a style="color:#007bff;" target="_blank" href="https://github.com/sparqlunicorn/sparqlunicornGoesGIS">SPARQLing Unicorn QGIS Plugin</a></div>'
+          );
+        }
+      </script>
+    </div>
+    <div id="rdficon">
+      <span style="font-size: 30px; cursor: pointer" onclick="openNav()"
+        >&#9776;</span
+      >
+    </div>
+    <div class="search">
+      <div class="ui-widget">
+        Search: <input id="search" size="50" />
+        <button id="gotosearch" onclick="followLink()">Go</button>
+        <b>Download Options:</b>&nbsp;Format:<select
+          id="format"
+          onchange="changeDefLink()">
+          <option value="csv">Comma Separated Values (CSV)</option>
+<option value="gdf">Graph Definition Format (GDF)</option>
+<option value="graphml">Graph Markup Language (GraphML)</option>
+<option value="geojson">(Geo)JSON</option>
+<option value="geouri">GeoURI</option>
+<option value="gml">Geography Markup Language (GML)</option>
+<option value="kml">Keyhole Markup Language (KML)</option>
+<option value="latlon">LatLonText</option>
+<option value="tgf">Trivial Graph Format (TGF)</option>
+<option value="ttl" selected>Turtle (TTL)</option>
+<option value="tsv">Tab Separated Values (TSV)</option>
+<option value="wkt">Well-Known-Text (WKT)</option>
+<option value="xyz">XYZ ASCII (XYZ)</option>
+
+        </select>
+        <a id="formatlink" href="#" target="_blank">
+          <svg
+            width="1em"
+            height="1em"
+            viewBox="0 0 16 16"
+            class="bi bi-info-circle-fill"
+            fill="currentColor"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+              fill-rule="evenodd"
+              d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412l-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM8 5.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
+          </svg> </a
+        >&nbsp;
+        <button id="downloadButton" onclick="download()">Download</button>
+        <br />
+      </div>
+    </div>
+    <dialog
+      id="classrelationdialog"
+      width="500"
+      height="500"
+      modal="true"></dialog>
+    <dialog
+      id="dataschemadialog"
+      width="500"
+      height="500"
+      modal="true"></dialog>
+    <div class="container-fluid">
+      <div class="row-fluid" id="main-wrapper"></div>
+    </div>
+  </body>
+</html>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="https://unpkg.com/leaflet.markercluster@1.0.6/dist/leaflet.markercluster-src.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster.layersupport@2.0.1/dist/leaflet.markercluster.layersupport.js"></script>
+<script src="https://unpkg.com/leaflet.featuregroup.subgroup@1.0.2/dist/leaflet.featuregroup.subgroup.js"></script>
+<script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/dwilhelm89/LeafletSlider@master/dist/leaflet.SliderControl.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.9.0/proj4.min.js"></script><script src="https://cdn.jsdelivr.net/gh/albburtsev/Leaflet.geojsonCSS/leaflet.geojsoncss.min.js"></script>
+<script src="../epsgdefs.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" rel="stylesheet" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" rel="stylesheet" />
+<link href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" rel="stylesheet" >
+<link href="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css" rel='stylesheet' />
+<div id="map" style="height:500px;z-index: 0;"></div><script>
+var rangesByAttribute={}
+var overlayMaps={}
+var baselayers={"OpenStreetMap (OSM)": {"url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", "default": true, "type": "tile"}}
+var featurecolls = [{"type": "Feature", "id": "http://lod.ogham.link/data/GSD5000094", "name": "", "dateprops": [], "properties": {"http://ontology.ogham.link/exactMatch": ["http://www.wikidata.org/entity/Q59419950"], "http://purl.org/dc/terms/creator": ["https://orcid.org/0000-0002-3246-3531"], "http://purl.org/dc/terms/license": ["https://creativecommons.org/licenses/by-sa/4.0/deed.de"], "http://purl.org/dc/terms/rightsHolder": ["http://www.wikidata.org/entity/Q3355441", "http://www.wikidata.org/entity/Q85384744"], "http://rdfs.org/ns/void#inDataset": ["http://lod.ogham.link/data/Linked_Open_Ogham"], "http://www.opengis.net/ont/geosparql#hasGeometry": ["http://lod.ogham.link/data/GSD5000094_geom"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://ontology.ogham.link/Barony", "http://www.opengis.net/ont/geosparql#Feature", "http://ontologies.geohive.ie/osi#Barony"], "http://www.w3.org/2000/01/rdf-schema#label": ["Duleek Upper", "Damhliag Uachtarach"], "http://www.w3.org/ns/prov#wasAttributedTo": ["http://lod.ogham.link/data/PythonStonesCIIC"], "http://www.w3.org/ns/prov#wasDerivedFrom": ["https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/geodata/gs_baronies.csv"], "http://www.w3.org/ns/prov#wasGeneratedBy": ["http://lod.ogham.link/data/GSD5000094_activity"]}, "geometry": {"type": "MultiPolygon", "coordinates": [[[[-6.36908439520438, 53.6612323198296], [-6.36843708550489, 53.6611124050509], [-6.36859543366898, 53.6614877702328], [-6.36758316139779, 53.6618968084141], [-6.36437628320285, 53.6624438617555], [-6.36029513078807, 53.6638262401297], [-6.35779008068485, 53.6652763147087], [-6.35524511568051, 53.6661820519076], [-6.35420257599038, 53.6660676130516], [-6.35084696617527, 53.6668196856514], [-6.34725355678537, 53.6662610169764], [-6.34169335363068, 53.6664980139486], [-6.34108828819695, 53.6658373234292], [-6.34050848750756, 53.6657972925695], [-6.33972961656537, 53.6660504050634], [-6.33786245263427, 53.6659015929172], [-6.33656927006198, 53.6661716393699], [-6.33512514576185, 53.6659269220443], [-6.33332291938639, 53.6662375688195], [-6.33152650106477, 53.6660788035473], [-6.32763711678679, 53.6664010819878], [-6.32390461632302, 53.6669922811869], [-6.32066429366741, 53.66812894021], [-6.31993496135853, 53.6680240688066], [-6.31803176142213, 53.6698332511453], [-6.3165311873854, 53.6703281211509], [-6.31433112777021, 53.67037142237], [-6.31434522395598, 53.6708216385988], [-6.31338856838645, 53.6717190948113], [-6.31248427158173, 53.6717630466722], [-6.31233937371842, 53.6714356894057], [-6.30951227207513, 53.6722228186535], [-6.30675851021934, 53.6720429183352], [-6.30519727917588, 53.6715437043589], [-6.30353925972224, 53.6719312896274], [-6.30048787521927, 53.6713632564044], [-6.29937049221595, 53.6715820121595], [-6.29689613974033, 53.671353562766], [-6.29524155592449, 53.6710422052188], [-6.2956326284909, 53.6708009098946], [-6.29510787149941, 53.6705432144472], [-6.29425301323305, 53.67073130076], [-6.29173217936909, 53.6700188442399], [-6.28893577176098, 53.6697854361513], [-6.28687684975037, 53.6700853725974], [-6.28487381078299, 53.670796521611], [-6.282877421892, 53.6709212266914], [-6.27975477891849, 53.6696606796008], [-6.2767886761887, 53.6704844708852], [-6.27496400715389, 53.671856565153], [-6.27359823610407, 53.6719916380601], [-6.27197983763103, 53.6739557390412], [-6.26817488347549, 53.6750150534076], [-6.26712097111357, 53.6741482608511], [-6.26615667270392, 53.6740514346164], [-6.26556403743938, 53.6750115227785], [-6.26153719448115, 53.6769946070959], [-6.25811532549716, 53.6770640971187], [-6.25669676795526, 53.6759296106231], [-6.25582686666605, 53.6757773275294], [-6.25409245532255, 53.6760180848295], [-6.25256291130352, 53.677483995593], [-6.24978770636855, 53.6778580185236], [-6.24611362297801, 53.6778567995249], [-6.24475134757009, 53.6766288750123], [-6.2432657368063, 53.6762008262742], [-6.24080407924361, 53.6774139813461], [-6.23890325185143, 53.6764879617836], [-6.23611585069817, 53.676524971502], [-6.23249802892335, 53.6681692002398], [-6.23118659825943, 53.6643387978693], [-6.23150924662487, 53.6641791162096], [-6.23057785909601, 53.6641383639061], [-6.22996293937913, 53.6635898128806], [-6.22632030671156, 53.6573342493853], [-6.22466337965394, 53.6552467321421], [-6.2235829819611, 53.654537578401], [-6.22097364392305, 53.6542908420916], [-6.22147674999513, 53.6539521190726], [-6.2214818715469, 53.6532486522792], [-6.22018513789287, 53.6486992547431], [-6.21667314873129, 53.6419961257187], [-6.21329741909453, 53.6368006278216], [-6.21261311969315, 53.6340610714318], [-6.21316443936105, 53.6336851391606], [-6.21321091509626, 53.6336656824371], [-6.21484840310773, 53.6334662063344], [-6.21490220450271, 53.63340609863], [-6.21492794523858, 53.6333773711411], [-6.21655895586276, 53.6328961519536], [-6.21615664535672, 53.6320452503566], [-6.21698619802924, 53.6316141193378], [-6.21775298874692, 53.631925346619], [-6.21803144930492, 53.6311920097284], [-6.21883869583132, 53.6306506043396], [-6.21989712006048, 53.6304576294587], [-6.22079078411978, 53.6307812401476], [-6.22152038817793, 53.6304350095908], [-6.22257392131979, 53.6305133423705], [-6.22314164956232, 53.6298153068479], [-6.22578776360422, 53.6295993133545], [-6.22574126377465, 53.6292264582034], [-6.22459898712735, 53.6291034346251], [-6.22518588298441, 53.6287039602871], [-6.2283635813471, 53.6289936525634], [-6.22866516323252, 53.6285848950814], [-6.22950359454811, 53.6289972131292], [-6.23101437987912, 53.62867785808], [-6.23118089327189, 53.6290871506458], [-6.23272723789013, 53.6291058980392], [-6.2332829364258, 53.629714323904], [-6.2336621447462, 53.6295166992042], [-6.23500859040761, 53.6300166639932], [-6.23562090619617, 53.6298835696579], [-6.23660425425412, 53.6314394457397], [-6.23797489859947, 53.6315899924576], [-6.23733456526349, 53.632601445923], [-6.23854709081294, 53.6328826935249], [-6.23799900625607, 53.6336497020916], [-6.2381342276026, 53.6343470930598], [-6.24020784498296, 53.6344012127616], [-6.24129165924987, 53.6347253432412], [-6.24277267426564, 53.6342150503082], [-6.24587771669231, 53.6342081841986], [-6.24773195077232, 53.6337673735593], [-6.24815787372372, 53.6339940601], [-6.24789459913634, 53.6343118591464], [-6.24855326100586, 53.6338241817586], [-6.24964080311035, 53.6338749828596], [-6.24945680052506, 53.6334560426536], [-6.25111412065634, 53.6333424819136], [-6.25076095949954, 53.6329899446863], [-6.2519059278402, 53.6327057919836], [-6.25407483081195, 53.6331459540397], [-6.25553409473748, 53.6328171885663], [-6.25630498017888, 53.6323621664798], [-6.25619401254906, 53.6319736998898], [-6.25673978022254, 53.6321392417858], [-6.25774590155448, 53.6316778402287], [-6.261393236197, 53.6290067578846], [-6.26100169181762, 53.6276359053092], [-6.26147361908682, 53.6267085419243], [-6.26195957654976, 53.6266348640026], [-6.26186558261753, 53.6269091973443], [-6.26230010814035, 53.6269333214166], [-6.26222547940798, 53.6264693428811], [-6.26291497607334, 53.6263866539402], [-6.26372548869028, 53.62543296387], [-6.26521432990095, 53.6252589473918], [-6.26521448426545, 53.6249157354133], [-6.2661460610755, 53.6248968357762], [-6.2679474839221, 53.6238825850521], [-6.26770058705586, 53.6223681120403], [-6.26712032958848, 53.6223143406405], [-6.2670013970573, 53.6209672725311], [-6.26758885894627, 53.620559755013], [-6.2671764964358, 53.6204954360063], [-6.26758014269927, 53.6199483824768], [-6.2671779825542, 53.6191215034731], [-6.26774303439374, 53.6184344209725], [-6.26711275816816, 53.6172789728936], [-6.26771523588443, 53.6172026095925], [-6.2681967205374, 53.6166522049144], [-6.26850284862289, 53.6156564803409], [-6.26898347029186, 53.615918128598], [-6.26946435611425, 53.6155105522649], [-6.27031901719911, 53.6156889581342], [-6.27145232944586, 53.6153674595918], [-6.2713879502685, 53.615104141797], [-6.27211129662289, 53.6152605322091], [-6.27304052563391, 53.6149294745244], [-6.27275895065925, 53.6146527765556], [-6.27359998220268, 53.6139523760246], [-6.2729207983714, 53.6133225292149], [-6.273065273088, 53.6129371894167], [-6.27389644620248, 53.612212197964], [-6.2733917256802, 53.6114443290603], [-6.27292279075587, 53.6115897235256], [-6.2726930720346, 53.6113602132215], [-6.27318019056901, 53.611025494875], [-6.27280390541217, 53.6108210482822], [-6.27290790339692, 53.609960877514], [-6.27265103186594, 53.6097573540685], [-6.2723367796209, 53.6099739151211], [-6.2722519280304, 53.6091919253046], [-6.27165115303389, 53.6090878975355], [-6.27230785108003, 53.6088149962614], [-6.27223185230629, 53.6083096418484], [-6.27169380796209, 53.6082100522298], [-6.27256836177052, 53.6076038224118], [-6.27240915243314, 53.6069526269248], [-6.27188654004349, 53.606883738293], [-6.27236642928343, 53.6064717771425], [-6.27093768856863, 53.6052199071104], [-6.27114610350147, 53.604367735121], [-6.2723879554659, 53.6037225671118], [-6.27185159509223, 53.6028048566523], [-6.27126516722772, 53.5989162205285], [-6.2724354112877, 53.5974693080067], [-6.2774142549062, 53.59531838717], [-6.28000789800242, 53.5948458488743], [-6.28072564263489, 53.5942488643331], [-6.28198708605375, 53.5939609451967], [-6.28214804228733, 53.5929314097037], [-6.28106873591638, 53.5925055883331], [-6.28203451954637, 53.5922796149593], [-6.28177488995575, 53.5918924329006], [-6.28241311626096, 53.5919984771751], [-6.28232204133558, 53.5915652543708], [-6.28307689431636, 53.591790385594], [-6.28338437455287, 53.591320631854], [-6.28417870687239, 53.5912425728513], [-6.28451532749772, 53.5909092637465], [-6.28479438569116, 53.5910693913712], [-6.28562822371398, 53.5904523100842], [-6.2856719728085, 53.5891780255814], [-6.28767592842654, 53.5881051001993], [-6.28998198947596, 53.5884799189767], [-6.29142218063719, 53.5883533868797], [-6.29507517510415, 53.5873287680637], [-6.29712193504207, 53.5878611726575], [-6.29940651477462, 53.5877535725089], [-6.29961051179596, 53.5880515665142], [-6.30057569443319, 53.5880944656065], [-6.3013773647879, 53.587804367753], [-6.301269057743, 53.5875340158621], [-6.3021056059183, 53.5871109138177], [-6.30188140682631, 53.5868715249027], [-6.3030364087664, 53.586454437728], [-6.30502176132878, 53.5863490196183], [-6.30754751816581, 53.5853025979885], [-6.30838751266694, 53.5845605720683], [-6.31039630363707, 53.5840603776369], [-6.31351312029075, 53.5802180290733], [-6.31484810903443, 53.5776701407555], [-6.3220552160745, 53.5743803545742], [-6.32851746374389, 53.5733376962777], [-6.33012420088155, 53.5721993327005], [-6.33334788316408, 53.5718753798257], [-6.33541105101123, 53.5725216661934], [-6.33664099335636, 53.573533050831], [-6.33740936218443, 53.5749917507537], [-6.33658761852342, 53.5761915428402], [-6.34000966959368, 53.575777639295], [-6.34266035281967, 53.5744767515488], [-6.34802068776506, 53.5745810886534], [-6.34885881787418, 53.5749356137094], [-6.34880769548165, 53.5763706175866], [-6.34746164332448, 53.5767346242149], [-6.34618892833346, 53.5796167188206], [-6.34322438662035, 53.5802465244124], [-6.34272725407098, 53.5819805508181], [-6.34455401377276, 53.5821272431944], [-6.34657686451324, 53.5811013632637], [-6.34857491353853, 53.5813483455684], [-6.35466262015945, 53.5837979167351], [-6.35992053156638, 53.5851003978338], [-6.36079700676336, 53.5857575721092], [-6.36259134072834, 53.5857797652483], [-6.36257909836384, 53.5860573518594], [-6.36486636690842, 53.5862733170177], [-6.36625229091729, 53.5868589870475], [-6.36886270388777, 53.5888401006025], [-6.37194558408666, 53.5880412774561], [-6.37565604258683, 53.5881996955383], [-6.37770316396279, 53.5888497242045], [-6.37834675219601, 53.5882359768326], [-6.38035201901257, 53.5883321057354], [-6.38524319331875, 53.5894982498293], [-6.3891355471857, 53.5910048131402], [-6.38962730667194, 53.5904728787745], [-6.3894419839522, 53.589408822001], [-6.39038310569294, 53.5872416529473], [-6.38927807876248, 53.5868890696006], [-6.38987223192111, 53.5861003617856], [-6.38924890127169, 53.5860231339747], [-6.38866124093935, 53.5867028436046], [-6.38773173994787, 53.5864348736108], [-6.38813221547614, 53.5854997259486], [-6.386267775182, 53.5842481205891], [-6.38782839114885, 53.5822910256001], [-6.38731907757676, 53.5804773161373], [-6.39367019825135, 53.5810236505978], [-6.39429005515707, 53.58085729887], [-6.40122733004945, 53.5770500428748], [-6.40208589304866, 53.5751411965562], [-6.40116425797996, 53.5739689393633], [-6.40198588706789, 53.5734374004306], [-6.40549825287151, 53.5729880254265], [-6.40721614890638, 53.5724454596474], [-6.40961485251285, 53.573075647837], [-6.41027108639384, 53.5728609670682], [-6.41162954297865, 53.5730418794011], [-6.41204452937469, 53.5726455181893], [-6.41448079118973, 53.5734081076898], [-6.41652540732051, 53.5725944314334], [-6.41766391496435, 53.5714213120584], [-6.41889107544156, 53.5717424088921], [-6.41931197465548, 53.5730348243914], [-6.42119981857152, 53.5744383915178], [-6.42970029158852, 53.575664033327], [-6.42959630735488, 53.5763281259628], [-6.43075611104784, 53.57682763389], [-6.43151181940053, 53.5761840059002], [-6.43461888403035, 53.5776025208089], [-6.43542798359457, 53.5791897767471], [-6.43163965632201, 53.5810419158126], [-6.4306676606285, 53.5825205008531], [-6.42932856530113, 53.5834950713053], [-6.42996317875793, 53.58527597393], [-6.42963787576706, 53.5856422879479], [-6.43143251526868, 53.5858980362009], [-6.4335000979877, 53.5877044401697], [-6.43620212516242, 53.5891288987663], [-6.43777306420268, 53.5910484647218], [-6.43989275523069, 53.5920380445945], [-6.4388363035221, 53.5946775633739], [-6.44100155872815, 53.5947257691922], [-6.44124833744262, 53.5952416964496], [-6.44417107382695, 53.5948720131232], [-6.44691033518044, 53.5949797478386], [-6.45083123885569, 53.5955814198233], [-6.45282437843022, 53.5954713478807], [-6.45259348128033, 53.5963672300318], [-6.4516373437297, 53.5967899271494], [-6.45169472996372, 53.5976585851465], [-6.4524380003145, 53.5980689459947], [-6.45127367880297, 53.5985255983587], [-6.45201583271513, 53.5995151025061], [-6.4520101601987, 53.6007098107682], [-6.4507240770967, 53.6018919272285], [-6.44923741171142, 53.6026024262318], [-6.44859549869633, 53.6045584326477], [-6.44782852487026, 53.6051071668974], [-6.44772834194229, 53.6058235377261], [-6.4512091179613, 53.6062653618937], [-6.44816471572961, 53.6081541759915], [-6.44655450242308, 53.6086277741933], [-6.44572626279288, 53.6095699546901], [-6.44637882606234, 53.6100749171311], [-6.44599793561254, 53.6108464373877], [-6.44646448605183, 53.6120953412578], [-6.44689836446476, 53.6116257325006], [-6.44772809767442, 53.6116204834247], [-6.44799015945578, 53.6139553834458], [-6.4500255709731, 53.6177111787479], [-6.45108183190503, 53.6220446894068], [-6.45109313008167, 53.6225395155508], [-6.45046165667381, 53.6229311308954], [-6.45089168954828, 53.6238405510407], [-6.45283938241813, 53.6254572938702], [-6.45158487275532, 53.625688215728], [-6.4496826769108, 53.6255834660001], [-6.44822078299706, 53.6261286364295], [-6.44510207010637, 53.6269928102933], [-6.44389685716363, 53.6278365916581], [-6.43929596385597, 53.6293477205929], [-6.43863470727001, 53.6291728720591], [-6.43786864952307, 53.6295009308897], [-6.43066101130386, 53.6298243392087], [-6.42797871606278, 53.6335520581209], [-6.42826516557776, 53.6351830955434], [-6.42973006936689, 53.6369537603267], [-6.42983305777212, 53.6378192941803], [-6.42860779835282, 53.6396701758808], [-6.42780315429824, 53.6397971449711], [-6.42719612233848, 53.6406688830633], [-6.42612766849268, 53.6412046571841], [-6.42542861705786, 53.6406616875382], [-6.42287375976794, 53.6399660778652], [-6.42098696030142, 53.6413806388307], [-6.41940382730817, 53.6405538442324], [-6.41627085834225, 53.6400326969244], [-6.41394782854675, 53.6400752483101], [-6.40884820075093, 53.6416782529149], [-6.4080689332994, 53.6415018561254], [-6.40213989486985, 53.642303810292], [-6.39634012136183, 53.6421141186297], [-6.39653098461161, 53.6442340726692], [-6.39644257809628, 53.6449551703354], [-6.39608789628305, 53.644973920678], [-6.39775051202341, 53.6481334860119], [-6.40106284967773, 53.6495019235352], [-6.39989406702369, 53.6503093910552], [-6.39769644080513, 53.6493400547109], [-6.39358815767406, 53.6506596247568], [-6.39257943882794, 53.6489832495447], [-6.39018017795406, 53.6495502057588], [-6.39057843642608, 53.6508683049341], [-6.38980145752909, 53.6511616972612], [-6.39258496311123, 53.6535075758503], [-6.3937610419132, 53.653076934219], [-6.39442289256437, 53.6532172822063], [-6.39683749882623, 53.6572250405727], [-6.39841167100808, 53.6569289776734], [-6.40083706484259, 53.657147405901], [-6.40820255466492, 53.6560235475527], [-6.40815423213905, 53.6562768644635], [-6.40971520515727, 53.6567237790419], [-6.41203672970085, 53.6564306414793], [-6.41228179112972, 53.6571309339561], [-6.40686764686038, 53.6597824313389], [-6.40189644885747, 53.663019859389], [-6.39806202957965, 53.6642275917843], [-6.39572668760084, 53.6654114307352], [-6.39412910422462, 53.665730477511], [-6.39494187303979, 53.6675328706816], [-6.39317296233921, 53.6678992731155], [-6.3923715634612, 53.6674004045909], [-6.39187002188667, 53.667528256947], [-6.39141732612202, 53.6667325255147], [-6.3848948322792, 53.6671599427471], [-6.38363568531392, 53.6632860876488], [-6.37994728651075, 53.6644326162791], [-6.37925940371417, 53.6638694865967], [-6.37640742551688, 53.664759704477], [-6.37402577926396, 53.661748702507], [-6.37122330885543, 53.661649502096], [-6.37126854698215, 53.66123489371], [-6.37059989108246, 53.6612712091104], [-6.36991509409596, 53.6607957397214], [-6.36908439520438, 53.6612323198296]]]]}}]
+var ajax=false
+var epsg=""
+var dateatt=""
+var map = L.map('map',{fullscreenControl: true,fullscreenControlOptions: {position: 'topleft'}}).setView([51.505, -0.09], 13);
+var baseMaps = {};
+props={}
+setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map,featurecolls,dateatt,ajax)
+</script>
+<div style="overflow-x:auto;"><table border=1 width=100% class=description><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://ontology.ogham.link/exactMatch">exactMatch <span style="color: #666;">(oghamonto:exactMatch)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://ontology.ogham.link/exactMatch" property="http://ontology.ogham.link/exactMatch" resource="http://www.wikidata.org/entity/Q59419950" target="_blank" href="http://www.wikidata.org/entity/Q59419950">Q59419950 <span style="color: #666;">(wde:Q59419950)</span></a> <a href="../nonns_Q59419950.html">[x]</a></span></td></tr><tr class="even"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.opengis.net/ont/geosparql#hasGeometry">hasGeometry <span style="color: #666;">(gsp:hasGeometry)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://www.opengis.net/ont/geosparql#hasGeometry" property="http://www.opengis.net/ont/geosparql#hasGeometry" resource="http://lod.ogham.link/data/GSD5000094_geom" href="../GSD5000094_geom/index.html">GSD5000094_geom <span style="color: #666;">(fsld:GSD5000094_geom)</span></a></span></td></tr><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">type <span style="color: #666;">(rdf:type)</span></a> </span></td><td class="wrapword"><ul><li><span><a itemprop="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" property="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" resource="http://ontology.ogham.link/Barony" target="_blank" href="http://ontology.ogham.link/Barony">Barony <span style="color: #666;">(oghamonto:Barony)</span></a> <a href="../nonns_Barony.html">[x]</a></span></li><li><span><a itemprop="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" property="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" resource="http://ontologies.geohive.ie/osi#Barony" target="_blank" href="http://ontologies.geohive.ie/osi#Barony">Barony <span style="color: #666;">(Barony)</span></a> <a href="../nonns_Barony.html">[x]</a></span></li><li><span><a itemprop="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" property="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" resource="http://www.opengis.net/ont/geosparql#Feature" target="_blank" href="http://www.opengis.net/ont/geosparql#Feature">Feature <span style="color: #666;">(gsp:Feature)</span></a> <a href="../nonns_Feature.html">[x]</a></span></li></ul></td></tr><tr class="even"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/2000/01/rdf-schema#label">label <span style="color: #666;">(rdfs:label)</span></a> </span></td><td class="wrapword"><ul><li><span itemprop="http://www.w3.org/2000/01/rdf-schema#label" property="http://www.w3.org/2000/01/rdf-schema#label" content="Damhliag Uachtarach" datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString" xml:lang="en">Damhliag Uachtarach <small>(<a style="color: #666;" target="_blank" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">rdf:langString</a>) (<a href="http://www.lexvo.org/page/iso639-1/en" target="_blank">iso6391:en</a>)</small></span></li><li><span itemprop="http://www.w3.org/2000/01/rdf-schema#label" property="http://www.w3.org/2000/01/rdf-schema#label" content="Duleek Upper" datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString" xml:lang="en">Duleek Upper <small>(<a style="color: #666;" target="_blank" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">rdf:langString</a>) (<a href="http://www.lexvo.org/page/iso639-1/en" target="_blank">iso6391:en</a>)</small></span></li></ul></td></tr><tr class="odd"><td class="property">Is <span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/2000/01/rdf-schema#member">member <span style="color: #666;">(rdfs:member)</span></a> </span> of</td><td class="wrapword"><ul><li><span><a itemprop="http://www.w3.org/2000/01/rdf-schema#member" itemref="http://lod.ogham.link/data/Barony_collection" property="http://www.w3.org/2000/01/rdf-schema#member"  about="http://lod.ogham.link/data/Barony_collection" resource="http://lod.ogham.link/data/GSD5000094" href="../Barony_collection/index.html">Barony Instances Collection <span style="color: #666;">(fsld:Barony_collection)</span></a></span></li><li><span><a itemprop="http://www.w3.org/2000/01/rdf-schema#member" itemref="http://lod.ogham.link/data/Feature_collection" property="http://www.w3.org/2000/01/rdf-schema#member"  about="http://lod.ogham.link/data/Feature_collection" resource="http://lod.ogham.link/data/GSD5000094" href="../Feature_collection/index.html">Feature Instances Collection <span style="color: #666;">(fsld:Feature_collection)</span></a></span></li></ul></td></tr></tbody></table></div><h5>Metadata</h5><div style="overflow-x:auto;"><table border=1 width=100% class=description><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://purl.org/dc/terms/creator">creator <span style="color: #666;">(terms:creator)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://purl.org/dc/terms/creator" property="http://purl.org/dc/terms/creator" resource="https://orcid.org/0000-0002-3246-3531" target="_blank" href="https://orcid.org/0000-0002-3246-3531">0000-0002-3246-3531 <span style="color: #666;">(0000-0002-3246-3531)</span></a> <a href="../nonns_0000-0002-3246-3531.html">[x]</a></span></td></tr><tr class="even"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://purl.org/dc/terms/license">license <span style="color: #666;">(terms:license)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://purl.org/dc/terms/license" property="http://purl.org/dc/terms/license" resource="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">deed.de <span style="color: #666;">(deed.de)</span></a> <a href="../nonns_deed.de.html">[x]</a></span></td></tr><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://purl.org/dc/terms/rightsHolder">rightsHolder <span style="color: #666;">(terms:rightsHolder)</span></a> </span></td><td class="wrapword"><ul><li><span><a itemprop="http://purl.org/dc/terms/rightsHolder" property="http://purl.org/dc/terms/rightsHolder" resource="http://www.wikidata.org/entity/Q3355441" target="_blank" href="http://www.wikidata.org/entity/Q3355441">Q3355441 <span style="color: #666;">(wde:Q3355441)</span></a> <a href="../nonns_Q3355441.html">[x]</a></span></li><li><span><a itemprop="http://purl.org/dc/terms/rightsHolder" property="http://purl.org/dc/terms/rightsHolder" resource="http://www.wikidata.org/entity/Q85384744" target="_blank" href="http://www.wikidata.org/entity/Q85384744">Q85384744 <span style="color: #666;">(wde:Q85384744)</span></a> <a href="../nonns_Q85384744.html">[x]</a></span></li></ul></td></tr><tr class="even"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://rdfs.org/ns/void#inDataset">inDataset <span style="color: #666;">(void:inDataset)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://rdfs.org/ns/void#inDataset" property="http://rdfs.org/ns/void#inDataset" resource="http://lod.ogham.link/data/Linked_Open_Ogham" href="../Linked_Open_Ogham/index.html">Linked_Open_Ogham <span style="color: #666;">(fsld:Linked_Open_Ogham)</span></a> <span style="font-weight:bold">[2481 <a href="http://ontology.ogham.link/OghamStone_O3D" target="_blank">oghamonto:OghamStone_O3D</a>]</span></span></td></tr><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/ns/prov#wasAttributedTo">wasAttributedTo <span style="color: #666;">(prov:wasAttributedTo)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://www.w3.org/ns/prov#wasAttributedTo" property="http://www.w3.org/ns/prov#wasAttributedTo" resource="http://lod.ogham.link/data/PythonStonesCIIC" href="../PythonStonesCIIC/index.html">PythonStonesCIIC <span style="color: #666;">(fsld:PythonStonesCIIC)</span></a></span></td></tr><tr class="even"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/ns/prov#wasDerivedFrom">wasDerivedFrom <span style="color: #666;">(prov:wasDerivedFrom)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://www.w3.org/ns/prov#wasDerivedFrom" property="http://www.w3.org/ns/prov#wasDerivedFrom" resource="https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/geodata/gs_baronies.csv" target="_blank" href="https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/geodata/gs_baronies.csv">gs_baronies.csv <span style="color: #666;">(gs_baronies.csv)</span></a> <a href="../nonns_gs_baronies.csv.html">[x]</a></span></td></tr><tr class="odd"><td class="property"><span class="property-name"><a class="uri" target="_blank" href="http://www.w3.org/ns/prov#wasGeneratedBy">wasGeneratedBy <span style="color: #666;">(prov:wasGeneratedBy)</span></a> </span></td><td class="wrapword"><span><a itemprop="http://www.w3.org/ns/prov#wasGeneratedBy" property="http://www.w3.org/ns/prov#wasGeneratedBy" resource="http://lod.ogham.link/data/GSD5000094_activity" href="../GSD5000094_activity/index.html">GSD5000094_activity <span style="color: #666;">(fsld:GSD5000094_activity)</span></a></span></td></tr></tbody></table></div><div id="footer">
+    <center style="padding-top:30px;font-size:11px;"><b>published under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> by Research Squirrel Engineers Network</b><br><a href="https://fthiery.de/legal-notice/">Impressum / Legal Notice</a>
+        | <a href="https://fthiery.de/legal-notice/">Datenschutz / Privacy Policy</a></center>
+</div>
+
+<script>$(document).ready(function(){setSVGDimensions()})</script>
+
+</body></html>
