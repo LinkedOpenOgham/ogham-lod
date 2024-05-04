@@ -1,9 +1,7 @@
 # Linked Open Ogham
 
 <center>
-<img src="https://github.com/ogi-ogham/ogham-datav1/raw/main/img/OgiOghamLogo.png" height="200">
-<br>
-<img src="https://github.com/ogi-ogham/ogham-datav1/raw/main/img/FellowLogo.png" height="150">
+<img src="[https://github.com/ogi-ogham/ogham-datav1/raw/main/img/OgiOghamLogo.png](https://raw.githubusercontent.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/main/icons/linkedopenogham_icon_whitebg.png)" height="200">
 </center>
 
 ## Introduction
