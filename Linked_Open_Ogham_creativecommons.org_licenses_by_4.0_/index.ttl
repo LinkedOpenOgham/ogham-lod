@@ -1,0 +1,14 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_creativecommons.org_licenses_by_4.0_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: Linked_Open_Ogham - 4.0"@en ;
+    void:linkPredicate dcterms:license ;
+    void:objectsTarget <https://creativecommons.org/licenses/by/4.0/> ;
+    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    void:triples 231 .
+

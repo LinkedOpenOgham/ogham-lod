@@ -1,0 +1,30 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/OS40000034> a ns1:OghamSite,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://pleiades.stoa.org/places/vocab#Place>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Ballynahunt (Ogham Site)"@en ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q85395518> ;
+    ns1:label_barony "Corkaguiny" ;
+    ns1:label_country "Ireland" ;
+    ns1:label_county "Kerry" ;
+    ns1:label_province "Munster" ;
+    ns1:label_townland "Ballynahunt" ;
+    ns1:representativePoint <http://lod.ogham.link/data/OS40000034_geom> ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,
+        <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-4696-2101> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    geo:hasGeometry <http://lod.ogham.link/data/OS40000034_geom> ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_sites.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/OS40000034_activity> .
+
