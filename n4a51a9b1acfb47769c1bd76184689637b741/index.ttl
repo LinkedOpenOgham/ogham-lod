@@ -1,0 +1,9 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+[] a ns1:ReferenceChain,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    ns1:referenceList "['ogham:Y10000097', 'ogham:Y20000227', 'ogham:Y30000046', 'ogham:macalister_1945:186', 'ogham:cisp:KFNTN_1', 'ogham:o3d:186._Kilfountain', 'ogham:okasha_forsyth_2001:Kilfountan_1', 'ogham:ferguson_1887:37']" ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

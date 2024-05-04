@@ -123,316 +123,8 @@ var minivowlresult={
  ],
  "links": [
   {
-   "source": 14,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 14,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 16,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
    "source": 20,
    "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 5,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -446,7 +138,7 @@ var minivowlresult={
   },
   {
    "source": 20,
-   "target": 4,
+   "target": 5,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -460,13 +152,6 @@ var minivowlresult={
   },
   {
    "source": 20,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
    "target": 3,
    "valueTo": "equals",
    "propertyTo": "class",
@@ -474,42 +159,7 @@ var minivowlresult={
   },
   {
    "source": 20,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 20,
-   "target": 19,
+   "target": 9,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -522,547 +172,85 @@ var minivowlresult={
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 9,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
+   "source": 20,
    "target": 16,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 9,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
+   "source": 20,
    "target": 10,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 9,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
+   "source": 20,
    "target": 7,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 9,
-   "target": 1,
+   "source": 20,
+   "target": 2,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 9,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 9,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
+   "source": 20,
    "target": 17,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 12,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
+   "source": 20,
    "target": 1,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 12,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 12,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
+   "source": 20,
    "target": 14,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 13,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
+   "source": 20,
    "target": 12,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 13,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 13,
+   "source": 20,
    "target": 19,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 13,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
+   "source": 20,
    "target": 13,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 5,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
+   "source": 20,
    "target": 4,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 5,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
+   "source": 20,
    "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 5,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 16,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1076,21 +264,7 @@ var minivowlresult={
   },
   {
    "source": 18,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 13,
+   "target": 18,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1104,28 +278,7 @@ var minivowlresult={
   },
   {
    "source": 18,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
    "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 17,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1139,21 +292,28 @@ var minivowlresult={
   },
   {
    "source": 18,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 18,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 18,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 18,
    "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 18,
-   "target": 2,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1167,7 +327,35 @@ var minivowlresult={
   },
   {
    "source": 18,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 18,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 18,
    "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 18,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 18,
+   "target": 12,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1181,154 +369,154 @@ var minivowlresult={
   },
   {
    "source": 18,
-   "target": 6,
+   "target": 13,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
-   "target": 14,
+   "source": 18,
+   "target": 4,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
-   "target": 16,
+   "source": 18,
+   "target": 8,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
+   "source": 5,
    "target": 20,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
+   "source": 5,
    "target": 18,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
-   "target": 4,
+   "source": 5,
+   "target": 5,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
+   "source": 5,
    "target": 11,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
+   "source": 5,
    "target": 3,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
-   "target": 10,
+   "source": 5,
+   "target": 9,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 4,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 4,
+   "source": 5,
    "target": 6,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 11,
+   "source": 5,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
    "target": 14,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 11,
-   "target": 16,
+   "source": 5,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 5,
+   "target": 8,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1342,21 +530,7 @@ var minivowlresult={
   },
   {
    "source": 11,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 13,
+   "target": 18,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1370,28 +544,7 @@ var minivowlresult={
   },
   {
    "source": 11,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
    "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 17,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1405,196 +558,98 @@ var minivowlresult={
   },
   {
    "source": 11,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 11,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
    "target": 9,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 17,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 17,
+   "source": 11,
    "target": 6,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 3,
+   "source": 11,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
    "target": 14,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 3,
-   "target": 16,
+   "source": 11,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 11,
+   "target": 8,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1608,21 +663,7 @@ var minivowlresult={
   },
   {
    "source": 3,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 3,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 3,
-   "target": 13,
+   "target": 18,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1636,28 +677,7 @@ var minivowlresult={
   },
   {
    "source": 3,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 3,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 3,
    "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 3,
-   "target": 17,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1671,21 +691,28 @@ var minivowlresult={
   },
   {
    "source": 3,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 3,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 3,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 3,
    "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 3,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 3,
-   "target": 2,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1699,7 +726,35 @@ var minivowlresult={
   },
   {
    "source": 3,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 3,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 3,
    "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 3,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 3,
+   "target": 12,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -1713,819 +768,154 @@ var minivowlresult={
   },
   {
    "source": 3,
-   "target": 6,
+   "target": 13,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 10,
-   "target": 14,
+   "source": 3,
+   "target": 4,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 10,
-   "target": 16,
+   "source": 3,
+   "target": 8,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 10,
+   "source": 9,
    "target": 20,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 10,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
+   "source": 9,
    "target": 18,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 10,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 10,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
+   "source": 9,
    "target": 5,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 8,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
+   "source": 9,
    "target": 11,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 8,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
+   "source": 9,
    "target": 3,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 8,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 8,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
+   "source": 9,
    "target": 9,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 2,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 2,
+   "source": 9,
    "target": 6,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 7,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
+   "source": 9,
    "target": 16,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 7,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
+   "source": 9,
    "target": 10,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 7,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
+   "source": 9,
    "target": 7,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 7,
-   "target": 1,
+   "source": 9,
+   "target": 2,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 7,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 7,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 14,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
+   "source": 9,
    "target": 17,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 1,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
+   "source": 9,
    "target": 1,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 1,
-   "target": 19,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 1,
-   "target": 6,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
+   "source": 9,
    "target": 14,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 19,
-   "target": 16,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 20,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
+   "source": 9,
    "target": 12,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 19,
-   "target": 13,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 5,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 17,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 3,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 2,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 7,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
-   "target": 1,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 19,
+   "source": 9,
    "target": 19,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 19,
-   "target": 6,
+   "source": 9,
+   "target": 13,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 6,
-   "target": 14,
+   "source": 9,
+   "target": 4,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
   },
   {
-   "source": 6,
-   "target": 16,
+   "source": 9,
+   "target": 8,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -2539,21 +929,7 @@ var minivowlresult={
   },
   {
    "source": 6,
-   "target": 9,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 6,
-   "target": 12,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 6,
-   "target": 13,
+   "target": 18,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -2567,28 +943,7 @@ var minivowlresult={
   },
   {
    "source": 6,
-   "target": 18,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 6,
-   "target": 4,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 6,
    "target": 11,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 6,
-   "target": 17,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -2602,21 +957,28 @@ var minivowlresult={
   },
   {
    "source": 6,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
    "target": 10,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 6,
-   "target": 8,
-   "valueTo": "equals",
-   "propertyTo": "class",
-   "uriTo": "http://ontology.ogham.link/equals"
-  },
-  {
-   "source": 6,
-   "target": 2,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -2630,7 +992,35 @@ var minivowlresult={
   },
   {
    "source": 6,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
    "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
+   "target": 12,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
@@ -2644,7 +1034,1617 @@ var minivowlresult={
   },
   {
    "source": 6,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 6,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
    "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 16,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 10,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 7,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 2,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 17,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 1,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 14,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 12,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 19,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 13,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 4,
+   "target": 8,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 20,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 18,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 5,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 11,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 3,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 9,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 6,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 16,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 10,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 7,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 2,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 17,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 1,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 14,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 12,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 19,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 13,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 4,
+   "valueTo": "equals",
+   "propertyTo": "class",
+   "uriTo": "http://ontology.ogham.link/equals"
+  },
+  {
+   "source": 8,
+   "target": 8,
    "valueTo": "equals",
    "propertyTo": "class",
    "uriTo": "http://ontology.ogham.link/equals"
