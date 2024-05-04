@@ -3584,7 +3584,9 @@ var tree={
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 3
@@ -3625,7 +3627,9 @@ var tree={
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 3
@@ -3666,7 +3670,9 @@ var tree={
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 4
@@ -3676,9 +3682,11 @@ var tree={
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 291,
-              "http://ontology.ogham.link/Barony": 96,
-              "http://www.opengis.net/ont/geosparql#Feature": 96,
-              "http://ontologies.geohive.ie/osi#Barony": 96
+              "http://ontology.ogham.link/Barony": 97,
+              "http://www.opengis.net/ont/geosparql#Feature": 97,
+              "http://ontologies.geohive.ie/osi#Barony": 97,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             }
           },
           "from": {}
@@ -40895,7 +40903,7 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#altLabel": {
-              "instancecount": 2
+              "instancecount": 4
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 2
@@ -40920,7 +40928,7 @@ var tree={
             }
           }
         },
-        "instancecount": 20
+        "instancecount": 22
       },
       {
         "id": "http://lod.ogham.link/data/OW1_suniv2_",
@@ -41027,7 +41035,7 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#altLabel": {
-              "instancecount": 2
+              "instancecount": 4
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 2
@@ -41052,7 +41060,7 @@ var tree={
             }
           }
         },
-        "instancecount": 21
+        "instancecount": 23
       },
       {
         "id": "http://lod.ogham.link/data/OW1_activity",
@@ -41922,7 +41930,7 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#altLabel": {
-              "instancecount": 20
+              "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 2
@@ -41947,7 +41955,7 @@ var tree={
             }
           }
         },
-        "instancecount": 39
+        "instancecount": 21
       },
       {
         "id": "http://lod.ogham.link/data/Word_collection",
@@ -50328,7 +50336,10 @@ var tree={
         "text": "Location (Location) [595]",
         "data": {
           "to": {
-            "http://ontology.ogham.link/sitetype": {
+            "http://ontology.ogham.link/irishGrid": {
+              "instancecount": 1
+            },
+            "http://ontology.ogham.link/sitecode": {
               "instancecount": 1
             },
             "http://purl.org/dc/terms/creator": {
@@ -50375,7 +50386,7 @@ var tree={
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 14
       },
       {
         "id": "http://lod.ogham.link/data/OL6958697_geom",
@@ -92328,46 +92339,7 @@ var tree={
         "text": "OghamStone_CISP (oghamonto:OghamStone_CISP) [368]",
         "data": {
           "to": {
-            "http://ontology.ogham.link/completeness": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/currentlocation": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/currentsetting": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/discovery_who": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/discovery_year": {
-              "instancecount": 1
-            },
             "http://ontology.ogham.link/exactMatch": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/form": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/h_status": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/height": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/preservation": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/t_status": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/thickness": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/w_status": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/width": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/identifier": {
@@ -92416,7 +92388,7 @@ var tree={
             }
           }
         },
-        "instancecount": 27
+        "instancecount": 14
       },
       {
         "id": "http://lod.ogham.link/data/Y30000001_suniv1_",

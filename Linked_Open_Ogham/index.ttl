@@ -133,8 +133,8 @@
         2 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-04T12:56:57"^^xsd:dateTime,
-        "2024-05-04T12:56:58"^^xsd:dateTime ;
+    dcterms:modified "2024-05-04T13:22:58"^^xsd:dateTime,
+        "2024-05-04T13:22:59"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
