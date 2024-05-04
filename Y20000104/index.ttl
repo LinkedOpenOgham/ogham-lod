@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/Y20000104> a ns1:OghamStone,
+        ns1:OghamStone_CISP,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "CARHA/3 (Ogham Stone Concept by CISP)"@en ;
+    ns1:completeness "inc" ;
+    ns1:currentlocation "earliest" ;
+    ns1:currentsetting "on ground" ;
+    ns1:discovery_who "J.P. McCarthy" ;
+    ns1:discovery_year "1976" ;
+    ns1:equals <http://lod.ogham.link/data/cisp:CARHA_3>,
+        <http://lod.ogham.link/data/power_1992:1034> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q106675408> ;
+    ns1:form "pilsp" ;
+    ns1:preservation "inc" ;
+    dc:identifier "CARHA/3" ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q106628017>,
+        <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:comment "Ogham Stone, Ireland"@en ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/Y20000104_activity> .
+

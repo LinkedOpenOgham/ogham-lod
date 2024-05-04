@@ -1,0 +1,16 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/macalister_1897:50> a ns1:macalister_1897,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "macalister_1897:50" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000101>,
+        <http://lod.ogham.link/data/Y20000118>,
+        <http://lod.ogham.link/data/Y30000050>,
+        <http://lod.ogham.link/data/cisp:COLIN_1>,
+        <http://lod.ogham.link/data/macalister_1945:19>,
+        <http://lod.ogham.link/data/o3d:19._Colbinstown_I> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

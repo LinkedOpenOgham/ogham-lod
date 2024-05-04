@@ -1,0 +1,27 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://lod.ogham.link/data/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+ns1:OP400443 a <http://ontology.ogham.link/Person>,
+        skos:Concept,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "sacattini"@en,
+        "sacattini"@goide ;
+    ns1:label_upper "SACATTINI"@en,
+        "SACATTINI"@goide ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <http://creativecommons.org/licenses/by-nc-sa/3.0/ie/deed.en_US> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q106628017>,
+        <http://www.wikidata.org/entity/Q106674066>,
+        <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset ns1:Linked_Open_Ogham ;
+    skos:prefLabel "sacattini"@en,
+        "sacattini"@goide ;
+    prov:wasAttributedTo ns1:PythonStonesCIIC ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_persons.csv> ;
+    prov:wasGeneratedBy ns1:OP400443_activity .
+

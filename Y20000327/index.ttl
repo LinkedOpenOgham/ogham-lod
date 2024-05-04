@@ -1,0 +1,37 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lod.ogham.link/data/Y20000327> a ns1:OghamStone,
+        ns1:OghamStone_CISP,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "RFILD/2 (Ogham Stone Concept by CISP)"@en ;
+    ns1:completeness "complete" ;
+    ns1:currentlocation "other" ;
+    ns1:currentsetting "inc" ;
+    ns1:discovery_who "R.R. Brash" ;
+    ns1:discovery_year "1879" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000165>,
+        <http://lod.ogham.link/data/cisp:RFILD_2>,
+        <http://lod.ogham.link/data/macalister_1945:244> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q106675663> ;
+    ns1:form "pilsp" ;
+    ns1:h_status "uncertain" ;
+    ns1:height 2.13 ;
+    ns1:preservation "inc" ;
+    dc:identifier "RFILD/2" ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q106628017>,
+        <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:comment "Ogham Stone, Ireland"@en ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/Y20000327_activity> .
+

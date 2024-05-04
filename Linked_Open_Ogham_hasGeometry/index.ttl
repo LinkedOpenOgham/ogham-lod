@@ -8,5 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: hasGeometry"@en ;
     void:property geo:hasGeometry ;
-    void:triples 231 .
+    void:triples 231,
+        595 .
 

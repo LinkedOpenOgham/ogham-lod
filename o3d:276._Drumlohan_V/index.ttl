@@ -1,0 +1,15 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/o3d:276._Drumlohan_V> a ns1:o3d,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "o3d:276._Drumlohan_V" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000203>,
+        <http://lod.ogham.link/data/Y20000178>,
+        <http://lod.ogham.link/data/Y30000103>,
+        <http://lod.ogham.link/data/cisp:DRUML_5>,
+        <http://lod.ogham.link/data/macalister_1945:276> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

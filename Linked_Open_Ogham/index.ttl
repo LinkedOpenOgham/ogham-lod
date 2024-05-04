@@ -34,19 +34,53 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Linked_Open_Ogham"@en ;
-    ns1:averageLiteralLength 17 ;
-    ns1:averageObjectIRILength 42 ;
-    ns1:averagePropertyIRILength 39 ;
-    ns1:averageSubjectIRILength 41 ;
-    ns1:datatypes 2 ;
-    ns1:distinctBlankNodes 0 ;
-    ns1:distinctIRIReferences 2323 ;
-    ns1:distinctLiterals 900 ;
-    ns1:distinctRDFNodes 3223 ;
-    ns1:languages 1 ;
+    ns1:averageLiteralLength 12,
+        13,
+        17,
+        19,
+        24,
+        52 ;
+    ns1:averageObjectIRILength 40,
+        41,
+        42,
+        43,
+        44 ;
+    ns1:averagePropertyIRILength 38,
+        39,
+        40 ;
+    ns1:averageSubjectIRILength 35,
+        39,
+        40,
+        41,
+        43 ;
+    ns1:datatypes 0,
+        1,
+        2 ;
+    ns1:distinctBlankNodes 0,
+        1178 ;
+    ns1:distinctIRIReferences 795,
+        2323,
+        3026,
+        4657,
+        8708,
+        8737 ;
+    ns1:distinctLiterals 350,
+        900,
+        1387,
+        1642,
+        2595,
+        3741 ;
+    ns1:distinctRDFNodes 1145,
+        3223,
+        4413,
+        6299,
+        12478,
+        12481 ;
+    ns1:languages 1,
+        2 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-04T11:22:07"^^xsd:dateTime ;
+    dcterms:modified "2024-05-04T11:35:52"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -56,43 +90,138 @@
     vann:preferredNamespacePrefix "fsld"^^xsd:string ;
     vann:preferredNamespaceUri "http://lod.ogham.link/data/"^^xsd:anyURI ;
     void:classPartition <http://lod.ogham.link/data/Linked_Open_Ogham_Activity>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_CISP>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_Collection>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_Concept>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_FeatureCollection>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_FormulaWord>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_GeographicLocation>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_GeometryCollection>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_Location>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_NomenclatureWord>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamIn3D>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_OghamSite>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_CIIC>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_CISP>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_O3D>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_Squirrel>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_Person>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_Place>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_Point>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_SpatialObjectCollection> ;
-    void:classes 8 ;
+        <http://lod.ogham.link/data/Linked_Open_Ogham_ReferenceChain>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_SpatialObjectCollection>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_SquirrelOgham>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_Word>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_brash_1879>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_brikil_1993>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_cisp>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_cuppage_1986>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_ferguson_1887>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1897>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1902>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1907>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1909>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1945>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1949>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_mcmanus_1991>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_o3d>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_okasha_forsyth_2001>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_osullivan_1996>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_petrie_1872>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_power_1992>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_power_1997>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_raftery_1960> ;
+    void:classes 4,
+        6,
+        7,
+        8,
+        24 ;
     void:dataDump <https://LinkedOpenOgham.github.io/ogham-lod//index.ttl> ;
-    void:distinctObjects 1601 ;
-    void:distinctSubjects 701 ;
-    void:entities 698 ;
+    void:distinctObjects 564,
+        1601,
+        1933,
+        2845,
+        4465,
+        6226 ;
+    void:distinctSubjects 214,
+        701,
+        1080,
+        1793,
+        2481,
+        4239 ;
+    void:entities 214,
+        698,
+        1080,
+        1790,
+        2481,
+        4240 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 21 ;
-    void:propertyPartition <http://lod.ogham.link/data/Linked_Open_Ogham_asWKT>,
+    void:properties 4,
+        13,
+        17,
+        19,
+        21,
+        30 ;
+    void:propertyPartition <http://lod.ogham.link/data/Linked_Open_Ogham_altLabel>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_asWKT>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_comment>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_completeness>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_context>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_creator>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_currentlocation>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_currentsetting>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_depth>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_discovery_who>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_discovery_year>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_endedAtTime>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_equals>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_exactMatch>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_form>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_h_status>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_hasEPSG>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_hasGeometry>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_height>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_identifier>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_irishGrid>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_label>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_label_barony>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_label_country>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_label_county>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_label_province>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_label_townland>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_label_upper>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_lastRecorded>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_license>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_origGeom>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_prefLabel>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_preservation>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_preservation_note>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_reference>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_referenceList>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_representativePoint>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_rightsHolder>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_sitecode>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_sitetype>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_smr_no>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_startedAtTime>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_t_status>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_thickness>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_translation>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_type>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_w_status>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_wasAssociatedWith>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_wasAttributedTo>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_wasDerivedFrom>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_wasGeneratedBy> ;
-    void:triples 7640 ;
+        <http://lod.ogham.link/data/Linked_Open_Ogham_wasGeneratedBy>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_width> ;
+    void:triples 3107,
+        7640,
+        13463,
+        15624,
+        21289,
+        32318 ;
     void:uriSpace "http://lod.ogham.link/data/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,

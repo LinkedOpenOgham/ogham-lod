@@ -1,0 +1,9 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+[] a ns1:ReferenceChain,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    ns1:referenceList "['ogham:Y20000358', 'ogham:cisp:TOURP_6', 'ogham:macalister_1949:924', 'ogham:okasha_forsyth_2001:Toureen_Peacaun_34']" ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

@@ -1,0 +1,34 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lod.ogham.link/data/Y30000062> a ns1:OghamStone,
+        ns1:OghamStone_O3D,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "201. Coolmagort V (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
+    ns1:depth 0.1 ;
+    ns1:equals <http://lod.ogham.link/data/Y10000116>,
+        <http://lod.ogham.link/data/Y20000134>,
+        <http://lod.ogham.link/data/cisp:COOLM_5>,
+        <http://lod.ogham.link/data/macalister_1945:201>,
+        <http://lod.ogham.link/data/o3d:201._Coolmagort_V> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q106674236> ;
+    ns1:height 1.3 ;
+    ns1:smr_no "KE065-078006-" ;
+    ns1:width 0.45 ;
+    dc:identifier "201. Coolmagort V" ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <http://creativecommons.org/licenses/by-nc-sa/3.0/ie/deed.en_US> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q106674066>,
+        <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:comment "Ogham Stone, Ireland"@en ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/Y30000062_activity> .
+

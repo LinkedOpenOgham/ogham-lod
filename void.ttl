@@ -31,85 +31,19 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_creativecommons.org_licenses_by_4.0_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - 4.0"@en ;
-    void:linkPredicate dcterms:license ;
-    void:objectsTarget <https://creativecommons.org/licenses/by/4.0/> ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_github.com_ogi-ogham_ogham-datav1_blob_main_csv_ogham_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - ogham"@en ;
-    void:linkPredicate prov:wasDerivedFrom ;
-    void:objectsTarget <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/> ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
-
 <http://lod.ogham.link/data/Linked_Open_Ogham_ontology.ogham.link_> a void:Linkset ;
     rdfs:label "Linkset: Linked_Open_Ogham - oghamonto:"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://ontology.ogham.link/> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_orcid.org_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - orcid.org"@en ;
-    void:linkPredicate dcterms:creator,
-        dcterms:rightsHolder ;
-    void:objectsTarget <https://orcid.org/> ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231,
-        462 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_pleiades.stoa.org_places_vocab_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - "@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget <https://pleiades.stoa.org/places/vocab#> ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_www.opengis.net_def_crs_EPSG_0_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - 0"@en ;
-    void:linkPredicate <http://ontology.ogham.link/hasEPSG> ;
-    void:objectsTarget <http://www.opengis.net/def/crs/EPSG/0/> ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_www.opengis.net_ont_geosparql_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - The GeoSPARQL Ontology (gsp:)"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget geo: ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 3 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_www.opengis.net_ont_sf_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - Simple Features Vocabulary (sf:)"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget <http://www.opengis.net/ont/sf#> ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
+    void:triples 3364 .
 
 <http://lod.ogham.link/data/Linked_Open_Ogham_www.w3.org_2004_02_skos_core_> a void:Linkset ;
     rdfs:label "Linkset: Linked_Open_Ogham - skos:"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget skos: ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 1 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_www.w3.org_ns_prov_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - W3C Provenance Ontology (prov:)"@en ;
-    void:linkPredicate rdf:type ;
-    void:objectsTarget prov: ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_www.wikidata.org_entity_> a void:Linkset ;
-    rdfs:label "Linkset: Linked_Open_Ogham - Wikidata Entities (wde:)"@en ;
-    void:linkPredicate <http://ontology.ogham.link/exactMatch>,
-        dcterms:rightsHolder ;
-    void:objectsTarget <http://www.wikidata.org/entity/> ;
-    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
+    void:triples 22 .
 
 <http://lod.ogham.link/data/adms_Linked_Open_Ogham_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in Linked_Open_Ogham" ;
@@ -153,8 +87,7 @@
 
 <http://lod.ogham.link/data/geo_Linked_Open_Ogham_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in Linked_Open_Ogham" ;
-    voaf:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    voaf:occurrences 6 .
+    voaf:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
 
 <http://lod.ogham.link/data/odrl_Linked_Open_Ogham_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in Linked_Open_Ogham" ;
@@ -174,8 +107,7 @@
 
 <http://lod.ogham.link/data/prov_Linked_Open_Ogham_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in Linked_Open_Ogham" ;
-    voaf:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    voaf:occurrences 462 .
+    voaf:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
 
 <http://lod.ogham.link/data/qb_Linked_Open_Ogham_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in Linked_Open_Ogham" ;
@@ -200,7 +132,7 @@
 <http://lod.ogham.link/data/skos_Linked_Open_Ogham_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in Linked_Open_Ogham" ;
     voaf:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    voaf:occurrences 2 .
+    voaf:occurrences 44 .
 
 <http://lod.ogham.link/data/sosa_Linked_Open_Ogham_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in Linked_Open_Ogham" ;
@@ -261,152 +193,192 @@ vext: a voaf:Vocabulary ;
 
 <http://lod.ogham.link/data/Linked_Open_Ogham_Activity> a void:Dataset ;
     rdfs:label "Class Partition: Activity"@en ;
-    void:class prov:Activity ;
-    void:entities 231 .
+    void:class prov:Activity .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_CISP> a void:Dataset ;
+    rdfs:label "Class Partition: CISP"@en ;
+    void:class <http://ontology.ogham.link/CISP> ;
+    void:entities 368 .
 
 <http://lod.ogham.link/data/Linked_Open_Ogham_Collection> a void:Dataset ;
     rdfs:label "Class Partition: Collection"@en ;
     void:class skos:Collection ;
-    void:entities 1 .
+    void:entities 22 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_FeatureCollection> a void:Dataset ;
-    rdfs:label "Class Partition: FeatureCollection"@en ;
-    void:class geo:FeatureCollection ;
+<http://lod.ogham.link/data/Linked_Open_Ogham_Concept> a void:Dataset ;
+    rdfs:label "Class Partition: Concept"@en ;
+    void:class skos:Concept .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_FormulaWord> a void:Dataset ;
+    rdfs:label "Class Partition: FormulaWord"@en ;
+    void:class <http://ontology.ogham.link/FormulaWord> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_NomenclatureWord> a void:Dataset ;
+    rdfs:label "Class Partition: NomenclatureWord"@en ;
+    void:class <http://ontology.ogham.link/NomenclatureWord> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_OghamIn3D> a void:Dataset ;
+    rdfs:label "Class Partition: OghamIn3D"@en ;
+    void:class <http://ontology.ogham.link/OghamIn3D> ;
+    void:entities 162 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone> a void:Dataset ;
+    rdfs:label "Class Partition: OghamStone"@en ;
+    void:class <http://ontology.ogham.link/OghamStone> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_CIIC> a void:Dataset ;
+    rdfs:label "Class Partition: OghamStone_CIIC"@en ;
+    void:class <http://ontology.ogham.link/OghamStone_CIIC> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_CISP> a void:Dataset ;
+    rdfs:label "Class Partition: OghamStone_CISP"@en ;
+    void:class <http://ontology.ogham.link/OghamStone_CISP> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_O3D> a void:Dataset ;
+    rdfs:label "Class Partition: OghamStone_O3D"@en ;
+    void:class <http://ontology.ogham.link/OghamStone_O3D> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_Squirrel> a void:Dataset ;
+    rdfs:label "Class Partition: OghamStone_Squirrel"@en ;
+    void:class <http://ontology.ogham.link/OghamStone_Squirrel> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_Person> a void:Dataset ;
+    rdfs:label "Class Partition: Person"@en ;
+    void:class <http://ontology.ogham.link/Person> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_ReferenceChain> a void:Dataset ;
+    rdfs:label "Class Partition: ReferenceChain"@en ;
+    void:class <http://ontology.ogham.link/ReferenceChain> ;
+    void:entities 1178 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_SquirrelOgham> a void:Dataset ;
+    rdfs:label "Class Partition: SquirrelOgham"@en ;
+    void:class <http://ontology.ogham.link/SquirrelOgham> ;
+    void:entities 317 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_Word> a void:Dataset ;
+    rdfs:label "Class Partition: Word"@en ;
+    void:class <http://ontology.ogham.link/Word> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_brash_1879> a void:Dataset ;
+    rdfs:label "Class Partition: brash_1879"@en ;
+    void:class <http://ontology.ogham.link/brash_1879> ;
     void:entities 2 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_GeometryCollection> a void:Dataset ;
-    rdfs:label "Class Partition: GeometryCollection"@en ;
-    void:class geo:GeometryCollection ;
+<http://lod.ogham.link/data/Linked_Open_Ogham_brikil_1993> a void:Dataset ;
+    rdfs:label "Class Partition: brikil_1993"@en ;
+    void:class <http://ontology.ogham.link/brikil_1993> ;
     void:entities 1 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_OghamSite> a void:Dataset ;
-    rdfs:label "Class Partition: OghamSite"@en ;
-    void:class <http://ontology.ogham.link/OghamSite> ;
-    void:entities 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_cisp> a void:Dataset ;
+    rdfs:label "Class Partition: cisp"@en ;
+    void:class <http://ontology.ogham.link/cisp> ;
+    void:entities 371 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_Place> a void:Dataset ;
-    rdfs:label "Class Partition: Place"@en ;
-    void:class <https://pleiades.stoa.org/places/vocab#Place> ;
-    void:entities 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_Point> a void:Dataset ;
-    rdfs:label "Class Partition: Point"@en ;
-    void:class <http://www.opengis.net/ont/sf#Point> ;
-    void:entities 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_SpatialObjectCollection> a void:Dataset ;
-    rdfs:label "Class Partition: SpatialObjectCollection"@en ;
-    void:class geo:SpatialObjectCollection .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_asWKT> a void:Dataset ;
-    rdfs:label "Property Partition: asWKT"@en ;
-    void:property geo:asWKT ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_creator> a void:Dataset ;
-    rdfs:label "Property Partition: creator"@en ;
-    void:property dcterms:creator ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_cuppage_1986> a void:Dataset ;
+    rdfs:label "Class Partition: cuppage_1986"@en ;
+    void:class <http://ontology.ogham.link/cuppage_1986> ;
+    void:entities 25 .
 
 <http://lod.ogham.link/data/Linked_Open_Ogham_dist_ttl> a adms:AssetDistribution ;
     rdfs:label "Linked_Open_Ogham TTL Distribution"@en ;
     dcat:downloadURL "https://LinkedOpenOgham.github.io/ogham-lod//index.ttl"^^xsd:anyURI ;
     dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_endedAtTime> a void:Dataset ;
-    rdfs:label "Property Partition: endedAtTime"@en ;
-    void:property prov:endedAtTime ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_equals> a void:Dataset ;
+    rdfs:label "Property Partition: equals"@en ;
+    void:property <http://ontology.ogham.link/equals> ;
+    void:triples 8092 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_exactMatch> a void:Dataset ;
-    rdfs:label "Property Partition: exactMatch"@en ;
-    void:property <http://ontology.ogham.link/exactMatch> ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_hasEPSG> a void:Dataset ;
-    rdfs:label "Property Partition: hasEPSG"@en ;
-    void:property <http://ontology.ogham.link/hasEPSG> ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_hasGeometry> a void:Dataset ;
-    rdfs:label "Property Partition: hasGeometry"@en ;
-    void:property geo:hasGeometry ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_ferguson_1887> a void:Dataset ;
+    rdfs:label "Class Partition: ferguson_1887"@en ;
+    void:class <http://ontology.ogham.link/ferguson_1887> ;
+    void:entities 1 .
 
 <http://lod.ogham.link/data/Linked_Open_Ogham_label> a void:Dataset ;
     rdfs:label "Property Partition: label"@en ;
     void:property rdfs:label ;
-    void:triples 231 .
+    void:triples 2186 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_label_barony> a void:Dataset ;
-    rdfs:label "Property Partition: label_barony"@en ;
-    void:property <http://ontology.ogham.link/label_barony> ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1897> a void:Dataset ;
+    rdfs:label "Class Partition: macalister_1897"@en ;
+    void:class <http://ontology.ogham.link/macalister_1897> ;
+    void:entities 28 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_label_country> a void:Dataset ;
-    rdfs:label "Property Partition: label_country"@en ;
-    void:property <http://ontology.ogham.link/label_country> ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1902> a void:Dataset ;
+    rdfs:label "Class Partition: macalister_1902"@en ;
+    void:class <http://ontology.ogham.link/macalister_1902> ;
+    void:entities 3 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_label_county> a void:Dataset ;
-    rdfs:label "Property Partition: label_county"@en ;
-    void:property <http://ontology.ogham.link/label_county> ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1907> a void:Dataset ;
+    rdfs:label "Class Partition: macalister_1907"@en ;
+    void:class <http://ontology.ogham.link/macalister_1907> ;
+    void:entities 27 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_label_province> a void:Dataset ;
-    rdfs:label "Property Partition: label_province"@en ;
-    void:property <http://ontology.ogham.link/label_province> ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1909> a void:Dataset ;
+    rdfs:label "Class Partition: macalister_1909"@en ;
+    void:class <http://ontology.ogham.link/macalister_1909> ;
+    void:entities 1 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_label_townland> a void:Dataset ;
-    rdfs:label "Property Partition: label_townland"@en ;
-    void:property <http://ontology.ogham.link/label_townland> ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1945> a void:Dataset ;
+    rdfs:label "Class Partition: macalister_1945"@en ;
+    void:class <http://ontology.ogham.link/macalister_1945> ;
+    void:entities 648 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_license> a void:Dataset ;
-    rdfs:label "Property Partition: license"@en ;
-    void:property dcterms:license ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1949> a void:Dataset ;
+    rdfs:label "Class Partition: macalister_1949"@en ;
+    void:class <http://ontology.ogham.link/macalister_1949> ;
+    void:entities 6 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_representativePoint> a void:Dataset ;
-    rdfs:label "Property Partition: representativePoint"@en ;
-    void:property <http://ontology.ogham.link/representativePoint> ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_mcmanus_1991> a void:Dataset ;
+    rdfs:label "Class Partition: mcmanus_1991"@en ;
+    void:class <http://ontology.ogham.link/mcmanus_1991> ;
+    void:entities 15 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_rightsHolder> a void:Dataset ;
-    rdfs:label "Property Partition: rightsHolder"@en ;
-    void:property dcterms:rightsHolder ;
-    void:triples 693 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_o3d> a void:Dataset ;
+    rdfs:label "Class Partition: o3d"@en ;
+    void:class <http://ontology.ogham.link/o3d> ;
+    void:entities 162 .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_startedAtTime> a void:Dataset ;
-    rdfs:label "Property Partition: startedAtTime"@en ;
-    void:property prov:startedAtTime ;
-    void:triples 231 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_okasha_forsyth_2001> a void:Dataset ;
+    rdfs:label "Class Partition: okasha_forsyth_2001"@en ;
+    void:class <http://ontology.ogham.link/okasha_forsyth_2001> ;
+    void:entities 3 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_osullivan_1996> a void:Dataset ;
+    rdfs:label "Class Partition: osullivan_1996"@en ;
+    void:class <http://ontology.ogham.link/osullivan_1996> ;
+    void:entities 19 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_petrie_1872> a void:Dataset ;
+    rdfs:label "Class Partition: petrie_1872"@en ;
+    void:class <http://ontology.ogham.link/petrie_1872> ;
+    void:entities 2 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_power_1992> a void:Dataset ;
+    rdfs:label "Class Partition: power_1992"@en ;
+    void:class <http://ontology.ogham.link/power_1992> ;
+    void:entities 11 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_power_1997> a void:Dataset ;
+    rdfs:label "Class Partition: power_1997"@en ;
+    void:class <http://ontology.ogham.link/power_1997> ;
+    void:entities 13 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_raftery_1960> a void:Dataset ;
+    rdfs:label "Class Partition: raftery_1960"@en ;
+    void:class <http://ontology.ogham.link/raftery_1960> ;
+    void:entities 1 .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_referenceList> a void:Dataset ;
+    rdfs:label "Property Partition: referenceList"@en ;
+    void:property <http://ontology.ogham.link/referenceList> ;
+    void:triples 1178 .
 
 <http://lod.ogham.link/data/Linked_Open_Ogham_type> a void:Dataset ;
     rdfs:label "Property Partition: type"@en ;
     void:property rdf:type ;
-    void:triples 924 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_wasAssociatedWith> a void:Dataset ;
-    rdfs:label "Property Partition: wasAssociatedWith"@en ;
-    void:property prov:wasAssociatedWith ;
-    void:triples 231 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_wasAttributedTo> a void:Dataset ;
-    rdfs:label "Property Partition: wasAttributedTo"@en ;
-    void:property prov:wasAttributedTo ;
-    void:triples 232 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_wasDerivedFrom> a void:Dataset ;
-    rdfs:label "Property Partition: wasDerivedFrom"@en ;
-    void:property prov:wasDerivedFrom ;
-    void:triples 232 .
-
-<http://lod.ogham.link/data/Linked_Open_Ogham_wasGeneratedBy> a void:Dataset ;
-    rdfs:label "Property Partition: wasGeneratedBy"@en ;
-    void:property prov:wasGeneratedBy ;
-    void:triples 231 .
+    void:triples 3364 .
 
 dcam: a voaf:Vocabulary ;
     rdfs:label "dcam Vocabulary"@en ;
@@ -461,6 +433,12 @@ doap: a voaf:Vocabulary ;
     vann:preferredNamespacePrefix "doap"^^xsd:string ;
     vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
     voaf:usageInDataset doap:_Linked_Open_Ogham_occ .
+
+geo: a voaf:Vocabulary ;
+    rdfs:label "The GeoSPARQL Ontology"@en ;
+    vann:preferredNamespacePrefix "geo"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
+    voaf:usageInDataset geo:_Linked_Open_Ogham_occ .
 
 rdf: a voaf:Vocabulary ;
     rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
@@ -534,6 +512,12 @@ org: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/org#"^^xsd:anyURI ;
     voaf:usageInDataset org:_Linked_Open_Ogham_occ .
 
+prov: a voaf:Vocabulary ;
+    rdfs:label "W3C Provenance Ontology"@en ;
+    vann:preferredNamespacePrefix "prov"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/prov#"^^xsd:anyURI ;
+    voaf:usageInDataset prov:_Linked_Open_Ogham_occ .
+
 sh: a voaf:Vocabulary ;
     rdfs:label "Shapes Constraint Language (SHACL)"@en ;
     vann:preferredNamespacePrefix "sh"^^xsd:string ;
@@ -580,40 +564,28 @@ wgs: a voaf:Vocabulary ;
     vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
     voaf:usageInDataset wgs:_Linked_Open_Ogham_occ .
 
-geo: a voaf:Vocabulary ;
-    rdfs:label "The GeoSPARQL Ontology"@en ;
-    vann:preferredNamespacePrefix "geo"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
-    voaf:usageInDataset geo:_Linked_Open_Ogham_occ .
-
 skos: a voaf:Vocabulary ;
     rdfs:label "skos Vocabulary"@en ;
     vann:preferredNamespacePrefix "skos"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
     voaf:usageInDataset skos:_Linked_Open_Ogham_occ .
 
-prov: a voaf:Vocabulary ;
-    rdfs:label "W3C Provenance Ontology"@en ;
-    vann:preferredNamespacePrefix "prov"^^xsd:string ;
-    vann:preferredNamespaceUri "http://www.w3.org/ns/prov#"^^xsd:anyURI ;
-    voaf:usageInDataset prov:_Linked_Open_Ogham_occ .
-
 <http://lod.ogham.link/data/Linked_Open_Ogham> a void:Dataset,
         adms:Asset ;
     rdfs:label "Linked_Open_Ogham"@en ;
-    vext:averageLiteralLength 17 ;
-    vext:averageObjectIRILength 42 ;
-    vext:averagePropertyIRILength 39 ;
-    vext:averageSubjectIRILength 41 ;
-    vext:datatypes 2 ;
-    vext:distinctBlankNodes 0 ;
-    vext:distinctIRIReferences 2323 ;
-    vext:distinctLiterals 900 ;
-    vext:distinctRDFNodes 3223 ;
+    vext:averageLiteralLength 52 ;
+    vext:averageObjectIRILength 40 ;
+    vext:averagePropertyIRILength 40 ;
+    vext:averageSubjectIRILength 39 ;
+    vext:datatypes 0 ;
+    vext:distinctBlankNodes 1178 ;
+    vext:distinctIRIReferences 8708 ;
+    vext:distinctLiterals 2595 ;
+    vext:distinctRDFNodes 12481 ;
     vext:languages 1 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-04T11:22:07"^^xsd:dateTime ;
+    dcterms:modified "2024-05-04T11:35:52"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -623,43 +595,53 @@ prov: a voaf:Vocabulary ;
     vann:preferredNamespacePrefix "fsld"^^xsd:string ;
     vann:preferredNamespaceUri "http://lod.ogham.link/data/"^^xsd:anyURI ;
     void:classPartition <http://lod.ogham.link/data/Linked_Open_Ogham_Activity>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_CISP>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_Collection>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_FeatureCollection>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_GeometryCollection>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamSite>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_Place>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_Point>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_SpatialObjectCollection> ;
-    void:classes 8 ;
+        <http://lod.ogham.link/data/Linked_Open_Ogham_Concept>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_FormulaWord>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_NomenclatureWord>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamIn3D>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_CIIC>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_CISP>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_O3D>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_OghamStone_Squirrel>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_Person>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_ReferenceChain>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_SquirrelOgham>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_Word>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_brash_1879>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_brikil_1993>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_cisp>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_cuppage_1986>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_ferguson_1887>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1897>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1902>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1907>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1909>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1945>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_macalister_1949>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_mcmanus_1991>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_o3d>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_okasha_forsyth_2001>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_osullivan_1996>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_petrie_1872>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_power_1992>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_power_1997>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_raftery_1960> ;
+    void:classes 24 ;
     void:dataDump <https://LinkedOpenOgham.github.io/ogham-lod//index.ttl> ;
-    void:distinctObjects 1601 ;
-    void:distinctSubjects 701 ;
-    void:entities 698 ;
+    void:distinctObjects 4465 ;
+    void:distinctSubjects 4239 ;
+    void:entities 4240 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 21 ;
-    void:propertyPartition <http://lod.ogham.link/data/Linked_Open_Ogham_asWKT>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_creator>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_endedAtTime>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_exactMatch>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_hasEPSG>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_hasGeometry>,
+    void:properties 4 ;
+    void:propertyPartition <http://lod.ogham.link/data/Linked_Open_Ogham_equals>,
         <http://lod.ogham.link/data/Linked_Open_Ogham_label>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_label_barony>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_label_country>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_label_county>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_label_province>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_label_townland>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_license>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_representativePoint>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_rightsHolder>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_startedAtTime>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_type>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_wasAssociatedWith>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_wasAttributedTo>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_wasDerivedFrom>,
-        <http://lod.ogham.link/data/Linked_Open_Ogham_wasGeneratedBy> ;
-    void:triples 7640 ;
+        <http://lod.ogham.link/data/Linked_Open_Ogham_referenceList>,
+        <http://lod.ogham.link/data/Linked_Open_Ogham_type> ;
+    void:triples 21289 ;
     void:uriSpace "http://lod.ogham.link/data/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,

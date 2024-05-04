@@ -10,5 +10,6 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget <https://pleiades.stoa.org/places/vocab#> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
+    void:triples 231,
+        595 .
 

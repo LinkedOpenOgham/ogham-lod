@@ -1,0 +1,16 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/o3d:187._Kilmalkedar> a ns1:o3d,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "o3d:187._Kilmalkedar" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000098>,
+        <http://lod.ogham.link/data/Y20000267>,
+        <http://lod.ogham.link/data/Y30000047>,
+        <http://lod.ogham.link/data/cisp:KMKDR_3>,
+        <http://lod.ogham.link/data/cuppage_1986:855_1>,
+        <http://lod.ogham.link/data/macalister_1945:187> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

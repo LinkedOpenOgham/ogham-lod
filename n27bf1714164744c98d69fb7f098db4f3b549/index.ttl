@@ -1,0 +1,9 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+[] a ns1:ReferenceChain,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    ns1:referenceList "['ogham:Y10000001', 'ogham:Y20000222', 'ogham:macalister_1945:1', 'ogham:cisp:INCHA_1', 'ogham:petrie_1872:11']" ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

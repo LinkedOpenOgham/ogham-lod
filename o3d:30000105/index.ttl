@@ -1,0 +1,9 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/o3d:30000105> a <http://ontology.ogham.link/OghamIn3D>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "o3d:30000105" ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

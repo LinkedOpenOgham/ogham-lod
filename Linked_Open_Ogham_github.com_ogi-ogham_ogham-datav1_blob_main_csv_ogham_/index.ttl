@@ -10,5 +10,9 @@
     void:linkPredicate prov:wasDerivedFrom ;
     void:objectsTarget <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
+    void:triples 104,
+        231,
+        538,
+        595,
+        1237 .
 

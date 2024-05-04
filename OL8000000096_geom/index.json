@@ -1,0 +1,1 @@
+{"http://ontology.ogham.link/hasEPSG": ["http://www.opengis.net/def/crs/EPSG/0/4326"], "http://rdfs.org/ns/void#inDataset": ["http://lod.ogham.link/data/Linked_Open_Ogham"], "http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-10.27 52.14)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"]}

@@ -1,0 +1,36 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/Y20000092> a ns1:OghamStone,
+        ns1:OghamStone_CISP,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "BRCKN/1 (Ogham Stone Concept by CISP)"@en ;
+    ns1:completeness "inc" ;
+    ns1:currentlocation "lost" ;
+    ns1:currentsetting "lost" ;
+    ns1:discovery_who "Hitchcock" ;
+    ns1:discovery_year "1848" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000083>,
+        <http://lod.ogham.link/data/Y30000040>,
+        <http://lod.ogham.link/data/cisp:BRCKN_1>,
+        <http://lod.ogham.link/data/cuppage_1986:352>,
+        <http://lod.ogham.link/data/macalister_1945:173>,
+        <http://lod.ogham.link/data/o3d:173._Brackloon> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q106675395> ;
+    ns1:form "inc" ;
+    dc:identifier "BRCKN/1" ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q106628017>,
+        <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:comment "Ogham Stone, Ireland"@en ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/Y20000092_activity> .
+

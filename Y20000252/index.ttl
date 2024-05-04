@@ -1,0 +1,42 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lod.ogham.link/data/Y20000252> a ns1:OghamStone,
+        ns1:OghamStone_CISP,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "KLGRV/4 (Ogham Stone Concept by CISP)"@en ;
+    ns1:completeness "complete" ;
+    ns1:currentlocation "other" ;
+    ns1:currentsetting "on ground" ;
+    ns1:discovery_who "W. Williams" ;
+    ns1:discovery_year "1857" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000217>,
+        <http://lod.ogham.link/data/cisp:KLGRV_4>,
+        <http://lod.ogham.link/data/macalister_1945:289> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q106675573> ;
+    ns1:form "pilsp" ;
+    ns1:h_status "actual" ;
+    ns1:height 1.7 ;
+    ns1:preservation "some" ;
+    ns1:preservation_note "Macalister/1945, 284, `a fracture at the bottom`." ;
+    ns1:t_status "actual" ;
+    ns1:thickness 0.13 ;
+    ns1:w_status "actual" ;
+    ns1:width 0.36 ;
+    dc:identifier "KLGRV/4" ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q106628017>,
+        <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:comment "Ogham Stone, Ireland"@en ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/Y20000252_activity> .
+

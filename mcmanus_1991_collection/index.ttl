@@ -1,0 +1,25 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/mcmanus_1991_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mcmanus_1991 Instances Collection"@en ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:member <http://lod.ogham.link/data/mcmanus_1991:ii>,
+        <http://lod.ogham.link/data/mcmanus_1991:iii>,
+        <http://lod.ogham.link/data/mcmanus_1991:ix>,
+        <http://lod.ogham.link/data/mcmanus_1991:v>,
+        <http://lod.ogham.link/data/mcmanus_1991:vii>,
+        <http://lod.ogham.link/data/mcmanus_1991:viii>,
+        <http://lod.ogham.link/data/mcmanus_1991:x>,
+        <http://lod.ogham.link/data/mcmanus_1991:xi>,
+        <http://lod.ogham.link/data/mcmanus_1991:xiv>,
+        <http://lod.ogham.link/data/mcmanus_1991:xix>,
+        <http://lod.ogham.link/data/mcmanus_1991:xv>,
+        <http://lod.ogham.link/data/mcmanus_1991:xvi>,
+        <http://lod.ogham.link/data/mcmanus_1991:xvii>,
+        <http://lod.ogham.link/data/mcmanus_1991:xviii>,
+        <http://lod.ogham.link/data/mcmanus_1991:xx> .
+

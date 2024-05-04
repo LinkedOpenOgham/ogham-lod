@@ -1,0 +1,17 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/macalister_1945:186> a ns1:macalister_1945,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "macalister_1945:186" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000097>,
+        <http://lod.ogham.link/data/Y20000227>,
+        <http://lod.ogham.link/data/Y30000046>,
+        <http://lod.ogham.link/data/cisp:KFNTN_1>,
+        <http://lod.ogham.link/data/ferguson_1887:37>,
+        <http://lod.ogham.link/data/o3d:186._Kilfountain>,
+        <http://lod.ogham.link/data/okasha_forsyth_2001:Kilfountan_1> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

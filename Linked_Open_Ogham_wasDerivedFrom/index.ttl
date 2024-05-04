@@ -8,5 +8,9 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: wasDerivedFrom"@en ;
     void:property prov:wasDerivedFrom ;
-    void:triples 232 .
+    void:triples 105,
+        232,
+        540,
+        598,
+        1240 .
 

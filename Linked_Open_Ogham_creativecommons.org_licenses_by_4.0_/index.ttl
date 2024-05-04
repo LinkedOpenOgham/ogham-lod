@@ -10,5 +10,8 @@
     void:linkPredicate dcterms:license ;
     void:objectsTarget <https://creativecommons.org/licenses/by/4.0/> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231 .
+    void:triples 104,
+        231,
+        451,
+        1075 .
 

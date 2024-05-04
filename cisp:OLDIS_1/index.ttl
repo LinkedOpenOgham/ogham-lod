@@ -1,0 +1,15 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/cisp:OLDIS_1> a ns1:cisp,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "cisp:OLDIS_1" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000231>,
+        <http://lod.ogham.link/data/Y20000313>,
+        <http://lod.ogham.link/data/Y30000119>,
+        <http://lod.ogham.link/data/macalister_1945:300>,
+        <http://lod.ogham.link/data/o3d:300._Island> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

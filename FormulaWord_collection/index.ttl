@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/FormulaWord_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "FormulaWord Instances Collection"@en ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:member <http://lod.ogham.link/data/OW1>,
+        <http://lod.ogham.link/data/OW2>,
+        <http://lod.ogham.link/data/OW3>,
+        <http://lod.ogham.link/data/OW4>,
+        <http://lod.ogham.link/data/OW5>,
+        <http://lod.ogham.link/data/OW6>,
+        <http://lod.ogham.link/data/OW7>,
+        <http://lod.ogham.link/data/OW8>,
+        <http://lod.ogham.link/data/OW9> .
+

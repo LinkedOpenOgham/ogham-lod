@@ -1,0 +1,12 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/cisp:MA_53> a ns1:cisp,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "cisp:MA_53" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000273>,
+        <http://lod.ogham.link/data/macalister_1945:53> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

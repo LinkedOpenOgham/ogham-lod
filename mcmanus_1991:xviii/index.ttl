@@ -1,0 +1,12 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/mcmanus_1991:xviii> a ns1:mcmanus_1991,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mcmanus_1991:xviii" ;
+    ns1:equals <http://lod.ogham.link/data/Y20000310>,
+        <http://lod.ogham.link/data/cisp:NOBBE_1> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

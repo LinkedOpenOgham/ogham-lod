@@ -1,0 +1,14 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/power_1997:7970> a ns1:power_1997,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "power_1997:7970" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000017>,
+        <http://lod.ogham.link/data/Y20000282>,
+        <http://lod.ogham.link/data/cisp:KNWEE_2>,
+        <http://lod.ogham.link/data/macalister_1945:113> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/Y10000092> a ns1:OghamStone,
+        ns1:OghamStone_CIIC,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "CIIC 181 (Ogham Stone Concept by RAS Macalister)"@en ;
+    ns1:equals <http://lod.ogham.link/data/Y20000189>,
+        <http://lod.ogham.link/data/Y30000044>,
+        <http://lod.ogham.link/data/cisp:EMLGW_1>,
+        <http://lod.ogham.link/data/cuppage_1986:674>,
+        <http://lod.ogham.link/data/macalister_1945:181>,
+        <http://lod.ogham.link/data/o3d:181._Emlagh_West> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q70892689> ;
+    dc:identifier "181" ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-4696-2101> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:comment "Ogham Stone, Ireland"@en ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/Y10000092_activity> .
+

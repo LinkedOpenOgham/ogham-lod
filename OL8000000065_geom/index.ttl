@@ -1,0 +1,11 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/OL8000000065_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    ns1:hasEPSG <http://www.opengis.net/def/crs/EPSG/0/4326> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    geo:asWKT "POINT(-10.170106 52.140298)"^^geo:wktLiteral .
+

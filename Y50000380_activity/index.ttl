@@ -1,0 +1,12 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lod.ogham.link/data/Y50000380_activity> a <http://www.w3.org/ns/ldp#Resource>,
+        prov:Activity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    prov:endedAtTime "2021-05-28T12:29:20.987136+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2021-05-28T12:29:19.974191+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://lod.ogham.link/data/PythonStonesCIIC> .
+

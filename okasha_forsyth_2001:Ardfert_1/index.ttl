@@ -1,0 +1,16 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/okasha_forsyth_2001:Ardfert_1> a ns1:okasha_forsyth_2001,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "okasha_forsyth_2001:Ardfert_1" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000042>,
+        <http://lod.ogham.link/data/Y20000018>,
+        <http://lod.ogham.link/data/Y30000013>,
+        <http://lod.ogham.link/data/cisp:ARDFE_1>,
+        <http://lod.ogham.link/data/macalister_1945:136>,
+        <http://lod.ogham.link/data/o3d:136._Ardfert_I> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

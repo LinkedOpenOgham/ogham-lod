@@ -1,0 +1,14 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/osullivan_1996:927> a ns1:osullivan_1996,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "osullivan_1996:927" ;
+    ns1:equals <http://lod.ogham.link/data/Y20000108>,
+        <http://lod.ogham.link/data/Y30000149>,
+        <http://lod.ogham.link/data/cisp:CHUIS_1>,
+        <http://lod.ogham.link/data/o3d:Church_Island> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

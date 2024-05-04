@@ -1,0 +1,44 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lod.ogham.link/data/Y20000010> a ns1:OghamStone,
+        ns1:OghamStone_CISP,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "AHLIS/3 (Ogham Stone Concept by CISP)"@en ;
+    ns1:completeness "inc" ;
+    ns1:currentlocation "museum" ;
+    ns1:currentsetting "in display" ;
+    ns1:discovery_who "Hawkes, Z." ;
+    ns1:discovery_year "1841" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000292>,
+        <http://lod.ogham.link/data/Y30000140>,
+        <http://lod.ogham.link/data/cisp:AHLIS_3>,
+        <http://lod.ogham.link/data/macalister_1907:140>,
+        <http://lod.ogham.link/data/macalister_1945:71>,
+        <http://lod.ogham.link/data/o3d:71._Ahalisky_III> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q106675305> ;
+    ns1:form "pilsp" ;
+    ns1:h_status "actual" ;
+    ns1:height 0.97 ;
+    ns1:preservation "inc" ;
+    ns1:t_status "actual" ;
+    ns1:thickness 0.13 ;
+    ns1:w_status "actual" ;
+    ns1:width 0.3 ;
+    dc:identifier "AHLIS/3" ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q106628017>,
+        <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:comment "Ogham Stone, Ireland"@en ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/Y20000010_activity> .
+

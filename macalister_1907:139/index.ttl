@@ -1,0 +1,16 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/macalister_1907:139> a ns1:macalister_1907,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "macalister_1907:139" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000291>,
+        <http://lod.ogham.link/data/Y20000009>,
+        <http://lod.ogham.link/data/Y30000139>,
+        <http://lod.ogham.link/data/cisp:AHLIS_2>,
+        <http://lod.ogham.link/data/macalister_1945:70>,
+        <http://lod.ogham.link/data/o3d:70._Ahalisky_II> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+

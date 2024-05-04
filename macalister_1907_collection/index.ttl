@@ -1,0 +1,37 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/macalister_1907_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "macalister_1907 Instances Collection"@en ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    rdfs:member <http://lod.ogham.link/data/macalister_1907:120>,
+        <http://lod.ogham.link/data/macalister_1907:138>,
+        <http://lod.ogham.link/data/macalister_1907:139>,
+        <http://lod.ogham.link/data/macalister_1907:140>,
+        <http://lod.ogham.link/data/macalister_1907:148>,
+        <http://lod.ogham.link/data/macalister_1907:149>,
+        <http://lod.ogham.link/data/macalister_1907:150>,
+        <http://lod.ogham.link/data/macalister_1907:151>,
+        <http://lod.ogham.link/data/macalister_1907:152>,
+        <http://lod.ogham.link/data/macalister_1907:153>,
+        <http://lod.ogham.link/data/macalister_1907:154>,
+        <http://lod.ogham.link/data/macalister_1907:155>,
+        <http://lod.ogham.link/data/macalister_1907:168>,
+        <http://lod.ogham.link/data/macalister_1907:169>,
+        <http://lod.ogham.link/data/macalister_1907:170>,
+        <http://lod.ogham.link/data/macalister_1907:171>,
+        <http://lod.ogham.link/data/macalister_1907:172>,
+        <http://lod.ogham.link/data/macalister_1907:173>,
+        <http://lod.ogham.link/data/macalister_1907:175>,
+        <http://lod.ogham.link/data/macalister_1907:176>,
+        <http://lod.ogham.link/data/macalister_1907:177>,
+        <http://lod.ogham.link/data/macalister_1907:178>,
+        <http://lod.ogham.link/data/macalister_1907:208>,
+        <http://lod.ogham.link/data/macalister_1907:209>,
+        <http://lod.ogham.link/data/macalister_1907:210>,
+        <http://lod.ogham.link/data/macalister_1907:22>,
+        <http://lod.ogham.link/data/macalister_1907:242> .
+

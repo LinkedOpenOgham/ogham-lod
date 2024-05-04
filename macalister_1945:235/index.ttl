@@ -1,0 +1,14 @@
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/macalister_1945:235> a ns1:macalister_1945,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "macalister_1945:235" ;
+    ns1:equals <http://lod.ogham.link/data/Y10000154>,
+        <http://lod.ogham.link/data/Y20000248>,
+        <http://lod.ogham.link/data/cisp:KLGRO_1>,
+        <http://lod.ogham.link/data/osullivan_1996:959> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> .
+
