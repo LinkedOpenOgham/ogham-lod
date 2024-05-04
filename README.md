@@ -1,4 +1,4 @@
-# Ogham Data - v1.0
+# Linked Open Ogham
 
 <center>
 <img src="https://github.com/ogi-ogham/ogham-datav1/raw/main/img/OgiOghamLogo.png" height="200">
