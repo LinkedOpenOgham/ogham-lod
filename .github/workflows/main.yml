@@ -19,7 +19,7 @@ jobs:
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with:
       version: v017
-      rdffilepath: rdf/ogham/og_sites_1.ttl
+      rdffilepath: rdf/ogham/og_sites_1.ttl rdf/ogham/og_stones_1.ttl rdf/ogham/og_persons_1.ttl rdf/ogham/og_locations_1.ttl rdf/ogham/og_words_1.ttl rdf/ogham/og_stones_references_1.ttl
       docpath: docs
       prefixns: http://lod.ogham.link/data/
       prefixnsshort: fsld
@@ -31,6 +31,6 @@ jobs:
       metadatatable: true
       createnonNSPages: true
       logourl: https://raw.githubusercontent.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/main/icons/linkedopenogham_icon.png
-      templatedir: https://github.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/archive/refs/tags/ogham.0.1.zip
+      templatedir: https://github.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/archive/refs/tags/ogham.0.2.zip
       ogcapifeatures: false
       datasettitle: Linked Open Ogham
