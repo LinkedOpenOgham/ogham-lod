@@ -19,7 +19,7 @@ jobs:
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with:
       version: v017
-      rdffilepath: rdf/ogham/og_sites_1.ttl rdf/ogham/og_stones_1.ttl rdf/ogham/og_persons_1.ttl rdf/ogham/og_locations_1.ttl rdf/ogham/og_words_1.ttl rdf/ogham/og_stones_references_1.ttl
+      rdffilepath: rdf/ogham/og_sites_1.ttl rdf/ogham/og_stones_1.ttl rdf/ogham/og_persons_1.ttl rdf/ogham/og_locations_1.ttl rdf/ogham/og_words_1.ttl rdf/ogham/og_inscriptions_1.ttl rdf/ogham/og_readings_1.ttl rdf/geodata/gs_ireland_island_1.ttl rdf/geodata/gs_provinces_1.ttl rdf/geodata/gs_baronies_1.ttl rdf/geodata/gs_baronies_2.ttl rdf/geodata/gs_baronies_3.ttl rdf/geodata/gs_baronies_4.ttl
       docpath: docs
       prefixns: http://lod.ogham.link/data/
       prefixnsshort: fsld
