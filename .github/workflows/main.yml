@@ -31,6 +31,6 @@ jobs:
       metadatatable: true
       createnonNSPages: true
       logourl: https://raw.githubusercontent.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/main/icons/linkedopenogham_icon.png
-      templatedir: https://github.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/archive/refs/tags/ogham.0.2.zip
+      templatedir: https://github.com/LinkedOpenOgham/unicorn-ontdoc-template-ogham/archive/refs/tags/ogham.0.3.zip
       ogcapifeatures: false
       datasettitle: Linked Open Ogham
