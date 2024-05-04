@@ -29,8 +29,8 @@
         <dc:subject>ogham</dc:subject>
         <dc:title xml:lang="en">Ogham Ontology</dc:title>
         <rdfs:label xml:lang="en">Ogham Ontology</rdfs:label>
-        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</owl:versionInfo>
-        <owl:versionInfo>16/05/2021</owl:versionInfo>
+        <owl:versionInfo>04/05/2024</owl:versionInfo>
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.1</owl:versionInfo>
         <skos:definition xml:lang="en">This ontology contains classes to describe data from Linked Ogham Data.</skos:definition>
     </owl:Ontology>
     
@@ -183,6 +183,7 @@
     <!-- http://archaeology.link/ontology#disclosedAt -->
 
     <owl:ObjectProperty rdf:about="http://archaeology.link/ontology#disclosedAt">
+        <owl:inverseOf rdf:resource="http://archaeology.link/ontology#disclosedAt"/>
         <rdfs:domain rdf:resource="http://ontology.ogham.link/OghamStone"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/OghamSite"/>
         <rdfs:label xml:lang="en">disclosed at</rdfs:label>
@@ -371,6 +372,18 @@
         <rdfs:domain rdf:resource="http://ontology.ogham.link/Inscription"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/Reading"/>
         <rdfs:label xml:lang="en">identified as</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ontology.ogham.link/isSiteOf -->
+
+    <owl:ObjectProperty rdf:about="http://ontology.ogham.link/isSiteOf">
+        <rdfs:subPropertyOf rdf:resource="http://archaeology.link/ontology#disclosedAt"/>
+        <owl:inverseOf rdf:resource="http://ontology.ogham.link/isSiteOf"/>
+        <rdfs:domain rdf:resource="http://ontology.ogham.link/OghamSite"/>
+        <rdfs:range rdf:resource="http://ontology.ogham.link/OghamStone"/>
+        <rdfs:label xml:lang="en">is site of</rdfs:label>
     </owl:ObjectProperty>
     
 
