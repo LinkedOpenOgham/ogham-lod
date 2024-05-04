@@ -12,13 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "186. Kilfountain (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.09 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000097>,
-        <http://lod.ogham.link/data/Y20000227>,
-        <http://lod.ogham.link/data/cisp:KFNTN_1>,
-        <http://lod.ogham.link/data/ferguson_1887:37>,
-        <http://lod.ogham.link/data/macalister_1945:186>,
-        <http://lod.ogham.link/data/o3d:186._Kilfountain>,
-        <http://lod.ogham.link/data/okasha_forsyth_2001:Kilfountan_1> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674219> ;
     ns1:height 1.5 ;
     ns1:smr_no "KE043-144005-" ;

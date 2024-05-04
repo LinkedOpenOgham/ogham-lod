@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "31. Fiddaun Upper (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.5 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000241>,
-        <http://lod.ogham.link/data/Y20000191>,
-        <http://lod.ogham.link/data/cisp:FIDUP_1>,
-        <http://lod.ogham.link/data/macalister_1945:31>,
-        <http://lod.ogham.link/data/o3d:31._Fiddaun_Upper> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674306> ;
     ns1:height 2.06 ;
     ns1:smr_no "KK029-020----" ;

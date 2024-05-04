@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "181. Emlagh West (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.24 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000092>,
-        <http://lod.ogham.link/data/Y20000189>,
-        <http://lod.ogham.link/data/cisp:EMLGW_1>,
-        <http://lod.ogham.link/data/cuppage_1986:674>,
-        <http://lod.ogham.link/data/macalister_1945:181>,
-        <http://lod.ogham.link/data/o3d:181._Emlagh_West> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674217> ;
     ns1:height 1.08 ;
     ns1:smr_no "KE042-167----" ;

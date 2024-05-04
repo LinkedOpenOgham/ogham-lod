@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "272. Drumlohan I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.2 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000199>,
-        <http://lod.ogham.link/data/Y20000173>,
-        <http://lod.ogham.link/data/cisp:DRUML_1>,
-        <http://lod.ogham.link/data/macalister_1945:272>,
-        <http://lod.ogham.link/data/o3d:272._Drumlohan_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674279> ;
     ns1:height 1.52 ;
     ns1:smr_no "WA024-033006-" ;

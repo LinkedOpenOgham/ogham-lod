@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "172. Ballywiheen (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.16 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000082>,
-        <http://lod.ogham.link/data/Y20000099>,
-        <http://lod.ogham.link/data/cisp:BWEEN_1>,
-        <http://lod.ogham.link/data/cuppage_1986:549>,
-        <http://lod.ogham.link/data/macalister_1945:172>,
-        <http://lod.ogham.link/data/o3d:172._Ballywiheen> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674211> ;
     ns1:height 1.92 ;
     ns1:smr_no "KE042-093003-" ;

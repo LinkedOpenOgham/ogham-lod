@@ -10,11 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 277 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000179>,
-        <http://lod.ogham.link/data/Y30000104>,
-        <http://lod.ogham.link/data/cisp:DRUML_6>,
-        <http://lod.ogham.link/data/macalister_1945:277>,
-        <http://lod.ogham.link/data/o3d:277._Drumlohan_VI> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892956> ;
     dc:identifier "277" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

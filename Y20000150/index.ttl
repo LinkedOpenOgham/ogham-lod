@@ -16,9 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "John Rhys" ;
     ns1:discovery_year "1898" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000260>,
-        <http://lod.ogham.link/data/cisp:CSKEE_1>,
-        <http://lod.ogham.link/data/macalister_1945:41> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675459> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

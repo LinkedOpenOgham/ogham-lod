@@ -16,10 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "Mr O`Neill" ;
     ns1:discovery_year "1939" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000157>,
-        <http://lod.ogham.link/data/cisp:LETER_1>,
-        <http://lod.ogham.link/data/macalister_1945:238>,
-        <http://lod.ogham.link/data/osullivan_1996:919> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675618> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

@@ -16,9 +16,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "H. S. Crawford" ;
     ns1:discovery_year "1909" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:TOURP_6>,
-        <http://lod.ogham.link/data/macalister_1949:924>,
-        <http://lod.ogham.link/data/okasha_forsyth_2001:Toureen_Peacaun_34> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675700> ;
     ns1:form "slbcr" ;
     ns1:h_status "actual" ;

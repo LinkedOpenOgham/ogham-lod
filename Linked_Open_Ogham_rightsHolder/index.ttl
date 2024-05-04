@@ -8,9 +8,14 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: rightsHolder"@en ;
     void:property dcterms:rightsHolder ;
-    void:triples 208,
+    void:triples 2,
+        8,
+        194,
+        208,
         693,
+        1037,
         1190,
         1614,
+        1996,
         2474 .
 

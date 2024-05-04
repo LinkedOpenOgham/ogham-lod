@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "215. Whitefield I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.13 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000131>,
-        <http://lod.ogham.link/data/Y20000362>,
-        <http://lod.ogham.link/data/cisp:WHFLD_1>,
-        <http://lod.ogham.link/data/macalister_1945:215>,
-        <http://lod.ogham.link/data/o3d:215._Whitefield_I>,
-        <http://lod.ogham.link/data/osullivan_1996:908> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674250> ;
     ns1:height 1.14 ;
     ns1:smr_no "KE057-107----" ;

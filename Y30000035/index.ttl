@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "166. Ballinvoher (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.1 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000075>,
-        <http://lod.ogham.link/data/Y20000072>,
-        <http://lod.ogham.link/data/cisp:BLHER_1>,
-        <http://lod.ogham.link/data/macalister_1907:22>,
-        <http://lod.ogham.link/data/macalister_1945:166>,
-        <http://lod.ogham.link/data/o3d:166._Ballinvoher> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674207> ;
     ns1:height 1.22 ;
     ns1:smr_no "KE045-105----" ;

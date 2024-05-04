@@ -11,12 +11,19 @@
         dcterms:rightsHolder ;
     void:objectsTarget <https://orcid.org/> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 104,
+    void:triples 1,
+        4,
+        52,
+        97,
+        104,
         231,
         462,
         538,
         595,
         824,
+        998,
+        1037,
         1237,
+        1303,
         1944 .
 

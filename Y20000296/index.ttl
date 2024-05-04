@@ -16,12 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "R.R. Brash" ;
     ns1:discovery_year "1879" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000102>,
-        <http://lod.ogham.link/data/Y30000051>,
-        <http://lod.ogham.link/data/cisp:LUGUL_1>,
-        <http://lod.ogham.link/data/cuppage_1986:807_1>,
-        <http://lod.ogham.link/data/macalister_1945:190>,
-        <http://lod.ogham.link/data/o3d:190._Lugnagappul_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675623> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

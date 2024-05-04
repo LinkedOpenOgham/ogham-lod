@@ -15,12 +15,6 @@
     ns1:currentlocation "on site" ;
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "Chearnley, R." ;
-    ns1:equals <http://lod.ogham.link/data/Y10000191>,
-        <http://lod.ogham.link/data/Y30000095>,
-        <http://lod.ogham.link/data/cisp:AMORE_3>,
-        <http://lod.ogham.link/data/macalister_1907:210>,
-        <http://lod.ogham.link/data/macalister_1945:265>,
-        <http://lod.ogham.link/data/o3d:265._Ardmore_III> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675308> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

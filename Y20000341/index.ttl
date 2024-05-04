@@ -15,9 +15,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "Raftery" ;
     ns1:discovery_year "1949" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:RTHKE_2>,
-        <http://lod.ogham.link/data/macalister_1949:1084>,
-        <http://lod.ogham.link/data/mcmanus_1991:iii> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675681> ;
     ns1:form "ind" ;
     ns1:preservation "inc" ;

@@ -1,0 +1,1 @@
+{"http://rdfs.org/ns/void#property": ["http://lod.ogham.link/data/scientist"], "http://rdfs.org/ns/void#triples": ["998"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://rdfs.org/ns/void#Dataset"], "http://www.w3.org/2000/01/rdf-schema#label": ["Property Partition: scientist"]}

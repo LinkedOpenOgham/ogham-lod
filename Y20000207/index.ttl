@@ -16,10 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "O`Sullivan, Mr. P. J" ;
     ns1:discovery_year "1945" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000093>,
-        <http://lod.ogham.link/data/cisp:GLNMO_1>,
-        <http://lod.ogham.link/data/cuppage_1986:805>,
-        <http://lod.ogham.link/data/macalister_1945:182> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675523> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

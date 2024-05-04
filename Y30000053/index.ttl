@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "192. Martramane (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.18 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000104>,
-        <http://lod.ogham.link/data/Y20000307>,
-        <http://lod.ogham.link/data/cisp:MRAME_1>,
-        <http://lod.ogham.link/data/cuppage_1986:808>,
-        <http://lod.ogham.link/data/macalister_1945:192>,
-        <http://lod.ogham.link/data/o3d:192._Martramane> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674226> ;
     ns1:height 1.15 ;
     ns1:smr_no "DU018-395----" ;

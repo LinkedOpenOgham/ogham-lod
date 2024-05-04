@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "171. Ballynahunt (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.13 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000081>,
-        <http://lod.ogham.link/data/Y20000073>,
-        <http://lod.ogham.link/data/cisp:BLHUN_1>,
-        <http://lod.ogham.link/data/macalister_1897:25>,
-        <http://lod.ogham.link/data/macalister_1945:171>,
-        <http://lod.ogham.link/data/o3d:171._Ballynahunt> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674210> ;
     ns1:height 1.52 ;
     ns1:smr_no "KE045-016----" ;

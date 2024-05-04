@@ -16,11 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Price, L." ;
     ns1:discovery_year "1945" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000270>,
-        <http://lod.ogham.link/data/Y30000133>,
-        <http://lod.ogham.link/data/cisp:BCARE_1>,
-        <http://lod.ogham.link/data/macalister_1945:50>,
-        <http://lod.ogham.link/data/o3d:50._Boleycarrigeen> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675365> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

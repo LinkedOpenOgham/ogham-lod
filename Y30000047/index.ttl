@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "187. Kilmalkedar (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.22 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000098>,
-        <http://lod.ogham.link/data/Y20000267>,
-        <http://lod.ogham.link/data/cisp:KMKDR_3>,
-        <http://lod.ogham.link/data/cuppage_1986:855_1>,
-        <http://lod.ogham.link/data/macalister_1945:187>,
-        <http://lod.ogham.link/data/o3d:187._Kilmalkedar> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674220> ;
     ns1:height 1.65 ;
     ns1:smr_no "KE042-026001-" ;

@@ -14,8 +14,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Rev. R d`A Orpen" ;
     ns1:discovery_year "1908" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CHFLD_1>,
-        <http://lod.ogham.link/data/cuppage_1986:802> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675410> ;
     ns1:form "ind" ;
     dc:identifier "CHFLD/1" ;

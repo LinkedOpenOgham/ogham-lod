@@ -14,7 +14,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Rev. E. Barry" ;
     ns1:discovery_year "1891" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:RFILD_5> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675668> ;
     ns1:form "ind" ;
     dc:identifier "RFILD/5" ;

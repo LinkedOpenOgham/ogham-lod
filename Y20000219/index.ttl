@@ -16,11 +16,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "H. Nevin" ;
     ns1:discovery_year "1845" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000265>,
-        <http://lod.ogham.link/data/Y30000129>,
-        <http://lod.ogham.link/data/cisp:HLAND_1>,
-        <http://lod.ogham.link/data/macalister_1945:46>,
-        <http://lod.ogham.link/data/o3d:46._Houseland> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675535> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

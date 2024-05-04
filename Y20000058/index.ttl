@@ -14,9 +14,6 @@
     ns1:currentlocation "lost" ;
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Hitchcock" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000062>,
-        <http://lod.ogham.link/data/cisp:BALIG_8>,
-        <http://lod.ogham.link/data/macalister_1945:154> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675358> ;
     ns1:form "pilsp" ;
     ns1:preservation "some" ;

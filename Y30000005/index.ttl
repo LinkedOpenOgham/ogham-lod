@@ -12,8 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "1083. Rathkenny I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.18 ;
-    ns1:equals <http://lod.ogham.link/data/macalister_1945:1083>,
-        <http://lod.ogham.link/data/o3d:1083._Rathkenny_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674175> ;
     ns1:height 1.0 ;
     ns1:smr_no "KE021-087002-" ;

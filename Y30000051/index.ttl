@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "190. Lugnagappul I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.3 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000102>,
-        <http://lod.ogham.link/data/Y20000296>,
-        <http://lod.ogham.link/data/cisp:LUGUL_1>,
-        <http://lod.ogham.link/data/cuppage_1986:807_1>,
-        <http://lod.ogham.link/data/macalister_1945:190>,
-        <http://lod.ogham.link/data/o3d:190._Lugnagappul_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674224> ;
     ns1:height 0.91 ;
     ns1:smr_no "KE054-033002-" ;

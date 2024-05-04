@@ -14,7 +14,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "J. Cuppage" ;
     ns1:discovery_year "1986" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:KLQAN_1> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675586> ;
     ns1:form "ind" ;
     dc:identifier "KLQAN/1" ;

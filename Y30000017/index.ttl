@@ -12,13 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "146. Ballineanig (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.12 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000053>,
-        <http://lod.ogham.link/data/Y20000074>,
-        <http://lod.ogham.link/data/cisp:BLNIG_1>,
-        <http://lod.ogham.link/data/cuppage_1986:809>,
-        <http://lod.ogham.link/data/macalister_1897:27>,
-        <http://lod.ogham.link/data/macalister_1945:146>,
-        <http://lod.ogham.link/data/o3d:146._Ballineanig> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674189> ;
     ns1:height 1.17 ;
     ns1:smr_no "KE042-151----" ;

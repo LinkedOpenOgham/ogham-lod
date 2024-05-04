@@ -16,9 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "Srgt. Lyons" ;
     ns1:discovery_year "1916" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000269>,
-        <http://lod.ogham.link/data/cisp:RUSHE_1>,
-        <http://lod.ogham.link/data/macalister_1945:5> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675685> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "300. Island (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.15 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000231>,
-        <http://lod.ogham.link/data/Y20000313>,
-        <http://lod.ogham.link/data/cisp:OLDIS_1>,
-        <http://lod.ogham.link/data/macalister_1945:300>,
-        <http://lod.ogham.link/data/o3d:300._Island> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674305> ;
     ns1:height 1.42 ;
     ns1:smr_no "WA032-029002" ;

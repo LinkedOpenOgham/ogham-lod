@@ -16,9 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Prim" ;
     ns1:discovery_year "1855" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000230>,
-        <http://lod.ogham.link/data/cisp:DUNB_2>,
-        <http://lod.ogham.link/data/macalister_1945:30> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675499> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

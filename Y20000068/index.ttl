@@ -16,9 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Crawford, H.S." ;
     ns1:discovery_year "1906" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000183>,
-        <http://lod.ogham.link/data/cisp:BGARR_1>,
-        <http://lod.ogham.link/data/macalister_1945:258> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675369> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

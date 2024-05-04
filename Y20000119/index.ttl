@@ -14,12 +14,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "J. Shearman" ;
     ns1:discovery_year "1865" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000114>,
-        <http://lod.ogham.link/data/Y30000060>,
-        <http://lod.ogham.link/data/cisp:COLIN_2>,
-        <http://lod.ogham.link/data/macalister_1897:51>,
-        <http://lod.ogham.link/data/macalister_1945:20>,
-        <http://lod.ogham.link/data/o3d:20._Colbinstown_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675424> ;
     ns1:form "lost" ;
     ns1:preservation_note "Macalister/1945, 24--25: `...the stone was smashed to pieces for material by labourers employed to build a wall round the cemetery`. " ;

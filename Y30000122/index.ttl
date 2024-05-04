@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "34. Legan (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.42 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000251>,
-        <http://lod.ogham.link/data/Y20000216>,
-        <http://lod.ogham.link/data/cisp:GRMGH_1>,
-        <http://lod.ogham.link/data/macalister_1945:33>,
-        <http://lod.ogham.link/data/o3d:34._Legan> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674309> ;
     ns1:height 2.03 ;
     ns1:smr_no "KK028-026002-" ;

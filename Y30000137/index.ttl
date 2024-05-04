@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "66. Faunkill and the Woods (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.32 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000287>,
-        <http://lod.ogham.link/data/Y20000192>,
-        <http://lod.ogham.link/data/cisp:FKWOO_1>,
-        <http://lod.ogham.link/data/macalister_1945:66>,
-        <http://lod.ogham.link/data/o3d:66._Faunkill_and_the_Woods> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674328> ;
     ns1:height 4.7 ;
     ns1:smr_no "CO102-013----" ;

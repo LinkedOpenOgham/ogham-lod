@@ -1,0 +1,24 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://lod.ogham.link/data/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+ns1:OR65000166 a <http://ontology.ogham.link/Reading>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "VŊGOLAM"@en,
+        "VŊGOLAM"@goide ;
+    ns1:language "goide"@en ;
+    ns1:scientist "Thiery, F. & Schmidt S.C."@en ;
+    ns1:scientist_year "2020/2021" ;
+    ns1:script "ogham"@en ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-4696-2101> ;
+    void:inDataset ns1:Linked_Open_Ogham ;
+    prov:wasAttributedTo ns1:PythonStonesCIIC ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_readings.csv> ;
+    prov:wasGeneratedBy ns1:OR65000166_activity .
+

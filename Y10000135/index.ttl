@@ -10,10 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 218a (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000366>,
-        <http://lod.ogham.link/data/cisp:WHFLD_5>,
-        <http://lod.ogham.link/data/macalister_1945:218a>,
-        <http://lod.ogham.link/data/osullivan_1996:921> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85411181> ;
     dc:identifier "218a" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

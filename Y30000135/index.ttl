@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "57. Greenhill I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.35 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000277>,
-        <http://lod.ogham.link/data/Y20000213>,
-        <http://lod.ogham.link/data/cisp:GRENL_1>,
-        <http://lod.ogham.link/data/macalister_1945:57>,
-        <http://lod.ogham.link/data/o3d:57._Greenhill_I>,
-        <http://lod.ogham.link/data/power_1992:7965> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674325> ;
     ns1:height 2.6 ;
     ns1:smr_no "CO042-049002-" ;

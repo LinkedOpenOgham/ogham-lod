@@ -16,10 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Deane, Sir Thomas" ;
     ns1:discovery_year "1893" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000094>,
-        <http://lod.ogham.link/data/cisp:GLHAN_1>,
-        <http://lod.ogham.link/data/cuppage_1986:568>,
-        <http://lod.ogham.link/data/macalister_1945:183> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675519> ;
     ns1:form "pillc" ;
     ns1:h_status "visible" ;

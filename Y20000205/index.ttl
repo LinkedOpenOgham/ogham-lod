@@ -14,8 +14,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "J. Windele" ;
     ns1:discovery_year "1838" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:GLINS_1>,
-        <http://lod.ogham.link/data/cuppage_1986:806> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675723> ;
     ns1:form "ind" ;
     ns1:h_status "ind" ;

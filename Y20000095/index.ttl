@@ -15,8 +15,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "E. Rynne" ;
     ns1:discovery_year "1962" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:BRHKL_1>,
-        <http://lod.ogham.link/data/mcmanus_1991:vii> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675399> ;
     ns1:form "fragy" ;
     ns1:preservation "poor" ;

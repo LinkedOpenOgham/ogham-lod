@@ -10,9 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 256a (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000359>,
-        <http://lod.ogham.link/data/cisp:TRALE_1>,
-        <http://lod.ogham.link/data/macalister_1945:256a> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85410047> ;
     dc:identifier "256a" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

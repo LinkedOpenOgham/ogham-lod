@@ -16,10 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "Archdeacon Rowan" ;
     ns1:discovery_year "1858" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000086>,
-        <http://lod.ogham.link/data/cisp:CAMP_1>,
-        <http://lod.ogham.link/data/cuppage_1986:800>,
-        <http://lod.ogham.link/data/macalister_1945:176> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675404> ;
     ns1:form "slbcr" ;
     ns1:h_status "actual" ;

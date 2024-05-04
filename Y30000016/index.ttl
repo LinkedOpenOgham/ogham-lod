@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "145. Arraglen (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.2 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000052>,
-        <http://lod.ogham.link/data/Y20000020>,
-        <http://lod.ogham.link/data/cisp:ARRAG_1>,
-        <http://lod.ogham.link/data/macalister_1902:56>,
-        <http://lod.ogham.link/data/macalister_1945:145>,
-        <http://lod.ogham.link/data/o3d:145._Arraglen> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674188> ;
     ns1:height 1.91 ;
     ns1:smr_no "KE025-002001-" ;

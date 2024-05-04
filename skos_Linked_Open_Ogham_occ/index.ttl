@@ -8,8 +8,8 @@
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in Linked_Open_Ogham" ;
     ns1:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
     ns1:occurrences 2,
+        4,
         12,
-        44,
         218,
         1082 .
 

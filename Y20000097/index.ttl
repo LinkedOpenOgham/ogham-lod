@@ -15,9 +15,6 @@
     ns1:currentlocation "lost" ;
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Windele" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000298>,
-        <http://lod.ogham.link/data/cisp:BURGA_1>,
-        <http://lod.ogham.link/data/macalister_1945:77> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675401> ;
     ns1:form "block" ;
     ns1:h_status "actual" ;

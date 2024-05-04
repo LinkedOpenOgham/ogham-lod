@@ -16,7 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "G. Claffey" ;
     ns1:discovery_year "1990" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CLMAC_262> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675417> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

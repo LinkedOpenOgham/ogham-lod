@@ -7,5 +7,9 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in Linked_Open_Ogham" ;
     ns1:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    ns1:occurrences 6 .
+    ns1:occurrences 6,
+        8,
+        14,
+        198,
+        200 .
 

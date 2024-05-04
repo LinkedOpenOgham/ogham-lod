@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 175 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000094>,
-        <http://lod.ogham.link/data/Y30000041>,
-        <http://lod.ogham.link/data/cisp:BRHAM_1>,
-        <http://lod.ogham.link/data/cuppage_1986:799>,
-        <http://lod.ogham.link/data/macalister_1945:175>,
-        <http://lod.ogham.link/data/o3d:175._Burnham_West> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892674> ;
     dc:identifier "175" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

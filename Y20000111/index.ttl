@@ -15,10 +15,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "G. Petrie" ;
     ns1:discovery_year "1822" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CLMAC_152>,
-        <http://lod.ogham.link/data/macalister_1909:208>,
-        <http://lod.ogham.link/data/macalister_1949:749>,
-        <http://lod.ogham.link/data/petrie_1872:4> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675416> ;
     ns1:form "slbns" ;
     ns1:preservation "good" ;

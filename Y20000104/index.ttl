@@ -15,8 +15,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "J.P. McCarthy" ;
     ns1:discovery_year "1976" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CARHA_3>,
-        <http://lod.ogham.link/data/power_1992:1034> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675408> ;
     ns1:form "pilsp" ;
     ns1:preservation "inc" ;

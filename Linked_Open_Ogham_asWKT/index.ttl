@@ -8,6 +8,10 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: asWKT"@en ;
     void:property geo:asWKT ;
-    void:triples 231,
+    void:triples 1,
+        4,
+        52,
+        97,
+        231,
         665 .
 

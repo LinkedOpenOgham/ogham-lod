@@ -12,10 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Shankill.xml(Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.05 ;
-    ns1:equals <http://lod.ogham.link/data/Y20000347>,
-        <http://lod.ogham.link/data/cisp:SHANK_1>,
-        <http://lod.ogham.link/data/mcmanus_1991:xvi>,
-        <http://lod.ogham.link/data/o3d:Shankill> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674356> ;
     ns1:height 0.57 ;
     ns1:smr_no "KK016-013----" ;

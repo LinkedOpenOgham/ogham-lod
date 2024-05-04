@@ -1,0 +1,1 @@
+{"http://rdfs.org/ns/void#inDataset": ["http://lod.ogham.link/data/Linked_Open_Ogham"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/geosparql#FeatureCollection"], "http://www.w3.org/2000/01/rdf-schema#label": ["Island Instances Collection"], "http://www.w3.org/2000/01/rdf-schema#member": ["http://lod.ogham.link/data/GSD1000001"]}

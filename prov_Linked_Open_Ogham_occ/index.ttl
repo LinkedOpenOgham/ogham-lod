@@ -7,9 +7,15 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in Linked_Open_Ogham" ;
     ns1:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    ns1:occurrences 208,
+    ns1:occurrences 2,
+        8,
+        192,
+        194,
+        208,
         462,
         1076,
         1190,
+        1996,
+        2074,
         2474 .
 

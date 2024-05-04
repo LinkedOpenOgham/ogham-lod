@@ -8,9 +8,14 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: wasGeneratedBy"@en ;
     void:property prov:wasGeneratedBy ;
-    void:triples 104,
+    void:triples 1,
+        4,
+        97,
+        104,
         231,
         538,
         595,
+        998,
+        1037,
         1237 .
 

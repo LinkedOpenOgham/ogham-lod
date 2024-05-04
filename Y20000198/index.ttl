@@ -16,8 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "M. O`Kelly, O. Kavan" ;
     ns1:discovery_year "1954" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:GEARS_1>,
-        <http://lod.ogham.link/data/mcmanus_1991:v> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675513> ;
     ns1:form "slbot" ;
     ns1:h_status "actual" ;

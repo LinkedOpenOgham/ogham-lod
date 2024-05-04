@@ -16,11 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "Barry, E." ;
     ns1:discovery_year "1896" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000300>,
-        <http://lod.ogham.link/data/Y30000141>,
-        <http://lod.ogham.link/data/cisp:RTHCA_1>,
-        <http://lod.ogham.link/data/macalister_1945:79>,
-        <http://lod.ogham.link/data/o3d:79._Rathcanning_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675675> ;
     ns1:form "pillp" ;
     ns1:h_status "visible" ;

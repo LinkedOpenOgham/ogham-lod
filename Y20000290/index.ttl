@@ -16,11 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "J. Moore" ;
     ns1:discovery_year "1891" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000252>,
-        <http://lod.ogham.link/data/Y30000123>,
-        <http://lod.ogham.link/data/cisp:LEGAN_1>,
-        <http://lod.ogham.link/data/macalister_1945:34>,
-        <http://lod.ogham.link/data/o3d:35._Tullaherin_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675617> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

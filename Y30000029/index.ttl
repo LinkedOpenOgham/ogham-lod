@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "159. Ballintaggart V (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.25 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000067>,
-        <http://lod.ogham.link/data/Y20000079>,
-        <http://lod.ogham.link/data/cisp:BLTAG_5>,
-        <http://lod.ogham.link/data/macalister_1897:16>,
-        <http://lod.ogham.link/data/macalister_1945:159>,
-        <http://lod.ogham.link/data/o3d:159._Ballintaggart_V> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674201> ;
     ns1:height 1.27 ;
     ns1:smr_no "KE053-033009-" ;

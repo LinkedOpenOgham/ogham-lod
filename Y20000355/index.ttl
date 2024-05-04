@@ -16,11 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "E. O` Toole" ;
     ns1:discovery_year "1938" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000079>,
-        <http://lod.ogham.link/data/Y30000036>,
-        <http://lod.ogham.link/data/cisp:TMINE_1>,
-        <http://lod.ogham.link/data/macalister_1945:17>,
-        <http://lod.ogham.link/data/o3d:17._Tuckamine> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675697> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

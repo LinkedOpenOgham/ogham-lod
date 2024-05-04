@@ -10,11 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "208. Kilcoolaght East III (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y10000123>,
-        <http://lod.ogham.link/data/Y20000238>,
-        <http://lod.ogham.link/data/cisp:KLCOO_3>,
-        <http://lod.ogham.link/data/macalister_1945:208>,
-        <http://lod.ogham.link/data/o3d:208._Kilcoolaght_East_III> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674243> ;
     ns1:smr_no "KE065-003006-" ;
     dc:identifier "208. Kilcoolaght East III" ;

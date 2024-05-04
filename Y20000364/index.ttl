@@ -16,12 +16,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "The MacGillicuddy" ;
     ns1:discovery_year "1853" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000133>,
-        <http://lod.ogham.link/data/Y30000076>,
-        <http://lod.ogham.link/data/cisp:WHFLD_3>,
-        <http://lod.ogham.link/data/macalister_1945:217>,
-        <http://lod.ogham.link/data/o3d:217._Whitefield_III>,
-        <http://lod.ogham.link/data/osullivan_1996:908> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675706> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

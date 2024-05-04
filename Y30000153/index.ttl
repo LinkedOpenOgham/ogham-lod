@@ -12,7 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Drummin II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.35 ;
-    ns1:equals <http://lod.ogham.link/data/o3d:Drummin_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674347> ;
     ns1:height 1.9 ;
     ns1:smr_no "RO015-051004-" ;

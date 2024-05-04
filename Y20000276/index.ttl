@@ -16,11 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "R. A. S. Macalister" ;
     ns1:discovery_year "1916" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000271>,
-        <http://lod.ogham.link/data/Y30000134>,
-        <http://lod.ogham.link/data/cisp:KNICK_1>,
-        <http://lod.ogham.link/data/macalister_1945:51>,
-        <http://lod.ogham.link/data/o3d:51._Knickeen> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675602> ;
     ns1:form "slbns" ;
     ns1:h_status "actual" ;

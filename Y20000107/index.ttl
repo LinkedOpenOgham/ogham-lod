@@ -16,11 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "Prim" ;
     ns1:discovery_year "1869" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000207>,
-        <http://lod.ogham.link/data/Y30000107>,
-        <http://lod.ogham.link/data/cisp:CHLAR_1>,
-        <http://lod.ogham.link/data/macalister_1945:28>,
-        <http://lod.ogham.link/data/o3d:28._Churchclara_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675411> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

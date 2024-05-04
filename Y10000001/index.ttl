@@ -10,10 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 1 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000222>,
-        <http://lod.ogham.link/data/cisp:INCHA_1>,
-        <http://lod.ogham.link/data/macalister_1945:1>,
-        <http://lod.ogham.link/data/petrie_1872:11> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892272> ;
     dc:identifier "1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

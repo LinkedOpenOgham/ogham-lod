@@ -9,6 +9,10 @@
     void:linkPredicate <http://ontology.ogham.link/hasEPSG> ;
     void:objectsTarget <http://www.opengis.net/def/crs/EPSG/0/> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 231,
+    void:triples 1,
+        4,
+        52,
+        97,
+        231,
         595 .
 

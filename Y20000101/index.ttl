@@ -16,10 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "Mr Day" ;
     ns1:discovery_year "1850" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000087>,
-        <http://lod.ogham.link/data/cisp:CAMP_2>,
-        <http://lod.ogham.link/data/cuppage_1986:801>,
-        <http://lod.ogham.link/data/macalister_1945:177> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675405> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

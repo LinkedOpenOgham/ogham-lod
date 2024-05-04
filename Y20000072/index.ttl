@@ -16,12 +16,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "Graves, C." ;
     ns1:discovery_year "1894" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000075>,
-        <http://lod.ogham.link/data/Y30000035>,
-        <http://lod.ogham.link/data/cisp:BLHER_1>,
-        <http://lod.ogham.link/data/macalister_1907:22>,
-        <http://lod.ogham.link/data/macalister_1945:166>,
-        <http://lod.ogham.link/data/o3d:166._Ballinvoher> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675373> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

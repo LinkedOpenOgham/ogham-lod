@@ -15,9 +15,6 @@
     ns1:currentlocation "other" ;
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "J. Windele" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000143>,
-        <http://lod.ogham.link/data/cisp:GRTMA_1>,
-        <http://lod.ogham.link/data/macalister_1945:225> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675533> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

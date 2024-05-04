@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 171 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000073>,
-        <http://lod.ogham.link/data/Y30000038>,
-        <http://lod.ogham.link/data/cisp:BLHUN_1>,
-        <http://lod.ogham.link/data/macalister_1897:25>,
-        <http://lod.ogham.link/data/macalister_1945:171>,
-        <http://lod.ogham.link/data/o3d:171._Ballynahunt> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892660> ;
     dc:identifier "171" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

@@ -12,7 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ardfert II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.15 ;
-    ns1:equals <http://lod.ogham.link/data/o3d:Ardfert_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674340> ;
     ns1:height 0.86 ;
     ns1:smr_no "KE020-046030-" ;

@@ -16,10 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "O`Sullivan, P." ;
     ns1:discovery_year "1940" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000107>,
-        <http://lod.ogham.link/data/cisp:RTHDF_2>,
-        <http://lod.ogham.link/data/cuppage_1986:873_2>,
-        <http://lod.ogham.link/data/macalister_1945:194a> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675679> ;
     ns1:form "pillp" ;
     ns1:h_status "actual" ;

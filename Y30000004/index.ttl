@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "102. Ballyhank VI (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.3 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000005>,
-        <http://lod.ogham.link/data/Y20000030>,
-        <http://lod.ogham.link/data/cisp:BAHAN_6>,
-        <http://lod.ogham.link/data/macalister_1907:153>,
-        <http://lod.ogham.link/data/macalister_1945:102>,
-        <http://lod.ogham.link/data/o3d:102._Ballyhank_VI> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674174> ;
     ns1:height 1.1 ;
     ns1:smr_no "CO085-067008-" ;

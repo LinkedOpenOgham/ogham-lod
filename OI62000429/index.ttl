@@ -1,0 +1,17 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/OI62000429> a <http://ontology.ogham.link/Inscription>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "inscription: 1 | reading:1"@en ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_inscriptions.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/OI62000429_activity> .
+

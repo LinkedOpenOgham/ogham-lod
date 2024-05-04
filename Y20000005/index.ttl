@@ -16,10 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "Brash, R.R." ;
     ns1:discovery_year "1879" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000047>,
-        <http://lod.ogham.link/data/cisp:AGHIB_3>,
-        <http://lod.ogham.link/data/macalister_1897:3>,
-        <http://lod.ogham.link/data/macalister_1945:140> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675299> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

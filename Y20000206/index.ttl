@@ -16,10 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Crocker and Abell" ;
     ns1:discovery_year "1849" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000010>,
-        <http://lod.ogham.link/data/cisp:GLLOG_1>,
-        <http://lod.ogham.link/data/macalister_1945:107>,
-        <http://lod.ogham.link/data/power_1992:7963> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675522> ;
     ns1:form "pillp" ;
     ns1:h_status "visible" ;

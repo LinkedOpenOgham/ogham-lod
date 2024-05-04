@@ -8,9 +8,16 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: endedAtTime"@en ;
     void:property prov:endedAtTime ;
-    void:triples 104,
+    void:triples 1,
+        4,
+        53,
+        96,
+        97,
+        104,
         231,
         538,
         595,
+        998,
+        1037,
         1237 .
 

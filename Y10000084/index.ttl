@@ -10,10 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 174 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000096>,
-        <http://lod.ogham.link/data/cisp:BRMOU_1>,
-        <http://lod.ogham.link/data/cuppage_1986:798>,
-        <http://lod.ogham.link/data/macalister_1945:174> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892670> ;
     dc:identifier "174" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

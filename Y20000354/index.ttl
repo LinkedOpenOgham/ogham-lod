@@ -16,9 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Mr. E. Hawkesworth" ;
     ns1:discovery_year "1841" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000032>,
-        <http://lod.ogham.link/data/cisp:TLGMO_1>,
-        <http://lod.ogham.link/data/macalister_1945:127> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675695> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

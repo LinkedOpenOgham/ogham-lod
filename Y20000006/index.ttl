@@ -16,12 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Hitchcock, R." ;
     ns1:discovery_year "1848" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000048>,
-        <http://lod.ogham.link/data/Y30000014>,
-        <http://lod.ogham.link/data/cisp:AGLIS_1>,
-        <http://lod.ogham.link/data/macalister_1897:5>,
-        <http://lod.ogham.link/data/macalister_1945:141>,
-        <http://lod.ogham.link/data/o3d:141._Aglish_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675300> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

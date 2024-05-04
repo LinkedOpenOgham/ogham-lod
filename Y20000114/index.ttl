@@ -15,7 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "E. McDonald" ;
     ns1:discovery_year "1940" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CLMOR_2> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675419> ;
     ns1:form "inc" ;
     ns1:preservation "inc" ;

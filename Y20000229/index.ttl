@@ -16,11 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Srgt. Lyons" ;
     ns1:discovery_year "1907" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000258>,
-        <http://lod.ogham.link/data/Y30000127>,
-        <http://lod.ogham.link/data/cisp:KILMA_1>,
-        <http://lod.ogham.link/data/macalister_1945:4>,
-        <http://lod.ogham.link/data/o3d:4._Kilmannin> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675546> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

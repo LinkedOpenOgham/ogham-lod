@@ -11,5 +11,10 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget geo: ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 3 .
+    void:triples 3,
+        4,
+        7,
+        55,
+        99,
+        100 .
 

@@ -15,8 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "inc" ;
     ns1:discovery_year "1875" ;
-    ns1:equals <http://lod.ogham.link/data/brikil_1993:506>,
-        <http://lod.ogham.link/data/cisp:HTOWN_1> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675536> ;
     ns1:form "ind" ;
     ns1:preservation "inc" ;

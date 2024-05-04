@@ -10,11 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 80 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000337>,
-        <http://lod.ogham.link/data/Y30000142>,
-        <http://lod.ogham.link/data/cisp:RTHCA_2>,
-        <http://lod.ogham.link/data/macalister_1945:80>,
-        <http://lod.ogham.link/data/o3d:80._Rathcanning_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892484> ;
     dc:identifier "80" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

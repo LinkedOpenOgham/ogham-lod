@@ -16,8 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "E. Rynne" ;
     ns1:discovery_year "1996" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:RATHK_1>,
-        <http://lod.ogham.link/data/osullivan_1996:1096> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675658> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

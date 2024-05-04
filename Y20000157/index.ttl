@@ -16,12 +16,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "F.C. Bland" ;
     ns1:discovery_year "1897" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000120>,
-        <http://lod.ogham.link/data/Y30000065>,
-        <http://lod.ogham.link/data/cisp:DERIV_1>,
-        <http://lod.ogham.link/data/macalister_1945:205>,
-        <http://lod.ogham.link/data/o3d:205._Derrygariff>,
-        <http://lod.ogham.link/data/osullivan_1996:914> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675468> ;
     ns1:form "ind" ;
     ns1:h_status "actual" ;

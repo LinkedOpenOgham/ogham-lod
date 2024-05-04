@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 19 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000118>,
-        <http://lod.ogham.link/data/Y30000050>,
-        <http://lod.ogham.link/data/cisp:COLIN_1>,
-        <http://lod.ogham.link/data/macalister_1897:50>,
-        <http://lod.ogham.link/data/macalister_1945:19>,
-        <http://lod.ogham.link/data/o3d:19._Colbinstown_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70899528> ;
     dc:identifier "19" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

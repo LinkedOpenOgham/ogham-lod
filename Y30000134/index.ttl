@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "51. Knickeen (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.58 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000271>,
-        <http://lod.ogham.link/data/Y20000276>,
-        <http://lod.ogham.link/data/cisp:KNICK_1>,
-        <http://lod.ogham.link/data/macalister_1945:51>,
-        <http://lod.ogham.link/data/o3d:51._Knickeen> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674324> ;
     ns1:height 2.37 ;
     ns1:smr_no "WI022-012----" ;

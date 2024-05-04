@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "185. Inishvickillane (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.18 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000096>,
-        <http://lod.ogham.link/data/Y20000223>,
-        <http://lod.ogham.link/data/cisp:INVIC_1>,
-        <http://lod.ogham.link/data/macalister_1945:185>,
-        <http://lod.ogham.link/data/o3d:185._Inishvickillane> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674218> ;
     ns1:height 1.05 ;
     ns1:smr_no "KE061-006008-" ;

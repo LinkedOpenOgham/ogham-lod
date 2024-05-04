@@ -15,9 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "inc" ;
     ns1:discovery_year "1850" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000239>,
-        <http://lod.ogham.link/data/cisp:WINDG_2>,
-        <http://lod.ogham.link/data/macalister_1945:308> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675710> ;
     ns1:form "inc" ;
     ns1:h_status "inc" ;

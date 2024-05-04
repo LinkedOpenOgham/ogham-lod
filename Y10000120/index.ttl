@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 205 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000157>,
-        <http://lod.ogham.link/data/Y30000065>,
-        <http://lod.ogham.link/data/cisp:DERIV_1>,
-        <http://lod.ogham.link/data/macalister_1945:205>,
-        <http://lod.ogham.link/data/o3d:205._Derrygariff>,
-        <http://lod.ogham.link/data/osullivan_1996:914> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892756> ;
     dc:identifier "205" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

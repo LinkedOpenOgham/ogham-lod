@@ -16,12 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Vallancey" ;
     ns1:discovery_year "1804" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000064>,
-        <http://lod.ogham.link/data/Y30000026>,
-        <http://lod.ogham.link/data/cisp:BLTAG_2>,
-        <http://lod.ogham.link/data/macalister_1897:13>,
-        <http://lod.ogham.link/data/macalister_1945:156>,
-        <http://lod.ogham.link/data/o3d:156._Ballintaggart_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675377> ;
     ns1:form "nboul" ;
     ns1:h_status "actual" ;

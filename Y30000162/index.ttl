@@ -12,7 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Tullaherin II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.26 ;
-    ns1:equals <http://lod.ogham.link/data/o3d:Tullaherin_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674357> ;
     ns1:height 1.56 ;
     ns1:smr_no "KK024-062009-" ;

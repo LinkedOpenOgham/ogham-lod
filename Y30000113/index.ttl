@@ -11,11 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "294. Knockboy III (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y10000223>,
-        <http://lod.ogham.link/data/Y20000270>,
-        <http://lod.ogham.link/data/cisp:KNBOY_3>,
-        <http://lod.ogham.link/data/macalister_1945:294>,
-        <http://lod.ogham.link/data/o3d:294._Knockboy_III> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674296> ;
     ns1:height 0.36 ;
     ns1:smr_no "WA013-034008-" ;

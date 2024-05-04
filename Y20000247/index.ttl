@@ -15,10 +15,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "R.R. Brash" ;
     ns1:discovery_year "1869" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000130>,
-        <http://lod.ogham.link/data/cisp:KLGOB_3>,
-        <http://lod.ogham.link/data/macalister_1945:214>,
-        <http://lod.ogham.link/data/osullivan_1996:952> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675566> ;
     ns1:form "inc" ;
     ns1:h_status "uncertain" ;

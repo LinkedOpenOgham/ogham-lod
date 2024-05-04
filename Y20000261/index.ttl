@@ -13,7 +13,6 @@
     ns1:currentlocation "lost" ;
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Rev. J. Casey" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:KLORG_3> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675585> ;
     ns1:form "ind" ;
     dc:identifier "KLORG/3" ;

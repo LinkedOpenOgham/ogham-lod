@@ -15,9 +15,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "Mr. E. MacWhite" ;
     ns1:discovery_year "1945" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000181>,
-        <http://lod.ogham.link/data/cisp:TRALE_1>,
-        <http://lod.ogham.link/data/macalister_1945:256a> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675701> ;
     ns1:form "pilsp" ;
     ns1:preservation "poor" ;

@@ -11,11 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "28. Churchclara I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y10000207>,
-        <http://lod.ogham.link/data/Y20000107>,
-        <http://lod.ogham.link/data/cisp:CHLAR_1>,
-        <http://lod.ogham.link/data/macalister_1945:28>,
-        <http://lod.ogham.link/data/o3d:28._Churchclara_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674287> ;
     ns1:height 1.57 ;
     ns1:smr_no "KK020-017003-" ;

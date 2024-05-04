@@ -16,12 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "J. C. Toumey" ;
     ns1:discovery_year "1854" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000266>,
-        <http://lod.ogham.link/data/Y30000130>,
-        <http://lod.ogham.link/data/cisp:CSMO_1>,
-        <http://lod.ogham.link/data/macalister_1897:48>,
-        <http://lod.ogham.link/data/macalister_1945:47>,
-        <http://lod.ogham.link/data/o3d:47._Castletimon> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675460> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

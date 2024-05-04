@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "50. Boleycarrigeen (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.28 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000270>,
-        <http://lod.ogham.link/data/Y20000064>,
-        <http://lod.ogham.link/data/cisp:BCARE_1>,
-        <http://lod.ogham.link/data/macalister_1945:50>,
-        <http://lod.ogham.link/data/o3d:50._Boleycarrigeen> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674323> ;
     ns1:height 0.76 ;
     ns1:smr_no "WI027-038002-" ;

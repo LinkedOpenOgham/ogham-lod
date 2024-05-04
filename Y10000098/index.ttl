@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 187 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000267>,
-        <http://lod.ogham.link/data/Y30000047>,
-        <http://lod.ogham.link/data/cisp:KMKDR_3>,
-        <http://lod.ogham.link/data/cuppage_1986:855_1>,
-        <http://lod.ogham.link/data/macalister_1945:187>,
-        <http://lod.ogham.link/data/o3d:187._Kilmalkedar> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892706> ;
     dc:identifier "187" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

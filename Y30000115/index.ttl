@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "296. Knockboy V (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.18 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000225>,
-        <http://lod.ogham.link/data/Y20000272>,
-        <http://lod.ogham.link/data/cisp:KNBOY_5>,
-        <http://lod.ogham.link/data/macalister_1945:296>,
-        <http://lod.ogham.link/data/o3d:296._Knockboy_V> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674298> ;
     ns1:height 1.45 ;
     ns1:smr_no "WA013-034010-" ;

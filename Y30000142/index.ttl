@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "80. Rathcanning II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.1 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000302>,
-        <http://lod.ogham.link/data/Y20000337>,
-        <http://lod.ogham.link/data/cisp:RTHCA_2>,
-        <http://lod.ogham.link/data/macalister_1945:80>,
-        <http://lod.ogham.link/data/o3d:80._Rathcanning_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674334> ;
     ns1:height 0.23 ;
     ns1:smr_no "CO066-053----" ;

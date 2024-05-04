@@ -16,11 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "C. Graves" ;
     ns1:discovery_year "1849" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000099>,
-        <http://lod.ogham.link/data/Y30000048>,
-        <http://lod.ogham.link/data/cisp:KINET_1>,
-        <http://lod.ogham.link/data/macalister_1945:188>,
-        <http://lod.ogham.link/data/o3d:188._Kinard_East_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675548> ;
     ns1:form "pillc" ;
     ns1:h_status "visible" ;

@@ -15,9 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "H. Pelham" ;
     ns1:discovery_year "1804" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000163>,
-        <http://lod.ogham.link/data/cisp:PARAR_2>,
-        <http://lod.ogham.link/data/macalister_1945:242a> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675647> ;
     ns1:form "pilsp" ;
     ns1:h_status "uncertain" ;

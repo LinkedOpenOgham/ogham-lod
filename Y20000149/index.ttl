@@ -16,8 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "D. Power" ;
     ns1:discovery_year "1985" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CRSER_1>,
-        <http://lod.ogham.link/data/power_1992:1035> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675458> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

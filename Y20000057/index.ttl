@@ -16,11 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Pelham, H." ;
     ns1:discovery_year "1782" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000062>,
-        <http://lod.ogham.link/data/Y30000024>,
-        <http://lod.ogham.link/data/cisp:BALIG_7>,
-        <http://lod.ogham.link/data/macalister_1945:154>,
-        <http://lod.ogham.link/data/o3d:154._Ballinrannig_VII> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675357> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

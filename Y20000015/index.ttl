@@ -15,8 +15,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Grifin, E.O." ;
     ns1:discovery_year "1989" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:ANSCL_1>,
-        <http://lod.ogham.link/data/mcmanus_1991:viii> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675310> ;
     ns1:form "inc" ;
     ns1:preservation "some" ;

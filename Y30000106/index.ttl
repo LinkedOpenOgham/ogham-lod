@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "279. Drumlohan VIII (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.24 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000206>,
-        <http://lod.ogham.link/data/Y20000181>,
-        <http://lod.ogham.link/data/cisp:DRUML_8>,
-        <http://lod.ogham.link/data/macalister_1945:279>,
-        <http://lod.ogham.link/data/o3d:279._Drumlohan_VIII> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674286> ;
     ns1:height 1.07 ;
     ns1:smr_no "WA024-033013-" ;

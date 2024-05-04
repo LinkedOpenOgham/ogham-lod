@@ -15,9 +15,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Rev. T. Olden" ;
     ns1:discovery_year "1872" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000289>,
-        <http://lod.ogham.link/data/cisp:KLCAS_1>,
-        <http://lod.ogham.link/data/macalister_1945:68> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675552> ;
     ns1:form "pilsp" ;
     ns1:preservation "some" ;

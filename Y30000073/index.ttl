@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "213. Kilcoolaght East VIII (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.08 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000129>,
-        <http://lod.ogham.link/data/Y20000243>,
-        <http://lod.ogham.link/data/cisp:KLCOO_8>,
-        <http://lod.ogham.link/data/macalister_1945:213>,
-        <http://lod.ogham.link/data/o3d:213._Kilcoolaght_East_VIII> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674249> ;
     ns1:height 0.3 ;
     ns1:smr_no "KE065-003010-" ;

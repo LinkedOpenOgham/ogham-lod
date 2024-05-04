@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "220. Derrynane (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.3 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000138>,
-        <http://lod.ogham.link/data/Y20000156>,
-        <http://lod.ogham.link/data/cisp:DENAN_1>,
-        <http://lod.ogham.link/data/macalister_1945:220>,
-        <http://lod.ogham.link/data/o3d:220._Derrynane>,
-        <http://lod.ogham.link/data/osullivan_1996:913> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674256> ;
     ns1:height 2.11 ;
     ns1:smr_no "KE106-114----" ;

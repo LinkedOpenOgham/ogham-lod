@@ -16,8 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "G. Doyle" ;
     ns1:discovery_year "1969" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:THOTO_1>,
-        <http://lod.ogham.link/data/mcmanus_1991:xiv> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675692> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

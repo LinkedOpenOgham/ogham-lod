@@ -15,10 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "R.R. Brash" ;
     ns1:discovery_year "1856" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000014>,
-        <http://lod.ogham.link/data/cisp:KNOUR_1>,
-        <http://lod.ogham.link/data/macalister_1945:110>,
-        <http://lod.ogham.link/data/power_1997:7993> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675605> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

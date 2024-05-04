@@ -16,10 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "M. Doyle" ;
     ns1:discovery_year "1969" ;
-    ns1:equals <http://lod.ogham.link/data/Y30000161>,
-        <http://lod.ogham.link/data/cisp:SHANK_1>,
-        <http://lod.ogham.link/data/mcmanus_1991:xvi>,
-        <http://lod.ogham.link/data/o3d:Shankill> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675687> ;
     ns1:form "inc" ;
     ns1:h_status "actual" ;

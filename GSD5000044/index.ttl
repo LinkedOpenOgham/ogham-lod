@@ -1,0 +1,25 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/GSD5000044> a <http://ontologies.geohive.ie/osi#Barony>,
+        ns1:Barony,
+        geo:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Barraigh Mhóra"@en,
+        "Barrymore"@en ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q4863006> ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/deed.de> ;
+    dcterms:rightsHolder <http://www.wikidata.org/entity/Q3355441>,
+        <http://www.wikidata.org/entity/Q85384744> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    geo:hasGeometry <http://lod.ogham.link/data/GSD5000044_geom> ;
+    prov:wasAttributedTo <http://lod.ogham.link/data/PythonStonesCIIC> ;
+    prov:wasDerivedFrom <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/geodata/gs_baronies.csv> ;
+    prov:wasGeneratedBy <http://lod.ogham.link/data/GSD5000044_activity> .
+

@@ -15,8 +15,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "workmen" ;
     ns1:discovery_year "1981" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:LHANE_2>,
-        <http://lod.ogham.link/data/power_1997:7977> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675621> ;
     ns1:form "inc" ;
     ns1:h_status "inc" ;

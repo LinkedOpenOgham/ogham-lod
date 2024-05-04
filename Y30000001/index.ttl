@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "10. Breastagh (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.6 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000002>,
-        <http://lod.ogham.link/data/Y20000093>,
-        <http://lod.ogham.link/data/cisp:BREAS_1>,
-        <http://lod.ogham.link/data/macalister_1897:47>,
-        <http://lod.ogham.link/data/macalister_1945:10>,
-        <http://lod.ogham.link/data/o3d:10._Breastagh> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674154> ;
     ns1:height 3.66 ;
     ns1:smr_no "MA015-018001-" ;

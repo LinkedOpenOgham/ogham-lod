@@ -16,9 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "Wakeman" ;
     ns1:discovery_year "1882" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000249>,
-        <http://lod.ogham.link/data/cisp:AGHAS_1>,
-        <http://lod.ogham.link/data/macalister_1945:317> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675296> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

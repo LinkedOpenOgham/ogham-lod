@@ -16,12 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "Pelham, H." ;
     ns1:discovery_year "1790" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000054>,
-        <http://lod.ogham.link/data/Y30000018>,
-        <http://lod.ogham.link/data/cisp:BALEE_1>,
-        <http://lod.ogham.link/data/macalister_1897:28>,
-        <http://lod.ogham.link/data/macalister_1945:147>,
-        <http://lod.ogham.link/data/o3d:147._Ballineesteenigh> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675349> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

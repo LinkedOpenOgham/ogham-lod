@@ -16,11 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "R.R. Brash" ;
     ns1:discovery_year "1872" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000022>,
-        <http://lod.ogham.link/data/Y30000008>,
-        <http://lod.ogham.link/data/cisp:MONAT_1>,
-        <http://lod.ogham.link/data/macalister_1945:118>,
-        <http://lod.ogham.link/data/o3d:118._Monataggart_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675630> ;
     ns1:form "rpmeg" ;
     ns1:h_status "actual" ;

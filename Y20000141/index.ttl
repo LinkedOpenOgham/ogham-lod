@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "COUME/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y10000088>,
-        <http://lod.ogham.link/data/Y30000042>,
-        <http://lod.ogham.link/data/cisp:COUME_1>,
-        <http://lod.ogham.link/data/cuppage_1986:268>,
-        <http://lod.ogham.link/data/macalister_1945:178>,
-        <http://lod.ogham.link/data/o3d:178._Coumeenole> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675447> ;
     dc:identifier "COUME/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

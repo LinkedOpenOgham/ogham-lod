@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "203. Coolmagort VII (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.1 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000118>,
-        <http://lod.ogham.link/data/Y20000136>,
-        <http://lod.ogham.link/data/cisp:COOLM_7>,
-        <http://lod.ogham.link/data/macalister_1945:203>,
-        <http://lod.ogham.link/data/o3d:203._Coolmagort_VII> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674238> ;
     ns1:height 0.86 ;
     ns1:smr_no "KE065-078008-" ;

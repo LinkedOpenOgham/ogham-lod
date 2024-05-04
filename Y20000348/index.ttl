@@ -16,10 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "O`Connor, Canon" ;
     ns1:discovery_year "1910" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000246>,
-        <http://lod.ogham.link/data/cisp:STISL_1>,
-        <http://lod.ogham.link/data/macalister_1945:314>,
-        <http://lod.ogham.link/data/osullivan_1996:915> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675688> ;
     ns1:form "inc" ;
     ns1:h_status "actual" ;

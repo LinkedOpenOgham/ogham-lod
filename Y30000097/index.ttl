@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "267. Dromore II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.25 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000193>,
-        <http://lod.ogham.link/data/Y20000170>,
-        <http://lod.ogham.link/data/cisp:DROMR_2>,
-        <http://lod.ogham.link/data/macalister_1945:267>,
-        <http://lod.ogham.link/data/o3d:267._Dromore_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674277> ;
     ns1:height 1.3 ;
     ns1:smr_no "WA029-042006-" ;

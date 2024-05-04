@@ -11,10 +11,19 @@
         dcterms:rightsHolder ;
     void:objectsTarget <http://www.wikidata.org/entity/> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 104,
+    void:triples 1,
+        2,
+        4,
+        8,
+        96,
+        97,
+        98,
+        104,
+        194,
         231,
         366,
         530,
+        693,
         1076,
         1237 .
 

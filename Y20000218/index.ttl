@@ -16,11 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Lynch, P. J." ;
     ns1:discovery_year "1894" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000176>,
-        <http://lod.ogham.link/data/Y30000088>,
-        <http://lod.ogham.link/data/cisp:GURAN_1>,
-        <http://lod.ogham.link/data/macalister_1945:252>,
-        <http://lod.ogham.link/data/o3d:252._Gurrane> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675534> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

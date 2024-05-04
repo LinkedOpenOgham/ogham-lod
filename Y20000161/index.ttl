@@ -16,9 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "R.A.S. Macalister" ;
     ns1:discovery_year "1897" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000283>,
-        <http://lod.ogham.link/data/cisp:DNBUL_1>,
-        <http://lod.ogham.link/data/macalister_1945:62> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675473> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

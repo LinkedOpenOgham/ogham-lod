@@ -16,11 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "R. A. S. Macalister" ;
     ns1:discovery_year "1929" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000137>,
-        <http://lod.ogham.link/data/Y30000078>,
-        <http://lod.ogham.link/data/cisp:COLIN_4>,
-        <http://lod.ogham.link/data/macalister_1945:22>,
-        <http://lod.ogham.link/data/o3d:22._Colbinstown_IV> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675426> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

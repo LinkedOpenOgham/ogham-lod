@@ -15,8 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Rev. M. Lane" ;
     ns1:discovery_year "1835" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CLHEE_1>,
-        <http://lod.ogham.link/data/power_1992:7991> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675415> ;
     ns1:form "pilsp" ;
     dc:identifier "CLHEE/1" ;

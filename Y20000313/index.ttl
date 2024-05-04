@@ -16,11 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "R.R. Brash" ;
     ns1:discovery_year "1879" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000231>,
-        <http://lod.ogham.link/data/Y30000119>,
-        <http://lod.ogham.link/data/cisp:OLDIS_1>,
-        <http://lod.ogham.link/data/macalister_1945:300>,
-        <http://lod.ogham.link/data/o3d:300._Island> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675642> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

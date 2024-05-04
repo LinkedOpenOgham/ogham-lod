@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "253. Killorglin (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.42 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000177>,
-        <http://lod.ogham.link/data/Y20000259>,
-        <http://lod.ogham.link/data/cisp:KLORG_1>,
-        <http://lod.ogham.link/data/macalister_1945:253>,
-        <http://lod.ogham.link/data/o3d:253._Killorglin>,
-        <http://lod.ogham.link/data/osullivan_1996:916> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674267> ;
     ns1:height 1.2 ;
     ns1:smr_no "DU018-393----" ;

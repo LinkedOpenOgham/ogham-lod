@@ -16,10 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Cremin and Murphy" ;
     ns1:discovery_year "1910" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000020>,
-        <http://lod.ogham.link/data/cisp:KNWEE_5>,
-        <http://lod.ogham.link/data/macalister_1945:116>,
-        <http://lod.ogham.link/data/power_1997:7973> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675612> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

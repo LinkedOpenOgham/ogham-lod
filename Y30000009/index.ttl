@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "119. Monataggart II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.11 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000023>,
-        <http://lod.ogham.link/data/Y20000304>,
-        <http://lod.ogham.link/data/cisp:MONAT_2>,
-        <http://lod.ogham.link/data/macalister_1945:119>,
-        <http://lod.ogham.link/data/o3d:119._Monataggart_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674180> ;
     ns1:height 0.91 ;
     ns1:smr_no "CO061-022003-" ;

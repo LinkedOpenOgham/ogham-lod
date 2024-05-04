@@ -16,9 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "J. Dolan" ;
     ns1:discovery_year "1916" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000257>,
-        <http://lod.ogham.link/data/cisp:BAROG_1>,
-        <http://lod.ogham.link/data/macalister_1945:39> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675360> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

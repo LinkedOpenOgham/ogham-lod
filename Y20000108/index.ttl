@@ -16,10 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "M. O`Kelly, S. Kavan" ;
     ns1:discovery_year "1954" ;
-    ns1:equals <http://lod.ogham.link/data/Y30000149>,
-        <http://lod.ogham.link/data/cisp:CHUIS_1>,
-        <http://lod.ogham.link/data/o3d:Church_Island>,
-        <http://lod.ogham.link/data/osullivan_1996:927> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675412> ;
     ns1:form "pillc" ;
     ns1:h_status "actual" ;

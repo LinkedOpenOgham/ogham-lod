@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "195. Rathmalode I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.1 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000108>,
-        <http://lod.ogham.link/data/Y20000343>,
-        <http://lod.ogham.link/data/cisp:RTHOD_1>,
-        <http://lod.ogham.link/data/macalister_1945:195>,
-        <http://lod.ogham.link/data/o3d:195._Rathmalode_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674229> ;
     ns1:height 1.04 ;
     ns1:smr_no "KE042-165---" ;

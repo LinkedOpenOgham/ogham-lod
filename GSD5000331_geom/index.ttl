@@ -1,0 +1,11 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ontology.ogham.link/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://lod.ogham.link/data/GSD5000331_geom> a <http://www.opengis.net/ont/sf#MultiPolygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    ns1:hasEPSG <http://www.opengis.net/def/crs/EPSG/0/4326> ;
+    void:inDataset <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    geo:asWKT "MULTIPOLYGON(((-6.93280065348027 52.8435413539652,-6.93439361199631 52.8415140278113,-6.93444280010954 52.8386011976146,-6.93562051466233 52.8377166992028,-6.93706900657292 52.8373222642593,-6.93760772352936 52.8367191547057,-6.9380314567515 52.8348103869478,-6.93712257140694 52.8329535029787,-6.93756434892286 52.8287404170839,-6.94021538408827 52.8333566239243,-6.9460880561036 52.8395899778026,-6.93280065348027 52.8435413539652)))"^^geo:wktLiteral .
+

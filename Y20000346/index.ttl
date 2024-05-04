@@ -16,9 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Power, Canon" ;
     ns1:discovery_year "1899" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000188>,
-        <http://lod.ogham.link/data/cisp:SCHUD_1>,
-        <http://lod.ogham.link/data/macalister_1945:262> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675686> ;
     ns1:form "pillp" ;
     ns1:h_status "actual" ;

@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "263. Ardmore I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.3 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000189>,
-        <http://lod.ogham.link/data/Y20000011>,
-        <http://lod.ogham.link/data/cisp:AMORE_1>,
-        <http://lod.ogham.link/data/macalister_1907:208>,
-        <http://lod.ogham.link/data/macalister_1945:263>,
-        <http://lod.ogham.link/data/o3d:263._Ardmore_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674271> ;
     ns1:height 1.27 ;
     ns1:smr_no "WA040-008005-" ;

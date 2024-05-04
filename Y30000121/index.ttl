@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "32. Gowran (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.3 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000250>,
-        <http://lod.ogham.link/data/Y20000211>,
-        <http://lod.ogham.link/data/cisp:GOWRN_1>,
-        <http://lod.ogham.link/data/macalister_1945:32>,
-        <http://lod.ogham.link/data/o3d:32._Gowran> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674307> ;
     ns1:height 1.5 ;
     ns1:smr_no "KK020-060007-" ;

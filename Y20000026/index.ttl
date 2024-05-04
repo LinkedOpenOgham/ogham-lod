@@ -16,12 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Windele, J." ;
     ns1:discovery_year "1843" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000321>,
-        <http://lod.ogham.link/data/Y30000144>,
-        <http://lod.ogham.link/data/cisp:BAHAN_2>,
-        <http://lod.ogham.link/data/macalister_1907:149>,
-        <http://lod.ogham.link/data/macalister_1945:98>,
-        <http://lod.ogham.link/data/o3d:98._Ballyhank_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675322> ;
     ns1:form "slbns" ;
     ns1:h_status "actual" ;

@@ -15,8 +15,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "M.J. O`Kelly, E. She" ;
     ns1:discovery_year "1968" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:DNWAY_3>,
-        <http://lod.ogham.link/data/mcmanus_1991:xi> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675477> ;
     ns1:form "slbns" ;
     ns1:preservation "inc" ;

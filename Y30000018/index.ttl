@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "147. Ballineesteenigh (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.36 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000054>,
-        <http://lod.ogham.link/data/Y20000049>,
-        <http://lod.ogham.link/data/cisp:BALEE_1>,
-        <http://lod.ogham.link/data/macalister_1897:28>,
-        <http://lod.ogham.link/data/macalister_1945:147>,
-        <http://lod.ogham.link/data/o3d:147._Ballineesteenigh> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674190> ;
     ns1:height 1.93 ;
     ns1:smr_no "KE043-248----" ;

@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "153. Ballinrannig VI (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.18 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000061>,
-        <http://lod.ogham.link/data/Y20000056>,
-        <http://lod.ogham.link/data/cisp:BALIG_6>,
-        <http://lod.ogham.link/data/macalister_1897:11>,
-        <http://lod.ogham.link/data/macalister_1945:153>,
-        <http://lod.ogham.link/data/o3d:153._Ballinrannig_VI> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674195> ;
     ns1:height 1.02 ;
     ns1:smr_no "KE042-057011-" ;

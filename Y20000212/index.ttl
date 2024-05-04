@@ -16,9 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Atkinson, G. M." ;
     ns1:discovery_year "1883" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000195>,
-        <http://lod.ogham.link/data/cisp:GRANG_1>,
-        <http://lod.ogham.link/data/macalister_1945:269> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675528> ;
     ns1:form "pilsc" ;
     ns1:h_status "visible" ;

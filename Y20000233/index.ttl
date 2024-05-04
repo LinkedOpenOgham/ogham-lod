@@ -16,11 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Mr. Martin" ;
     ns1:discovery_year "1875" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000213>,
-        <http://lod.ogham.link/data/Y30000110>,
-        <http://lod.ogham.link/data/cisp:KLBEG_1>,
-        <http://lod.ogham.link/data/macalister_1945:285>,
-        <http://lod.ogham.link/data/o3d:285._Kilbeg> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675550> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

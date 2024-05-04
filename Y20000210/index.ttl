@@ -16,10 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Macalister, R. A. S." ;
     ns1:discovery_year "1907" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000288>,
-        <http://lod.ogham.link/data/cisp:GOUR_1>,
-        <http://lod.ogham.link/data/macalister_1945:67>,
-        <http://lod.ogham.link/data/power_1992:1038> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675526> ;
     ns1:form "pillp" ;
     ns1:h_status "visible" ;

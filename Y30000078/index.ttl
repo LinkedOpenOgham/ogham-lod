@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "22. Colbinstown IV (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.41 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000137>,
-        <http://lod.ogham.link/data/Y20000121>,
-        <http://lod.ogham.link/data/cisp:COLIN_4>,
-        <http://lod.ogham.link/data/macalister_1945:22>,
-        <http://lod.ogham.link/data/o3d:22._Colbinstown_IV> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674255> ;
     ns1:height 1.6 ;
     ns1:smr_no "KD032-044004-" ;

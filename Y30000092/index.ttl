@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "26. Donaghmore (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.23 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000185>,
-        <http://lod.ogham.link/data/Y20000162>,
-        <http://lod.ogham.link/data/cisp:DNMOR_1>,
-        <http://lod.ogham.link/data/macalister_1945:26>,
-        <http://lod.ogham.link/data/o3d:26._Donaghmore> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674270> ;
     ns1:height 0.76 ;
     ns1:smr_no "KD006-005002-" ;

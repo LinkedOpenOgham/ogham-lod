@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "25. Colbinstown VII (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.23 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000173>,
-        <http://lod.ogham.link/data/Y20000124>,
-        <http://lod.ogham.link/data/cisp:COLIN_7>,
-        <http://lod.ogham.link/data/macalister_1945:25>,
-        <http://lod.ogham.link/data/o3d:25._Colbinstown_VII> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674265> ;
     ns1:height 0.36 ;
     ns1:smr_no "KD032-044007-" ;

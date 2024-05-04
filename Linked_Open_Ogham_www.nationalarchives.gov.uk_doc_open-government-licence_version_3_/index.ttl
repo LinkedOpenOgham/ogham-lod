@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lod.ogham.link/data/Linked_Open_Ogham_www.nationalarchives.gov.uk_doc_open-government-licence_version_3_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: Linked_Open_Ogham - 3"@en ;
+    void:linkPredicate dcterms:license ;
+    void:objectsTarget <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> ;
+    void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
+    void:triples 1,
+        4 .
+

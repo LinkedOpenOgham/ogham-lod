@@ -14,8 +14,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Power et al." ;
     ns1:discovery_year "1983" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:GLSHS_1>,
-        <http://lod.ogham.link/data/power_1992:4240> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675524> ;
     ns1:form "ind" ;
     ns1:h_status "ind" ;

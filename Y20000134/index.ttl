@@ -16,11 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Mr. Abel" ;
     ns1:discovery_year "1838" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000116>,
-        <http://lod.ogham.link/data/Y30000062>,
-        <http://lod.ogham.link/data/cisp:COOLM_5>,
-        <http://lod.ogham.link/data/macalister_1945:201>,
-        <http://lod.ogham.link/data/o3d:201._Coolmagort_V> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675440> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

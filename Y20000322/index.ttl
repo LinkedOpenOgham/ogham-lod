@@ -16,9 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "T. Fanning" ;
     ns1:discovery_year "1975" ;
-    ns1:equals <http://lod.ogham.link/data/Y30000158>,
-        <http://lod.ogham.link/data/cisp:RATAS_1>,
-        <http://lod.ogham.link/data/o3d:Ratass> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675656> ;
     ns1:form "pilsc" ;
     ns1:h_status "actual" ;

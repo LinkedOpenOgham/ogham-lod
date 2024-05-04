@@ -16,11 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Foley" ;
     ns1:discovery_year "1873" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000179>,
-        <http://lod.ogham.link/data/Y30000090>,
-        <http://lod.ogham.link/data/cisp:TINAH_1>,
-        <http://lod.ogham.link/data/macalister_1945:255>,
-        <http://lod.ogham.link/data/o3d:255._Tinnahally_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675693> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

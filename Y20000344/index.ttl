@@ -16,11 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "Windele" ;
     ns1:discovery_year "1853" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000109>,
-        <http://lod.ogham.link/data/Y30000056>,
-        <http://lod.ogham.link/data/cisp:RTHOD_2>,
-        <http://lod.ogham.link/data/macalister_1945:196>,
-        <http://lod.ogham.link/data/o3d:196._Rathmalode_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675684> ;
     ns1:form "pillp" ;
     ns1:h_status "actual" ;

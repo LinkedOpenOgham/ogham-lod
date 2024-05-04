@@ -12,9 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ratass.xml(Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.2 ;
-    ns1:equals <http://lod.ogham.link/data/Y20000322>,
-        <http://lod.ogham.link/data/cisp:RATAS_1>,
-        <http://lod.ogham.link/data/o3d:Ratass> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674352> ;
     ns1:height 1.45 ;
     ns1:smr_no "KE029-157002-" ;

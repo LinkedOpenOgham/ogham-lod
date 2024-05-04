@@ -16,11 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "du Noyer, G. V." ;
     ns1:discovery_year "1851" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000224>,
-        <http://lod.ogham.link/data/Y30000114>,
-        <http://lod.ogham.link/data/cisp:KNBOY_4>,
-        <http://lod.ogham.link/data/macalister_1945:295>,
-        <http://lod.ogham.link/data/o3d:295._Knockboy_IV> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675595> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;

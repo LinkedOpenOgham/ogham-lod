@@ -10,11 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 196 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000344>,
-        <http://lod.ogham.link/data/Y30000056>,
-        <http://lod.ogham.link/data/cisp:RTHOD_2>,
-        <http://lod.ogham.link/data/macalister_1945:196>,
-        <http://lod.ogham.link/data/o3d:196._Rathmalode_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892732> ;
     dc:identifier "196" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

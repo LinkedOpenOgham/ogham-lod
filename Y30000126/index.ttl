@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "38. Ballyboodan (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.23 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000255>,
-        <http://lod.ogham.link/data/Y20000289>,
-        <http://lod.ogham.link/data/cisp:LAMOG_2>,
-        <http://lod.ogham.link/data/macalister_1945:37>,
-        <http://lod.ogham.link/data/o3d:38._Ballyboodan> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674313> ;
     ns1:height 2.31 ;
     ns1:smr_no "KK031-058----" ;

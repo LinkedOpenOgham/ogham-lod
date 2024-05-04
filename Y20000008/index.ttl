@@ -16,12 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Hawkes, Z." ;
     ns1:discovery_year "1841" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000290>,
-        <http://lod.ogham.link/data/Y30000138>,
-        <http://lod.ogham.link/data/cisp:AHLIS_1>,
-        <http://lod.ogham.link/data/macalister_1907:138>,
-        <http://lod.ogham.link/data/macalister_1945:69>,
-        <http://lod.ogham.link/data/o3d:69._Ahalisky_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675303> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

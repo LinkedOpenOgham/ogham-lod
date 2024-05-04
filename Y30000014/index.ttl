@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "141. Aglish I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.05 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000048>,
-        <http://lod.ogham.link/data/Y20000006>,
-        <http://lod.ogham.link/data/cisp:AGLIS_1>,
-        <http://lod.ogham.link/data/macalister_1897:5>,
-        <http://lod.ogham.link/data/macalister_1945:141>,
-        <http://lod.ogham.link/data/o3d:141._Aglish_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674185> ;
     ns1:height 0.88 ;
     ns1:smr_no "KE054-032003-" ;

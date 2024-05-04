@@ -16,9 +16,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "C. Manning" ;
     ns1:discovery_year "1974" ;
-    ns1:equals <http://lod.ogham.link/data/Y30000156>,
-        <http://lod.ogham.link/data/cisp:KNMAH_1>,
-        <http://lod.ogham.link/data/o3d:Knockmahon_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675604> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

@@ -10,11 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 241 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000234>,
-        <http://lod.ogham.link/data/Y30000083>,
-        <http://lod.ogham.link/data/cisp:KLBON_1>,
-        <http://lod.ogham.link/data/macalister_1945:241>,
-        <http://lod.ogham.link/data/o3d:241._Kilbonane> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892851> ;
     dc:identifier "241" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

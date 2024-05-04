@@ -16,9 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "P.F. O`Neill" ;
     ns1:discovery_year "1939" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000147>,
-        <http://lod.ogham.link/data/cisp:CARIN_1>,
-        <http://lod.ogham.link/data/macalister_1945:229> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675409> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

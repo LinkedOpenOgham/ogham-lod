@@ -10,10 +10,17 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://ontology.ogham.link/> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 127,
+    void:triples 1,
+        4,
+        52,
+        96,
+        97,
+        98,
+        127,
         231,
         538,
         595,
-        2474,
-        3364 .
+        998,
+        1037,
+        2474 .
 

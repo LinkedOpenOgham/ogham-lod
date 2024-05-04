@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "4. Kilmannin (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.3 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000258>,
-        <http://lod.ogham.link/data/Y20000229>,
-        <http://lod.ogham.link/data/cisp:KILMA_1>,
-        <http://lod.ogham.link/data/macalister_1945:4>,
-        <http://lod.ogham.link/data/o3d:4._Kilmannin> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674314> ;
     ns1:height 1.22 ;
     ns1:smr_no "MA093-045003-" ;

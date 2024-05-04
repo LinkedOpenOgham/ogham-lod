@@ -15,11 +15,6 @@
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "Tralee Field Club" ;
     ns1:discovery_year "1945" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000168>,
-        <http://lod.ogham.link/data/Y30000085>,
-        <http://lod.ogham.link/data/cisp:ARDCT_1>,
-        <http://lod.ogham.link/data/macalister_1945:246a>,
-        <http://lod.ogham.link/data/o3d:246a._Ardcanaght_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675311> ;
     ns1:form "slbns" ;
     ns1:preservation "poor" ;

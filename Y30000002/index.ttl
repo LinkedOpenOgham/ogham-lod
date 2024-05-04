@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "100. Ballyhank IV (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.2 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000003>,
-        <http://lod.ogham.link/data/Y20000028>,
-        <http://lod.ogham.link/data/cisp:BAHAN_4>,
-        <http://lod.ogham.link/data/macalister_1907:151>,
-        <http://lod.ogham.link/data/macalister_1945:100>,
-        <http://lod.ogham.link/data/o3d:100._Ballyhank_IV> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674171> ;
     ns1:height 1.3 ;
     ns1:smr_no "CO085-067006-" ;

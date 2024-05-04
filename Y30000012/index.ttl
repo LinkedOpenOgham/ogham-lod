@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "13. Rathcroghan II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.25 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000035>,
-        <http://lod.ogham.link/data/Y20000325>,
-        <http://lod.ogham.link/data/cisp:RCROG_2>,
-        <http://lod.ogham.link/data/macalister_1945:13>,
-        <http://lod.ogham.link/data/o3d:13._Rathcroghan_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674183> ;
     ns1:height 1.4 ;
     ns1:smr_no "RO022-057084-" ;

@@ -12,7 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Scattery Island (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.14 ;
-    ns1:equals <http://lod.ogham.link/data/o3d:Scattery_Island> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674355> ;
     ns1:height 2.0 ;
     ns1:smr_no "CL067-024016-" ;

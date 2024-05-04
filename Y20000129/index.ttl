@@ -14,9 +14,6 @@
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Windele" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000034>,
-        <http://lod.ogham.link/data/cisp:COOLH_1>,
-        <http://lod.ogham.link/data/macalister_1945:129> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675435> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

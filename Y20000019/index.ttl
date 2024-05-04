@@ -16,9 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "O`Sullivan, P." ;
     ns1:discovery_year "1945" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000051>,
-        <http://lod.ogham.link/data/cisp:ARDNE_1>,
-        <http://lod.ogham.link/data/macalister_1945:144> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675314> ;
     ns1:form "ind" ;
     ns1:h_status "actual" ;

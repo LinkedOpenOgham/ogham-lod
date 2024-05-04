@@ -15,8 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "O Danachair, C." ;
     ns1:discovery_year "1960" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:FARAN_1>,
-        <http://lod.ogham.link/data/cuppage_1986:934> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675504> ;
     ns1:form "ind" ;
     ns1:h_status "inc" ;

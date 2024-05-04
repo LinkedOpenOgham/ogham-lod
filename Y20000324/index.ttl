@@ -10,11 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "RCROG/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y10000024>,
-        <http://lod.ogham.link/data/Y30000010>,
-        <http://lod.ogham.link/data/cisp:RCROG_1>,
-        <http://lod.ogham.link/data/macalister_1945:12>,
-        <http://lod.ogham.link/data/o3d:12._Rathcroghan_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675660> ;
     dc:identifier "RCROG/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

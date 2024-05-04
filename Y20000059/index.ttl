@@ -16,10 +16,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "Haly, D." ;
     ns1:discovery_year "1845" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000006>,
-        <http://lod.ogham.link/data/cisp:BARHA_1>,
-        <http://lod.ogham.link/data/macalister_1907:178>,
-        <http://lod.ogham.link/data/macalister_1945:103> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675359> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

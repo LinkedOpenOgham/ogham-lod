@@ -16,7 +16,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "R. A. S. Macalister" ;
     ns1:discovery_year "1910" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:CSTGR_1> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675461> ;
     ns1:form "pilsp" ;
     ns1:h_status "uncertain" ;

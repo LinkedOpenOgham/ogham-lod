@@ -10,9 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "COOME/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y10000275>,
-        <http://lod.ogham.link/data/cisp:COOME_1>,
-        <http://lod.ogham.link/data/macalister_1945:55> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675444> ;
     dc:identifier "COOME/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

@@ -15,12 +15,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Hitchcock" ;
     ns1:discovery_year "1848" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000083>,
-        <http://lod.ogham.link/data/Y30000040>,
-        <http://lod.ogham.link/data/cisp:BRCKN_1>,
-        <http://lod.ogham.link/data/cuppage_1986:352>,
-        <http://lod.ogham.link/data/macalister_1945:173>,
-        <http://lod.ogham.link/data/o3d:173._Brackloon> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675395> ;
     ns1:form "inc" ;
     dc:identifier "BRCKN/1" ;

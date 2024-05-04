@@ -10,11 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 246b (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000017>,
-        <http://lod.ogham.link/data/Y30000086>,
-        <http://lod.ogham.link/data/cisp:ARDCT_2>,
-        <http://lod.ogham.link/data/macalister_1945:246b>,
-        <http://lod.ogham.link/data/o3d:246b._Ardcanaght_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85410013> ;
     dc:identifier "246b" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

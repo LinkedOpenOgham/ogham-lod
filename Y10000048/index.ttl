@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 141 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000006>,
-        <http://lod.ogham.link/data/Y30000014>,
-        <http://lod.ogham.link/data/cisp:AGLIS_1>,
-        <http://lod.ogham.link/data/macalister_1897:5>,
-        <http://lod.ogham.link/data/macalister_1945:141>,
-        <http://lod.ogham.link/data/o3d:141._Aglish_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892578> ;
     dc:identifier "141" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

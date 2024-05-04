@@ -16,7 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "O`Sullivan, A." ;
     ns1:discovery_year "1996" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:KLLAG_1> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675579> ;
     ns1:form "pillc" ;
     ns1:h_status "actual" ;

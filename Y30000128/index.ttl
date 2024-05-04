@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "40. Painestown (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.33 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000259>,
-        <http://lod.ogham.link/data/Y20000314>,
-        <http://lod.ogham.link/data/cisp:PAINT_1>,
-        <http://lod.ogham.link/data/macalister_1945:40>,
-        <http://lod.ogham.link/data/o3d:40._Painestown> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674315> ;
     ns1:height 2.24 ;
     ns1:smr_no "ME026-009----" ;

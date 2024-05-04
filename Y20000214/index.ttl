@@ -15,12 +15,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "landowner" ;
     ns1:discovery_year "1906" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000278>,
-        <http://lod.ogham.link/data/Y30000136>,
-        <http://lod.ogham.link/data/cisp:GRENL_2>,
-        <http://lod.ogham.link/data/macalister_1945:58>,
-        <http://lod.ogham.link/data/o3d:58._Greenhill_II>,
-        <http://lod.ogham.link/data/power_1992:7964> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675530> ;
     ns1:form "pilsp" ;
     ns1:h_status "inc" ;

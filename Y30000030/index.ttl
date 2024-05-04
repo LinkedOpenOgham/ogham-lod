@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "16. Rathglass (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.82 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000068>,
-        <http://lod.ogham.link/data/Y20000332>,
-        <http://lod.ogham.link/data/cisp:RGLAS_1>,
-        <http://lod.ogham.link/data/macalister_1945:16>,
-        <http://lod.ogham.link/data/o3d:16._Rathglass> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674202> ;
     ns1:height 1.3 ;
     ns1:smr_no "CW013-018001-" ;

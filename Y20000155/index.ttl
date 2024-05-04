@@ -16,9 +16,6 @@
     ns1:currentsetting "lost" ;
     ns1:discovery_who "Windele" ;
     ns1:discovery_year "1847" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000136>,
-        <http://lod.ogham.link/data/cisp:DEGAS_1>,
-        <http://lod.ogham.link/data/macalister_1945:219> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675466> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

@@ -8,10 +8,16 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: type"@en ;
     void:property rdf:type ;
-    void:triples 335,
+    void:triples 4,
+        16,
+        335,
+        481,
+        485,
+        488,
         924,
         1614,
+        1996,
+        2074,
         2380,
-        3364,
         3711 .
 

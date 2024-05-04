@@ -16,10 +16,6 @@
     ns1:currentsetting "in display" ;
     ns1:discovery_who "Barry, E., Rev." ;
     ns1:discovery_year "1891" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000318>,
-        <http://lod.ogham.link/data/cisp:BAKNK_14>,
-        <http://lod.ogham.link/data/macalister_1907:176>,
-        <http://lod.ogham.link/data/macalister_1945:95> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675334> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

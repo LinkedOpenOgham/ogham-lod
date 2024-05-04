@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "17. Tuckamine (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.27 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000079>,
-        <http://lod.ogham.link/data/Y20000355>,
-        <http://lod.ogham.link/data/cisp:TMINE_1>,
-        <http://lod.ogham.link/data/macalister_1945:17>,
-        <http://lod.ogham.link/data/o3d:17._Tuckamine> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674208> ;
     ns1:height 1.12 ;
     ns1:smr_no "CW003-023----" ;

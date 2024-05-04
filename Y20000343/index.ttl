@@ -15,11 +15,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "Hitchcock" ;
     ns1:discovery_year "1853" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000108>,
-        <http://lod.ogham.link/data/Y30000055>,
-        <http://lod.ogham.link/data/cisp:RTHOD_1>,
-        <http://lod.ogham.link/data/macalister_1945:195>,
-        <http://lod.ogham.link/data/o3d:195._Rathmalode_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675683> ;
     ns1:form "pilsp" ;
     ns1:h_status "inc" ;

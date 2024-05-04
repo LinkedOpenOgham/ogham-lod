@@ -16,11 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Mr. Shelley" ;
     ns1:discovery_year "1891" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000255>,
-        <http://lod.ogham.link/data/Y30000126>,
-        <http://lod.ogham.link/data/cisp:LAMOG_2>,
-        <http://lod.ogham.link/data/macalister_1945:37>,
-        <http://lod.ogham.link/data/o3d:38._Ballyboodan> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675616> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "15. Clonmore (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.22 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000057>,
-        <http://lod.ogham.link/data/Y20000113>,
-        <http://lod.ogham.link/data/cisp:CLMOR_1>,
-        <http://lod.ogham.link/data/macalister_1945:15>,
-        <http://lod.ogham.link/data/o3d:15._Clonmore> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674191> ;
     ns1:height 0.78 ;
     ns1:smr_no "CW009-028021-" ;

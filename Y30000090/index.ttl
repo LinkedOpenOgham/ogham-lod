@@ -12,11 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "255. Tinnahally I (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.28 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000179>,
-        <http://lod.ogham.link/data/Y20000352>,
-        <http://lod.ogham.link/data/cisp:TINAH_1>,
-        <http://lod.ogham.link/data/macalister_1945:255>,
-        <http://lod.ogham.link/data/o3d:255._Tinnahally_I> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674268> ;
     ns1:height 1.83 ;
     ns1:smr_no "KE057-105001-" ;

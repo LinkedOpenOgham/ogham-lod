@@ -15,12 +15,6 @@
     ns1:currentlocation "other" ;
     ns1:currentsetting "on ground" ;
     ns1:discovery_who "inc" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000085>,
-        <http://lod.ogham.link/data/Y30000041>,
-        <http://lod.ogham.link/data/cisp:BRHAM_1>,
-        <http://lod.ogham.link/data/cuppage_1986:799>,
-        <http://lod.ogham.link/data/macalister_1945:175>,
-        <http://lod.ogham.link/data/o3d:175._Burnham_West> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675398> ;
     ns1:form "ind" ;
     ns1:h_status "actual" ;

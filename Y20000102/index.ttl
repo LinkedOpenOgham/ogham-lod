@@ -16,10 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "J.J. O`Crowley" ;
     ns1:discovery_year "1906" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000294>,
-        <http://lod.ogham.link/data/cisp:CARHA_1>,
-        <http://lod.ogham.link/data/macalister_1945:73>,
-        <http://lod.ogham.link/data/power_1992:1032> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675406> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

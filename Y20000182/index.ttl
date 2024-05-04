@@ -16,11 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "W. Williams" ;
     ns1:discovery_year "1867" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000208>,
-        <http://lod.ogham.link/data/Y30000108>,
-        <http://lod.ogham.link/data/cisp:DRUML_9>,
-        <http://lod.ogham.link/data/macalister_1945:280>,
-        <http://lod.ogham.link/data/o3d:280._Drumlohan_IX> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675495> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

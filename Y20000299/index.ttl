@@ -16,12 +16,6 @@
     ns1:currentsetting "in ground" ;
     ns1:discovery_who "Graves, C." ;
     ns1:discovery_year "1887" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000105>,
-        <http://lod.ogham.link/data/Y30000054>,
-        <http://lod.ogham.link/data/cisp:MAUIG_1>,
-        <http://lod.ogham.link/data/cuppage_1986:868_4>,
-        <http://lod.ogham.link/data/macalister_1945:193>,
-        <http://lod.ogham.link/data/o3d:193._Maumanorig> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675626> ;
     ns1:form "nboul" ;
     ns1:h_status "visible" ;

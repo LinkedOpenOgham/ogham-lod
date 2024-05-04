@@ -10,12 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 191 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:equals <http://lod.ogham.link/data/Y20000297>,
-        <http://lod.ogham.link/data/Y30000052>,
-        <http://lod.ogham.link/data/cisp:LUGUL_2>,
-        <http://lod.ogham.link/data/cuppage_1986:807_2>,
-        <http://lod.ogham.link/data/macalister_1945:191>,
-        <http://lod.ogham.link/data/o3d:191._Lugnagappul_II> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892719> ;
     dc:identifier "191" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

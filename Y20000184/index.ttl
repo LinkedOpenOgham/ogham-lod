@@ -16,9 +16,6 @@
     ns1:currentsetting "in struct" ;
     ns1:discovery_who "W.A. Lindsay" ;
     ns1:discovery_year "1936" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000248>,
-        <http://lod.ogham.link/data/cisp:DUNAL_1>,
-        <http://lod.ogham.link/data/macalister_1945:316> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675497> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

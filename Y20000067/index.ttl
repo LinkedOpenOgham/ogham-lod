@@ -16,8 +16,6 @@
     ns1:currentsetting "unattch" ;
     ns1:discovery_who "Phelan, M." ;
     ns1:discovery_year "1991" ;
-    ns1:equals <http://lod.ogham.link/data/cisp:BENBR_1>,
-        <http://lod.ogham.link/data/mcmanus_1991:xv> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675725> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

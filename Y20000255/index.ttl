@@ -16,9 +16,6 @@
     ns1:currentsetting "inc" ;
     ns1:discovery_who "M.J. Delap" ;
     ns1:discovery_year "1913" ;
-    ns1:equals <http://lod.ogham.link/data/Y10000153>,
-        <http://lod.ogham.link/data/cisp:KLKEE_1>,
-        <http://lod.ogham.link/data/macalister_1945:234> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675578> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;

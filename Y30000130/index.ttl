@@ -12,12 +12,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "47. Castletimon (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
     ns1:depth 0.25 ;
-    ns1:equals <http://lod.ogham.link/data/Y10000266>,
-        <http://lod.ogham.link/data/Y20000151>,
-        <http://lod.ogham.link/data/cisp:CSMO_1>,
-        <http://lod.ogham.link/data/macalister_1897:48>,
-        <http://lod.ogham.link/data/macalister_1945:47>,
-        <http://lod.ogham.link/data/o3d:47._Castletimon> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674317> ;
     ns1:height 1.5 ;
     ns1:smr_no "WI036-010----" ;
