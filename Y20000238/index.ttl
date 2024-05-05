@@ -18,7 +18,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675556> ;
     ns1:form "ind" ;
     ns1:h_status "ind" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000208> ;
     ns1:preservation_note "Macalister/1949, 125, states that even before being lost the stone was fragmentary." ;
     ns1:shows <http://lod.ogham.link/data/OP400498> ;
     ns1:t_status "ind" ;

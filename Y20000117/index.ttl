@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "COHIL/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000213> ;
     ns1:completeness "frgmntry" ;
     ns1:currentlocation "museum" ;
     ns1:currentsetting "unattch" ;
@@ -21,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675422> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000228> ;
     ns1:height 0.75 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 222, `a fragment only`. " ;

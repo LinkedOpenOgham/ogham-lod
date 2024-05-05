@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "COOLH/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000228> ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in ground" ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000075> ;
@@ -19,7 +18,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675435> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000129> ;
     ns1:height 0.84 ;
     ns1:shows <http://lod.ogham.link/data/OP400196>,
         <http://lod.ogham.link/data/OP400517>,

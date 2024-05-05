@@ -10,7 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "RFILD/5 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000501> ;
     ns1:currentlocation "lost" ;
     ns1:currentsetting "lost" ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000208> ;
@@ -18,7 +17,6 @@
     ns1:discovery_year "1891" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675668> ;
     ns1:form "ind" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000378> ;
     ns1:shows <http://lod.ogham.link/data/OP400104>,
         <http://lod.ogham.link/data/OW6>,
         <http://lod.ogham.link/data/OW8> ;

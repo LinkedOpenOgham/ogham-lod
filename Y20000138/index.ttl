@@ -12,7 +12,6 @@
     rdfs:label "COOME/1 (Ogham Stone Concept by CISP)"@en ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000079> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675444> ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000055> ;
     ns1:shows <http://lod.ogham.link/data/OP400395>,
         <http://lod.ogham.link/data/OP400446>,
         <http://lod.ogham.link/data/OP400471> ;

@@ -20,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675555> ;
     ns1:form "slbns" ;
     ns1:h_status "actual" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000207> ;
     ns1:height 0.41 ;
     ns1:preservation "poor" ;
     ns1:preservation_note "Macalister/1949, 125, `the stone is so badly spalled`." ;

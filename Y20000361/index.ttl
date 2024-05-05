@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "TULLA/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000541> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "on site" ;
     ns1:currentsetting "on ground" ;
@@ -21,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675703> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000006> ;
     ns1:height 1.96 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 9, notes that the stone had suffered damage as as result of `boys, who lit a fire against the stone`. " ;

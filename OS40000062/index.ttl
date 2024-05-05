@@ -11,17 +11,12 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Castletimon (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85391708> ;
-    ns1:hasLocation <http://lod.ogham.link/data/OL201791285>,
-        <http://lod.ogham.link/data/OL8000000062>,
-        <http://lod.ogham.link/data/OL9000000238> ;
     ns1:label_barony "Arklow" ;
     ns1:label_country "Ireland" ;
     ns1:label_county "Wicklow" ;
     ns1:label_province "Leinster" ;
     ns1:label_townland "Castletimon" ;
     ns1:representativePoint <http://lod.ogham.link/data/OS40000062_geom> ;
-    ns1:within <http://lod.ogham.link/data/GSD3000002>,
-        <http://lod.ogham.link/data/GSD5000332> ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,

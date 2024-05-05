@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "DUNGM/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000311> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "on site" ;
     ns1:currentsetting "in ground" ;
@@ -21,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675501> ;
     ns1:form "pilsc" ;
     ns1:h_status "visible" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000313> ;
     ns1:height 1.6 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 301, `Scores, meaningless, and probably produced by tool-sharpening, are on all the angles, but only those on the N.W. angle are capable of being grouped into letters...A hole weathered in the surface of the stone has damaged the V.`" ;

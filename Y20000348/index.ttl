@@ -20,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675688> ;
     ns1:form "inc" ;
     ns1:h_status "actual" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000314> ;
     ns1:height 0.33 ;
     ns1:preservation "poor" ;
     ns1:preservation_note "Macalister/1945, 302, `desparately worn`." ;

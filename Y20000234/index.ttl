@@ -11,12 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "KLBON/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000384>,
-        <http://lod.ogham.link/data/OI62000385>,
-        <http://lod.ogham.link/data/OI62000386>,
-        <http://lod.ogham.link/data/OI62000387>,
-        <http://lod.ogham.link/data/OI62000388>,
-        <http://lod.ogham.link/data/OI62000389> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "other" ;
     ns1:currentsetting "in display" ;
@@ -26,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675551> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000241> ;
     ns1:height 1.91 ;
     ns1:preservation "good" ;
     ns1:shows <http://lod.ogham.link/data/OP400003>,

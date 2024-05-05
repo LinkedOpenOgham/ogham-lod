@@ -11,11 +11,9 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "178. Coumeenole (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI61000042> ;
     ns1:depth 0.3 ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000083> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674214> ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000178> ;
     ns1:height 2.0 ;
     ns1:shows <http://lod.ogham.link/data/OP400176>,
         <http://lod.ogham.link/data/OP400203>,

@@ -20,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675539> ;
     ns1:form "pilsc" ;
     ns1:h_status "visible" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000001> ;
     ns1:height 0.71 ;
     ns1:preservation "some" ;
     ns1:preservation_note "First recorded in Pelham/1804, 224-225.Macalister/1945, 157 and Cuppage/etal/1986, 44, record the stone as still in it`s earliest position.." ;

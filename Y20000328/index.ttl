@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "RFILD/3 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000499> ;
     ns1:completeness "frgmntry" ;
     ns1:currentlocation "other" ;
     ns1:currentsetting "inc" ;
@@ -21,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675664> ;
     ns1:form "ind" ;
     ns1:h_status "uncertain" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000245> ;
     ns1:height 0.3 ;
     dc:identifier "RFILD/3" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

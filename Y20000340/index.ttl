@@ -10,9 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "RTHKE/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000514>,
-        <http://lod.ogham.link/data/OI62000515>,
-        <http://lod.ogham.link/data/OI62000516> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in struct" ;
@@ -21,7 +18,6 @@
     ns1:discovery_year "1949" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675680> ;
     ns1:form "inc" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000380> ;
     ns1:preservation "inc" ;
     ns1:shows <http://lod.ogham.link/data/OP400099>,
         <http://lod.ogham.link/data/OP400448>,

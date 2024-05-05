@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "BALGH/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000101> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in ground" ;
@@ -21,7 +20,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675350> ;
     ns1:form "pilsp" ;
     ns1:h_status "actual" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000042> ;
     ns1:height 2.9 ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 48, indicates that the two angles of the western face have `been completely hammered away`." ;

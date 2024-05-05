@@ -11,16 +11,12 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Balloughton (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85391707> ;
-    ns1:hasLocation <http://lod.ogham.link/data/OL8000000023>,
-        <http://lod.ogham.link/data/OL9000000224> ;
     ns1:label_barony "Bargy" ;
     ns1:label_country "Ireland" ;
     ns1:label_county "Wexford" ;
     ns1:label_province "Leinster" ;
     ns1:label_townland "Balloughton" ;
     ns1:representativePoint <http://lod.ogham.link/data/OS40000023_geom> ;
-    ns1:within <http://lod.ogham.link/data/GSD3000002>,
-        <http://lod.ogham.link/data/GSD5000045> ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,

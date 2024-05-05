@@ -11,7 +11,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Glin North/South (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106628071> ;
-    ns1:hasLocation <http://lod.ogham.link/data/OL9000000205> ;
     ns1:label_barony "nan" ;
     ns1:label_country "Ireland" ;
     ns1:label_county "Kerry" ;

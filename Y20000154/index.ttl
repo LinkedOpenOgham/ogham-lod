@@ -10,9 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "DEELI/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000263>,
-        <http://lod.ogham.link/data/OI62000264>,
-        <http://lod.ogham.link/data/OI62000265> ;
     ns1:completeness "incomplete" ;
     ns1:currentlocation "museum" ;
     ns1:currentsetting "unattch" ;
@@ -21,7 +18,6 @@
     ns1:discovery_year "1826" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675463> ;
     ns1:form "pilsp" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000106> ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1945, 108, `The bottom of the stone is broken away, carrying with it the beginnings of both lines`. " ;
     ns1:shows <http://lod.ogham.link/data/OP400091>,

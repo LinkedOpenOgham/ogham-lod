@@ -11,17 +11,12 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Boleycarrigeen (Ogham Site)"@en ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q85391685> ;
-    ns1:hasLocation <http://lod.ogham.link/data/OL683506322>,
-        <http://lod.ogham.link/data/OL8000000045>,
-        <http://lod.ogham.link/data/OL9000000247> ;
     ns1:label_barony "Talbotstown Upper" ;
     ns1:label_country "Ireland" ;
     ns1:label_county "Wicklow" ;
     ns1:label_province "Leinster" ;
     ns1:label_townland "Boleycarrigeen" ;
     ns1:representativePoint <http://lod.ogham.link/data/OS40000045_geom> ;
-    ns1:within <http://lod.ogham.link/data/GSD3000002>,
-        <http://lod.ogham.link/data/GSD5000072> ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <http://www.wikidata.org/entity/Q85384744>,

@@ -1,1 +1,1 @@
-var proprelations={"http://ontology.ogham.link/identifiedAs": {"from": [], "to": [], "triples": 998}}
+var proprelations={"http://ontology.ogham.link/shows": {"from": [], "to": [], "triples": 713}}

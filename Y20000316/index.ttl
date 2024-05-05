@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "PARAR/2 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000488> ;
     ns1:currentlocation "lost" ;
     ns1:currentsetting "lost" ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000194> ;
@@ -20,7 +19,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675647> ;
     ns1:form "pilsp" ;
     ns1:h_status "uncertain" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000320> ;
     ns1:height 1.3 ;
     ns1:t_status "uncertain" ;
     ns1:thickness 0.18 ;

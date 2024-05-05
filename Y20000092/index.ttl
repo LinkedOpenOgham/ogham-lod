@@ -10,7 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "BRCKN/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000176> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "lost" ;
     ns1:currentsetting "lost" ;
@@ -19,7 +18,6 @@
     ns1:discovery_year "1848" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675395> ;
     ns1:form "inc" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000173> ;
     ns1:shows <http://lod.ogham.link/data/OW6> ;
     dc:identifier "BRCKN/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

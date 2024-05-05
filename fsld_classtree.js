@@ -40903,7 +40903,7 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#altLabel": {
-              "instancecount": 4
+              "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 2
@@ -40928,7 +40928,7 @@ var tree={
             }
           }
         },
-        "instancecount": 22
+        "instancecount": 20
       },
       {
         "id": "http://lod.ogham.link/data/OW1_suniv2_",
@@ -41035,7 +41035,7 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#altLabel": {
-              "instancecount": 4
+              "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 2
@@ -41054,13 +41054,11 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 3,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+              "http://www.w3.org/2004/02/skos/core#Collection": 3
             }
           }
         },
-        "instancecount": 23
+        "instancecount": 21
       },
       {
         "id": "http://lod.ogham.link/data/OW1_activity",
@@ -41930,7 +41928,7 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#altLabel": {
-              "instancecount": 2
+              "instancecount": 8
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 2
@@ -41949,13 +41947,11 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 3,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+              "http://www.w3.org/2004/02/skos/core#Collection": 3
             }
           }
         },
-        "instancecount": 21
+        "instancecount": 27
       },
       {
         "id": "http://lod.ogham.link/data/Word_collection",
@@ -50336,12 +50332,6 @@ var tree={
         "text": "Location (Location) [595]",
         "data": {
           "to": {
-            "http://ontology.ogham.link/irishGrid": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/sitecode": {
-              "instancecount": 1
-            },
             "http://purl.org/dc/terms/creator": {
               "instancecount": 1
             },
@@ -50386,7 +50376,7 @@ var tree={
             }
           }
         },
-        "instancecount": 14
+        "instancecount": 12
       },
       {
         "id": "http://lod.ogham.link/data/OL6958697_geom",
@@ -54571,13 +54561,18 @@ var tree={
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#asWKT": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             }
           },
           "from": {
+            "http://ontology.ogham.link/lastRecorded": {
+              "instancecount": 0,
+              "http://ontology.ogham.link/GeographicLocation": 1,
+              "https://pleiades.stoa.org/places/vocab#Location": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 0,
               "http://ontology.ogham.link/GeographicLocation": 1,
@@ -54591,7 +54586,7 @@ var tree={
             }
           }
         },
-        "instancecount": 4
+        "instancecount": 5
       },
       {
         "id": "http://lod.ogham.link/data/OL6958697_activity",
@@ -92339,7 +92334,25 @@ var tree={
         "text": "OghamStone_CISP (oghamonto:OghamStone_CISP) [368]",
         "data": {
           "to": {
+            "http://ontology.ogham.link/completeness": {
+              "instancecount": 1
+            },
+            "http://ontology.ogham.link/currentlocation": {
+              "instancecount": 1
+            },
+            "http://ontology.ogham.link/currentsetting": {
+              "instancecount": 1
+            },
+            "http://ontology.ogham.link/discovery_who": {
+              "instancecount": 1
+            },
             "http://ontology.ogham.link/exactMatch": {
+              "instancecount": 1
+            },
+            "http://ontology.ogham.link/form": {
+              "instancecount": 1
+            },
+            "http://ontology.ogham.link/preservation": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/identifier": {
@@ -92388,7 +92401,7 @@ var tree={
             }
           }
         },
-        "instancecount": 14
+        "instancecount": 20
       },
       {
         "id": "http://lod.ogham.link/data/Y30000001_suniv1_",

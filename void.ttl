@@ -233,10 +233,10 @@ vext: a voaf:Vocabulary ;
     dcat:downloadURL "https://LinkedOpenOgham.github.io/ogham-lod//index.ttl"^^xsd:anyURI ;
     dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
 
-<http://lod.ogham.link/data/Linked_Open_Ogham_identifiedAs> a void:Dataset ;
-    rdfs:label "Property Partition: identifiedAs"@en ;
-    void:property <http://ontology.ogham.link/identifiedAs> ;
-    void:triples 998 .
+<http://lod.ogham.link/data/Linked_Open_Ogham_shows> a void:Dataset ;
+    rdfs:label "Property Partition: shows"@en ;
+    void:property <http://ontology.ogham.link/shows> ;
+    void:triples 713 .
 
 dcam: a voaf:Vocabulary ;
     rdfs:label "dcam Vocabulary"@en ;
@@ -432,18 +432,18 @@ wgs: a voaf:Vocabulary ;
         adms:Asset ;
     rdfs:label "Linked_Open_Ogham"@en ;
     vext:averageLiteralLength 0 ;
-    vext:averageObjectIRILength 40 ;
-    vext:averagePropertyIRILength 39 ;
-    vext:averageSubjectIRILength 37 ;
+    vext:averageObjectIRILength 38 ;
+    vext:averagePropertyIRILength 32 ;
+    vext:averageSubjectIRILength 36 ;
     vext:datatypes 0 ;
     vext:distinctBlankNodes 0 ;
-    vext:distinctIRIReferences 1997 ;
+    vext:distinctIRIReferences 915 ;
     vext:distinctLiterals 0 ;
-    vext:distinctRDFNodes 1997 ;
+    vext:distinctRDFNodes 915 ;
     vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-04T13:22:58"^^xsd:dateTime ;
+    dcterms:modified "2024-05-05T11:40:09"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -467,14 +467,14 @@ wgs: a voaf:Vocabulary ;
         <http://lod.ogham.link/data/Linked_Open_Ogham_Word> ;
     void:classes 0 ;
     void:dataDump <https://LinkedOpenOgham.github.io/ogham-lod//index.ttl> ;
-    void:distinctObjects 998 ;
-    void:distinctSubjects 998 ;
-    void:entities 999 ;
+    void:distinctObjects 538 ;
+    void:distinctSubjects 376 ;
+    void:entities 377 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 1 ;
-    void:propertyPartition <http://lod.ogham.link/data/Linked_Open_Ogham_identifiedAs> ;
-    void:triples 1996 ;
+    void:propertyPartition <http://lod.ogham.link/data/Linked_Open_Ogham_shows> ;
+    void:triples 1089 ;
     void:uriSpace "http://lod.ogham.link/data/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,

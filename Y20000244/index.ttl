@@ -18,7 +18,6 @@
     ns1:discovery_year "1896" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675562> ;
     ns1:form "pilsp" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000014> ;
     ns1:preservation "inc" ;
     dc:identifier "KLCUM/1" ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

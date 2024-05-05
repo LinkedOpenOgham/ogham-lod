@@ -11,11 +11,9 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "49. Baltinglass (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI61000132> ;
     ns1:depth 0.03 ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000040> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674320> ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000049> ;
     ns1:height 0.67 ;
     ns1:shows <http://lod.ogham.link/data/OW6> ;
     ns1:smr_no "WI027-079----" ;

@@ -10,7 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "DNWAY/3 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000282> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "earliest" ;
     ns1:currentsetting "in struct" ;
@@ -19,7 +18,6 @@
     ns1:discovery_year "1968" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675477> ;
     ns1:form "slbns" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000361> ;
     ns1:preservation "inc" ;
     ns1:shows <http://lod.ogham.link/data/OP400002>,
         <http://lod.ogham.link/data/OW6> ;

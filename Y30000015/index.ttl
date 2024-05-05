@@ -11,10 +11,8 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "142. Aglish II (Ogham Stone Concept by the Ogham in 3D Project)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI61000015> ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000006> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106674186> ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000142> ;
     ns1:height 0.9 ;
     ns1:shows <http://lod.ogham.link/data/OW2>,
         <http://lod.ogham.link/data/OW3> ;

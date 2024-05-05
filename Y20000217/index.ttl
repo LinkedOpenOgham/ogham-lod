@@ -11,7 +11,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "GRTMA/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000360> ;
     ns1:completeness "complete" ;
     ns1:currentlocation "other" ;
     ns1:currentsetting "in ground" ;
@@ -20,7 +19,6 @@
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675533> ;
     ns1:form "pilsp" ;
     ns1:h_status "visible" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000225> ;
     ns1:height 1.22 ;
     ns1:preservation "good" ;
     ns1:shows <http://lod.ogham.link/data/OP400390>,

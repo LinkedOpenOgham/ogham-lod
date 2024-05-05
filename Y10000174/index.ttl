@@ -10,10 +10,8 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "CIIC 250 (Ogham Stone Concept by RAS Macalister)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI60000174> ;
     ns1:disclosedAt <http://lod.ogham.link/data/OS40000080> ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q70892889> ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000250> ;
     ns1:shows <http://lod.ogham.link/data/OW11>,
         <http://lod.ogham.link/data/OW16>,
         <http://lod.ogham.link/data/OW30>,

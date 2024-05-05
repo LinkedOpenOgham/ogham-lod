@@ -10,8 +10,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "BALBR/1 (Ogham Stone Concept by CISP)"@en ;
-    ns1:carries <http://lod.ogham.link/data/OI62000096>,
-        <http://lod.ogham.link/data/OI62000097> ;
     ns1:completeness "inc" ;
     ns1:currentlocation "inc" ;
     ns1:currentsetting "inc" ;
@@ -20,7 +18,6 @@
     ns1:discovery_year "1949" ;
     ns1:exactMatch <http://www.wikidata.org/entity/Q106675348> ;
     ns1:form "inc" ;
-    ns1:hasCollection <http://lod.ogham.link/data/Y50000348> ;
     ns1:preservation "some" ;
     ns1:preservation_note "Macalister/1949, 197, speaks of some `damage` and a `spall fracture`." ;
     ns1:shows <http://lod.ogham.link/data/OP400030>,
