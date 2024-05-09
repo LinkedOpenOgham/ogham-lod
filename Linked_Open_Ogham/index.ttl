@@ -41,6 +41,7 @@
         19,
         24,
         30,
+        3080,
         4176,
         7765,
         9380,
@@ -71,6 +72,7 @@
     ns1:distinctBlankNodes 0 ;
     ns1:distinctIRIReferences 47,
         74,
+        519,
         710,
         795,
         915,
@@ -87,6 +89,7 @@
     ns1:distinctLiterals 0,
         8,
         17,
+        176,
         322,
         327,
         335,
@@ -99,6 +102,7 @@
         3741 ;
     ns1:distinctRDFNodes 55,
         91,
+        695,
         710,
         915,
         1145,
@@ -117,8 +121,8 @@
         2 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-05T11:40:09"^^xsd:dateTime,
-        "2024-05-05T11:40:10"^^xsd:dateTime ;
+    dcterms:modified "2024-05-09T17:35:09"^^xsd:dateTime,
+        "2024-05-09T17:35:10"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -166,6 +170,7 @@
         39,
         85,
         230,
+        339,
         538,
         564,
         615,
@@ -179,6 +184,7 @@
         6226 ;
     void:distinctSubjects 11,
         20,
+        165,
         214,
         298,
         300,
@@ -193,6 +199,7 @@
         2481 ;
     void:entities 8,
         17,
+        162,
         214,
         295,
         297,
@@ -274,6 +281,7 @@
     void:triples 45,
         126,
         1089,
+        1481,
         1991,
         2470,
         2710,

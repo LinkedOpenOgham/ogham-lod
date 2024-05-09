@@ -11,6 +11,7 @@
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
     void:triples 1,
         4,
+        52,
         97,
         231,
         595 .
