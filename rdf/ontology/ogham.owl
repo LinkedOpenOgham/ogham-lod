@@ -29,8 +29,8 @@
         <dc:subject>ogham</dc:subject>
         <dc:title xml:lang="en">Ogham Ontology</dc:title>
         <rdfs:label xml:lang="en">Ogham Ontology</rdfs:label>
-        <owl:versionInfo>04/05/2024</owl:versionInfo>
-        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.1</owl:versionInfo>
+        <owl:versionInfo>1.1.1</owl:versionInfo>
+        <owl:versionInfo>21/08/2024</owl:versionInfo>
         <skos:definition xml:lang="en">This ontology contains classes to describe data from Linked Ogham Data.</skos:definition>
     </owl:Ontology>
     
@@ -183,6 +183,7 @@
     <!-- http://archaeology.link/ontology#disclosedAt -->
 
     <owl:ObjectProperty rdf:about="http://archaeology.link/ontology#disclosedAt">
+        <rdfs:subPropertyOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P53_has_former_or_current_location"/>
         <owl:inverseOf rdf:resource="http://archaeology.link/ontology#disclosedAt"/>
         <rdfs:domain rdf:resource="http://ontology.ogham.link/OghamStone"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/OghamSite"/>
@@ -239,6 +240,7 @@
     <!-- http://ontology.ogham.link/carries -->
 
     <owl:ObjectProperty rdf:about="http://ontology.ogham.link/carries">
+        <rdfs:subPropertyOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P56_bears_feature"/>
         <rdfs:domain rdf:resource="http://ontology.ogham.link/OghamStone"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/Inscription"/>
         <rdfs:label xml:lang="en">carries</rdfs:label>
@@ -273,8 +275,8 @@
     <owl:ObjectProperty rdf:about="http://ontology.ogham.link/equals">
         <owl:equivalentProperty rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
-        <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
-        <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+        <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object"/>
+        <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object"/>
         <rdfs:label xml:lang="en">equals</rdfs:label>
     </owl:ObjectProperty>
     
@@ -369,6 +371,7 @@
     <!-- http://ontology.ogham.link/identifiedAs -->
 
     <owl:ObjectProperty rdf:about="http://ontology.ogham.link/identifiedAs">
+        <rdfs:subPropertyOf rdf:resource="http://www.cidoc-crm.org/extensions/crmtex/TXP4_has_segment"/>
         <rdfs:domain rdf:resource="http://ontology.ogham.link/Inscription"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/Reading"/>
         <rdfs:label xml:lang="en">identified as</rdfs:label>
@@ -424,7 +427,7 @@
     <!-- http://ontology.ogham.link/references -->
 
     <owl:ObjectProperty rdf:about="http://ontology.ogham.link/references">
-        <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+        <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/Book"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/Repository"/>
         <rdfs:label xml:lang="en">references</rdfs:label>
@@ -446,6 +449,7 @@
     <!-- http://ontology.ogham.link/shows -->
 
     <owl:ObjectProperty rdf:about="http://ontology.ogham.link/shows">
+        <rdfs:subPropertyOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation"/>
         <rdfs:domain rdf:resource="http://ontology.ogham.link/OghamStone"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/Person"/>
         <rdfs:range rdf:resource="http://ontology.ogham.link/Word"/>
@@ -457,9 +461,53 @@
     <!-- http://ontology.ogham.link/within -->
 
     <owl:ObjectProperty rdf:about="http://ontology.ogham.link/within">
+        <rdfs:subPropertyOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P89_falls_within"/>
         <rdfs:domain rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <rdfs:range rdf:resource="http://www.opengis.net/ont/geosparql#SpatialObject"/>
         <rdfs:label xml:lang="en">st_within()</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation -->
+
+    <owl:ObjectProperty rdf:about="http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation">
+        <rdfs:label xml:lang="en">has representation</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.cidoc-crm.org/cidoc-crm/P53_has_former_or_current_location -->
+
+    <owl:ObjectProperty rdf:about="http://www.cidoc-crm.org/cidoc-crm/P53_has_former_or_current_location">
+        <rdfs:comment xml:lang="en">This property identifies an instance of E53 Place as the former or current location of an instance of E18 Physical Thing.
+In the case of instances of E19 Physical Object, the property does not allow any indication of the Time-Span during which the instance of E19 Physical Object was located at this instance of E53 Place, nor if this is the current location.
+In the case of immobile objects, the Place would normally correspond to the Place of creation.
+This property is a shortcut. A more detailed representation can make use of the fully developed (i.e. indirect) path from E19 Physical Object, though, P25i moved by, E9 Move, P26 moved to or P27 moved from to E53 Place.</rdfs:comment>
+        <rdfs:label xml:lang="en">has former or current location</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.cidoc-crm.org/cidoc-crm/P56_bears_feature -->
+
+    <owl:ObjectProperty rdf:about="http://www.cidoc-crm.org/cidoc-crm/P56_bears_feature">
+        <rdfs:comment xml:lang="en">This property links an instance of E19 Physical Object to an instance of E26 Physical Feature that it bears.
+An instance of E26 Physical Feature can only exist on one object. One object may bear more than one E26 Physical Feature. An instance of E27 Site should be considered as an instance of E26 Physical Feature on the surface of the Earth.
+An instance B of E26 Physical Feature being a detail of the structure of another instance A of E26 Physical Feature can be linked to B by use of the property P46 is composed of (forms part of). This implies that the subfeature B is P56i is found on the same E19 Physical Object as A.
+This property is a shortcut. A more detailed representation can make use of the fully developed (i.e. indirect) path E19 Physical Object, through, P59 has section, E53 Place, P53i is former or current location of to E26 Physical Feature.</rdfs:comment>
+        <rdfs:label xml:lang="en">bears feature</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.cidoc-crm.org/cidoc-crm/P89_falls_within -->
+
+    <owl:ObjectProperty rdf:about="http://www.cidoc-crm.org/cidoc-crm/P89_falls_within">
+        <rdfs:comment xml:lang="en">This property identifies an instance of E53 Place that falls wholly within the extent of another instance of E53 Place.
+It addresses spatial containment only and does not imply any relationship between things or phenomena occupying these places.
+This property is transitive and reflexive.</rdfs:comment>
+        <rdfs:label xml:lang="en">falls within</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -469,6 +517,15 @@
     <owl:ObjectProperty rdf:about="http://www.cidoc-crm.org/cidoc-crm/crmtex/TXP7_has_item">
         <rdfs:comment xml:lang="en">This property is used to state the (conceptual) belonging of a TX8 Grapheme to a given TX3 Writing System.</rdfs:comment>
         <rdfs:label xml:lang="en">TXP7 has item</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.cidoc-crm.org/extensions/crmtex/TXP4_has_segment -->
+
+    <owl:ObjectProperty rdf:about="http://www.cidoc-crm.org/extensions/crmtex/TXP4_has_segment">
+        <rdfs:comment xml:lang="en">This property is intended to correlate a text and the different parts of it which a scholar can identify, such as: letters, words, lines, columns, pages, or any other scan that can be made by scholars because it is considered to have a particular relevance for the investigation of the text itself.</rdfs:comment>
+        <rdfs:label xml:lang="en">has segment</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -1056,7 +1113,7 @@
     <!-- http://ontology.ogham.link/Book -->
 
     <owl:Class rdf:about="http://ontology.ogham.link/Book">
-        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object"/>
         <rdfs:label xml:lang="en">Book</rdfs:label>
     </owl:Class>
     
@@ -1110,7 +1167,7 @@
     <!-- http://ontology.ogham.link/InformationCarrier -->
 
     <owl:Class rdf:about="http://ontology.ogham.link/InformationCarrier">
-        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object"/>
         <rdfs:label xml:lang="en">Information Carrier</rdfs:label>
     </owl:Class>
     
@@ -1353,7 +1410,7 @@
     <!-- http://ontology.ogham.link/Word -->
 
     <owl:Class rdf:about="http://ontology.ogham.link/Word">
-        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"/>
         <rdfs:label xml:lang="en">Word</rdfs:label>
     </owl:Class>
     
@@ -1381,20 +1438,14 @@
     
 
 
-    <!-- http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object -->
+    <!-- http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object -->
 
-    <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object">
+    <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object">
         <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Man-Made_Thing"/>
-        <rdfs:comment>This class comprises physical objects purposely created by human activity.
-      No assumptions are made as to the extent of modification required to justify regarding an object as man-made. For example, an inscribed piece of rock or a preserved butterfly are both regarded as instances of E22 Man-Made Object.
-      </rdfs:comment>
+        <rdfs:comment xml:lang="en">This class comprises all persistent physical objects of any size that are purposely created by human activity and have physical boundaries that separate them completely in an objective way from other objects.
+The class also includes all aggregates of objects made for functional purposes of whatever kind, independent of physical coherence, such as a set of chessmen.</rdfs:comment>
+        <rdfs:label xml:lang="en">Human-Made Object</rdfs:label>
         <rdfs:label xml:lang="de">Künstlicher Gegenstand</rdfs:label>
-        <rdfs:label xml:lang="en">Man-Made Object</rdfs:label>
-        <rdfs:label xml:lang="fr">Objet fabriqué</rdfs:label>
-        <rdfs:label xml:lang="pt">Objeto Fabricado</rdfs:label>
-        <rdfs:label xml:lang="el">Ανθρωπογενές Αντικείμενο</rdfs:label>
-        <rdfs:label xml:lang="ru">Рукотворный Объект</rdfs:label>
-        <rdfs:label xml:lang="zh">人造物件</rdfs:label>
     </owl:Class>
     
 
@@ -1417,12 +1468,25 @@
     
 
 
-    <!-- http://www.cidoc-crm.org/cidoc-crm/E25_Man-Made_Feature -->
+    <!-- http://www.cidoc-crm.org/cidoc-crm/E25_Human-Made_Feature -->
 
-    <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E25_Man-Made_Feature">
+    <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E25_Human-Made_Feature">
         <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Man-Made_Thing"/>
-        <rdfs:comment xml:lang="en">This class comprises physical features that are purposely created by human activity, such as scratches, artificial caves, artificial water channels, etc.  No assumptions are made as to the extent of modification required to justify regarding a feature as man-made. For example, rock art or even “cup and ring” carvings on bedrock a regarded as types of E25 Man-Made Feature.</rdfs:comment>
-        <rdfs:label xml:lang="en">Man-Made Feature</rdfs:label>
+        <rdfs:comment xml:lang="en">This class comprises physical features that are purposely created by human activity, such as scratches, artificial caves, artificial water channels, etc. In particular, it includes the information encoding features on mechanical or digital carriers.</rdfs:comment>
+        <rdfs:label xml:lang="en">Human-Made Feature</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item -->
+
+    <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item">
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <rdfs:comment xml:lang="en">This class comprises the intellectual or conceptual aspects of recognisable marks and images.
+This class does not intend to describe the idiosyncratic characteristics of an individual physical embodiment of a visual item, but the underlying prototype. For example, a mark such as the ICOM logo is generally considered to be the same logo when used on any number of publications. The size, orientation, and colour may change, but the logo remains uniquely identifiable. The same is true of images that are reproduced many times. This means that visual items are independent of their physical support.
+The E36 Visual Item class provides a means of identifying and linking together instances of E24 Physical Human-Made Thing that carry the same visual symbols, marks, or images, etc. The property P62 depicts (is depicted by) between E24 Physical Human-Made Thing and the depicted subjects (E1 CRM Entity) can be regarded as a shortcut of the more fully developed path from E24 Physical Human-Made Thing through P65 shows visual item (is shown by), E36 Visual Item, P138 represents (has representation) to E1 CRM Entity, which in addition captures the optical features of the depiction.</rdfs:comment>
+        <rdfs:label xml:lang="en">Visual Item</rdfs:label>
     </owl:Class>
     
 
@@ -1430,7 +1494,7 @@
     <!-- http://www.cidoc-crm.org/cidoc-crm/E39_Actor -->
 
     <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E39_Actor">
-        <rdfs:subClassOf rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"/>
         <rdfs:comment>This class comprises people, either individually or in groups, who have the potential to perform intentional actions of kinds for which someone may be held responsible.
         The CRM does not attempt to model the inadvertent actions of such actors. Individual people should be documented as instances of E21 Person, whereas groups should be documented as instances of either E74 Group or its subclass E40 Legal Body.
         </rdfs:comment>
@@ -1494,7 +1558,7 @@
     <!-- http://www.cidoc-crm.org/cidoc-crm/crmtex/TX1_Written_Text -->
 
     <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/crmtex/TX1_Written_Text">
-        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E25_Man-Made_Feature"/>
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E25_Human-Made_Feature"/>
         <rdfs:comment xml:lang="en">This class comprises visible set of symbols (glyphs or graphs) intentionally traced (i.e. “written”) on some kind of physical support by using specific techniques and having semiotic significance and the purpose of conveying a message towards a given addressee or group of addressees.</rdfs:comment>
         <rdfs:label xml:lang="en">TX1 Written Text</rdfs:label>
     </owl:Class>
@@ -1554,7 +1618,7 @@
     <!-- http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object -->
 
     <owl:Class rdf:about="http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object">
-        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object"/>
         <rdfs:comment xml:lang="en">This class comprises identifiable immaterial items that can be represented as sets of bit sequences, such as data sets, e-texts, images, audio or video items, software, etc., and are documented as single units. Any aggregation of instances of D1 Digital Object into a whole treated as single unit is also regarded as an instance of D1 Digital Object. This means that for instance, the content of a DVD, an XML file on it, and an element of this file, are regarded as distinct instances of D1 Digital Object, mutually related by the P106 is composed of (forms part of) property. A D1 Digital Object does not depend on a specific physical carrier, and it can exist on one or more carriers simultaneously.</rdfs:comment>
         <rdfs:label xml:lang="en">Digital Object (D1)</rdfs:label>
     </owl:Class>
