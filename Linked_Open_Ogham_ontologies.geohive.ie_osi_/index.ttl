@@ -10,8 +10,7 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://ontologies.geohive.ie/osi#> ;
     void:subjectsTarget <http://lod.ogham.link/data/Linked_Open_Ogham> ;
-    void:triples 52,
-        96,
+    void:triples 96,
         97,
         98 .
 

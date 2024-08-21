@@ -10,7 +10,6 @@
     void:property prov:wasAssociatedWith ;
     void:triples 1,
         4,
-        53,
         96,
         97,
         104,

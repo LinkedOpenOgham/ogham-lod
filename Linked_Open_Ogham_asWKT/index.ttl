@@ -10,7 +10,6 @@
     void:property geo:asWKT ;
     void:triples 1,
         4,
-        52,
         97,
         231,
         665 .

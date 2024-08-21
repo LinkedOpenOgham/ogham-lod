@@ -9,7 +9,6 @@
     void:property <http://ontology.ogham.link/hasEPSG> ;
     void:triples 1,
         4,
-        52,
         97,
         231,
         595 .

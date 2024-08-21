@@ -10,7 +10,6 @@
     void:property prov:wasAttributedTo ;
     void:triples 2,
         5,
-        54,
         99,
         105,
         232,

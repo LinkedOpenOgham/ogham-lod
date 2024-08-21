@@ -10,7 +10,7 @@
     void:property prov:endedAtTime ;
     void:triples 1,
         4,
-        53,
+        96,
         97,
         104,
         231,
