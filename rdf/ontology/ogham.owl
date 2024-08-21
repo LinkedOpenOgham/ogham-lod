@@ -1481,7 +1481,7 @@ The class also includes all aggregates of objects made for functional purposes o
     <!-- http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item -->
 
     <owl:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item">
-        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/crmtex/TX7_Written_Text_Segment"/>
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <rdfs:comment xml:lang="en">This class comprises the intellectual or conceptual aspects of recognisable marks and images.
 This class does not intend to describe the idiosyncratic characteristics of an individual physical embodiment of a visual item, but the underlying prototype. For example, a mark such as the ICOM logo is generally considered to be the same logo when used on any number of publications. The size, orientation, and colour may change, but the logo remains uniquely identifiable. The same is true of images that are reproduced many times. This means that visual items are independent of their physical support.
