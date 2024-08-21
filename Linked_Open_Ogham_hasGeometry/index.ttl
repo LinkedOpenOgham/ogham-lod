@@ -10,6 +10,7 @@
     void:property geo:hasGeometry ;
     void:triples 1,
         4,
+        52,
         97,
         231,
         595 .

@@ -10,6 +10,7 @@
     void:property dcterms:license ;
     void:triples 2,
         8,
+        52,
         97,
         104,
         231,

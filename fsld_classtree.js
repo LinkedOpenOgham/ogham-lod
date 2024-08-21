@@ -43,6 +43,2113 @@ var tree={
     "check_callback": true,
     "data": [
       {
+        "id": "http://lod.ogham.link/data/GSD5000298_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000298_activity (ogham:GSD5000298_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000299_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000299_activity (ogham:GSD5000299_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000300_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000300_activity (ogham:GSD5000300_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000302_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000302_activity (ogham:GSD5000302_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000304_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000304_activity (ogham:GSD5000304_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000305_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000305_activity (ogham:GSD5000305_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000306_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000306_activity (ogham:GSD5000306_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000307_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000307_activity (ogham:GSD5000307_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000308_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000308_activity (ogham:GSD5000308_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000309_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000309_activity (ogham:GSD5000309_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000310_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000310_activity (ogham:GSD5000310_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000311_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000311_activity (ogham:GSD5000311_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000313_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000313_activity (ogham:GSD5000313_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000314_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000314_activity (ogham:GSD5000314_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000315_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000315_activity (ogham:GSD5000315_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000316_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000316_activity (ogham:GSD5000316_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000317_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000317_activity (ogham:GSD5000317_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000318_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000318_activity (ogham:GSD5000318_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000319_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000319_activity (ogham:GSD5000319_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000320_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000320_activity (ogham:GSD5000320_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000321_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000321_activity (ogham:GSD5000321_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000322_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000322_activity (ogham:GSD5000322_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000043_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000043_activity (ogham:GSD5000043_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000052_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000052_activity (ogham:GSD5000052_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000059_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000059_activity (ogham:GSD5000059_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000056_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000056_activity (ogham:GSD5000056_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000061_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000061_activity (ogham:GSD5000061_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000033_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000033_activity (ogham:GSD5000033_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000337_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000337_activity (ogham:GSD5000337_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000078_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000078_activity (ogham:GSD5000078_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000035_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000035_activity (ogham:GSD5000035_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000068_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000068_activity (ogham:GSD5000068_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000084_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000084_activity (ogham:GSD5000084_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000094_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000094_activity (ogham:GSD5000094_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000076_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000076_activity (ogham:GSD5000076_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000073_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000073_activity (ogham:GSD5000073_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000096_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000096_activity (ogham:GSD5000096_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000099_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000099_activity (ogham:GSD5000099_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000088_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000088_activity (ogham:GSD5000088_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000079_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000079_activity (ogham:GSD5000079_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000074_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000074_activity (ogham:GSD5000074_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000082_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000082_activity (ogham:GSD5000082_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000013_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000013_activity (ogham:GSD5000013_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000090_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000090_activity (ogham:GSD5000090_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000037_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000037_activity (ogham:GSD5000037_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000075_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000075_activity (ogham:GSD5000075_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000093_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000093_activity (ogham:GSD5000093_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000072_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000072_activity (ogham:GSD5000072_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000067_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000067_activity (ogham:GSD5000067_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000339_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000339_activity (ogham:GSD5000339_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000340_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000340_activity (ogham:GSD5000340_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000341_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000341_activity (ogham:GSD5000341_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000091_activity",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "GSD5000091_activity (ogham:GSD5000091_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://www.w3.org/ns/prov#Activity",
+        "parent": "#",
+        "type": "class",
+        "text": "Activity (prov:Activity) [5088]",
+        "data": {
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#endedAtTime": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#startedAtTime": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#wasAssociatedWith": {
+              "instancecount": 1
+            }
+          },
+          "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.w3.org/2004/02/skos/core#Collection": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.w3.org/ns/prov#wasGeneratedBy": {
+              "instancecount": 0,
+              "http://ontology.ogham.link/Barony": 1,
+              "http://www.opengis.net/ont/geosparql#Feature": 1,
+              "http://ontologies.geohive.ie/osi#Barony": 1
+            }
+          }
+        },
+        "instancecount": 5
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000299_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Buir\u00edos Umhaill (ogham:GSD5000299)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000300_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Gaillimh (ogham:GSD5000300)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000302_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "C\u00farsaigh (ogham:GSD5000302)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000304_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Baile an Bhriotaigh (ogham:GSD5000304)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000305_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Ardach (ogham:GSD5000305)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000306_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Port na hInse (ogham:GSD5000306)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000307_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An Chrois Uachtarach (ogham:GSD5000307)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000308_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Maothail (ogham:GSD5000308)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000309_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "S\u00edol Fhaolchair (ogham:GSD5000309)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000310_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Clann Liam (ogham:GSD5000310)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000311_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Baile an Tobair Thuaidh (ogham:GSD5000311)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000313_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Lucht T\u00ed \u00cdochtarach (ogham:GSD5000313)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000314_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An Corann (ogham:GSD5000314)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000315_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "D\u00fan Ciar\u00e1in Thuaidh (ogham:GSD5000315)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000316_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Garra\u00ed an Chaisle\u00e1in (ogham:GSD5000316)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000317_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "U\u00ed Mhac gCuais (ogham:GSD5000317)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000318_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An Tulach \u00cdochtarach (ogham:GSD5000318)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000319_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Fotharta (ogham:GSD5000319)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000320_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Maigh Dumha (ogham:GSD5000320)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000321_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Na L\u00edbearta\u00ed Thuaidh (ogham:GSD5000321)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000322_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Carraig \u00c1lainn (ogham:GSD5000322)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000043_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An L\u00e9im Theas (ogham:GSD5000043)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000052_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Coistealaigh (ogham:GSD5000052)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000059_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Coistealaigh (ogham:GSD5000059)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000056_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Cois Abha M\u00f3ire agus Cois Bhr\u00edde (ogham:GSD5000056)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000061_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "U\u00edbh Eirc (ogham:GSD5000061)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000033_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An L\u00e9im Thuaidh (ogham:GSD5000033)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000337_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Port L\u00e1irge (ogham:GSD5000337)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000078_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Bar\u00f3idigh (ogham:GSD5000078)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000035_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Caisle\u00e1n Cnucha (ogham:GSD5000035)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000068_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "D\u00e9ise Uachtarach (ogham:GSD5000068)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000084_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Damhliag \u00cdochtarach (ogham:GSD5000084)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000094_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Damhliag Uachtarach (ogham:GSD5000094)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000076_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Gabhalmhaigh (ogham:GSD5000076)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000073_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "U\u00ed Ch\u00e9ithigh agus Uachtar Fhine (ogham:GSD5000073)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000096_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Ceanannas \u00cdochtarach (ogham:GSD5000096)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000099_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Ceanannas Uachtarach (ogham:GSD5000099)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000088_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Cill Ch\u00e1 agus Maoin (ogham:GSD5000088)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000079_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Maigh Fionnr\u00e1ithe \u00cdochtarach (ogham:GSD5000079)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000074_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An Fhorrach agus an R\u00e9ab\u00e1n Thoir (ogham:GSD5000074)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000082_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An Uaimh \u00cdochtarach (ogham:GSD5000082)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000013_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "An Daingean Uachtarach (ogham:GSD5000013)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000090_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Baile Shl\u00e1ine \u00cdochtarach (ogham:GSD5000090)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000037_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Baile Shl\u00e1ine Uachtarach (ogham:GSD5000037)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000075_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Tigh Moling \u00cdochtarach (ogham:GSD5000075)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000093_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Baile an Talb\u00f3idigh \u00cdochtarach (ogham:GSD5000093)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000072_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Baile an Talb\u00f3idigh Uachtarach (ogham:GSD5000072)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000067_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Corcaigh (ogham:GSD5000067)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000339_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Corcaigh (ogham:GSD5000339)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000340_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Baile \u00c1tha Cliath (ogham:GSD5000340)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000341_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Gaillimh (ogham:GSD5000341)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000091_suniv0_",
+        "parent": "http://ontology.ogham.link/Barony",
+        "type": "geoinstance",
+        "text": "Coill na Tal\u00fan (ogham:GSD5000091)",
+        "data": {}
+      },
+      {
+        "id": "http://ontology.ogham.link/Barony",
+        "parent": "#",
+        "type": "halfgeoclass",
+        "text": "Barony (oghamonto:Barony) [343]",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000299_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Buir\u00edos Umhaill (ogham:GSD5000299)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000300_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Gaillimh (ogham:GSD5000300)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000302_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "C\u00farsaigh (ogham:GSD5000302)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000304_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Baile an Bhriotaigh (ogham:GSD5000304)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000305_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Ardach (ogham:GSD5000305)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000306_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Port na hInse (ogham:GSD5000306)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000307_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An Chrois Uachtarach (ogham:GSD5000307)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000308_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Maothail (ogham:GSD5000308)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000309_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "S\u00edol Fhaolchair (ogham:GSD5000309)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000310_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Clann Liam (ogham:GSD5000310)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000311_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Baile an Tobair Thuaidh (ogham:GSD5000311)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000313_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Lucht T\u00ed \u00cdochtarach (ogham:GSD5000313)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000314_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An Corann (ogham:GSD5000314)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000315_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "D\u00fan Ciar\u00e1in Thuaidh (ogham:GSD5000315)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000316_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Garra\u00ed an Chaisle\u00e1in (ogham:GSD5000316)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000317_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "U\u00ed Mhac gCuais (ogham:GSD5000317)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000318_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An Tulach \u00cdochtarach (ogham:GSD5000318)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000319_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Fotharta (ogham:GSD5000319)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000320_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Maigh Dumha (ogham:GSD5000320)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000321_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Na L\u00edbearta\u00ed Thuaidh (ogham:GSD5000321)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000322_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Carraig \u00c1lainn (ogham:GSD5000322)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000043_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An L\u00e9im Theas (ogham:GSD5000043)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000052_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Coistealaigh (ogham:GSD5000052)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000059_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Coistealaigh (ogham:GSD5000059)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000056_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Cois Abha M\u00f3ire agus Cois Bhr\u00edde (ogham:GSD5000056)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000061_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "U\u00edbh Eirc (ogham:GSD5000061)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000033_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An L\u00e9im Thuaidh (ogham:GSD5000033)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000337_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Port L\u00e1irge (ogham:GSD5000337)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000078_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Bar\u00f3idigh (ogham:GSD5000078)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000035_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Caisle\u00e1n Cnucha (ogham:GSD5000035)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000068_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "D\u00e9ise Uachtarach (ogham:GSD5000068)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000084_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Damhliag \u00cdochtarach (ogham:GSD5000084)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000094_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Damhliag Uachtarach (ogham:GSD5000094)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000076_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Gabhalmhaigh (ogham:GSD5000076)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000073_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "U\u00ed Ch\u00e9ithigh agus Uachtar Fhine (ogham:GSD5000073)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000096_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Ceanannas \u00cdochtarach (ogham:GSD5000096)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000099_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Ceanannas Uachtarach (ogham:GSD5000099)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000088_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Cill Ch\u00e1 agus Maoin (ogham:GSD5000088)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000079_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Maigh Fionnr\u00e1ithe \u00cdochtarach (ogham:GSD5000079)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000074_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An Fhorrach agus an R\u00e9ab\u00e1n Thoir (ogham:GSD5000074)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000082_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An Uaimh \u00cdochtarach (ogham:GSD5000082)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000013_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "An Daingean Uachtarach (ogham:GSD5000013)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000090_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Baile Shl\u00e1ine \u00cdochtarach (ogham:GSD5000090)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000037_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Baile Shl\u00e1ine Uachtarach (ogham:GSD5000037)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000075_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Tigh Moling \u00cdochtarach (ogham:GSD5000075)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000093_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Baile an Talb\u00f3idigh \u00cdochtarach (ogham:GSD5000093)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000072_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Baile an Talb\u00f3idigh Uachtarach (ogham:GSD5000072)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000067_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Corcaigh (ogham:GSD5000067)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000339_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Corcaigh (ogham:GSD5000339)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000340_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Baile \u00c1tha Cliath (ogham:GSD5000340)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000341_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Gaillimh (ogham:GSD5000341)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000091_suniv1_",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "geoinstance",
+        "text": "Coill na Tal\u00fan (ogham:GSD5000091)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#Feature",
+        "parent": "#",
+        "type": "halfgeoclass",
+        "text": "Feature (gsp:Feature) [348]",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000299_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Buir\u00edos Umhaill (ogham:GSD5000299)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000300_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Gaillimh (ogham:GSD5000300)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000302_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "C\u00farsaigh (ogham:GSD5000302)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000304_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Baile an Bhriotaigh (ogham:GSD5000304)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000305_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Ardach (ogham:GSD5000305)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000306_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Port na hInse (ogham:GSD5000306)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000307_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An Chrois Uachtarach (ogham:GSD5000307)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000308_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Maothail (ogham:GSD5000308)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000309_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "S\u00edol Fhaolchair (ogham:GSD5000309)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000310_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Clann Liam (ogham:GSD5000310)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000311_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Baile an Tobair Thuaidh (ogham:GSD5000311)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000313_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Lucht T\u00ed \u00cdochtarach (ogham:GSD5000313)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000314_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An Corann (ogham:GSD5000314)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000315_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "D\u00fan Ciar\u00e1in Thuaidh (ogham:GSD5000315)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000316_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Garra\u00ed an Chaisle\u00e1in (ogham:GSD5000316)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000317_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "U\u00ed Mhac gCuais (ogham:GSD5000317)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000318_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An Tulach \u00cdochtarach (ogham:GSD5000318)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000319_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Fotharta (ogham:GSD5000319)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000320_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Maigh Dumha (ogham:GSD5000320)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000321_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Na L\u00edbearta\u00ed Thuaidh (ogham:GSD5000321)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000322_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Carraig \u00c1lainn (ogham:GSD5000322)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000043_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An L\u00e9im Theas (ogham:GSD5000043)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000052_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Coistealaigh (ogham:GSD5000052)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000059_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Coistealaigh (ogham:GSD5000059)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000056_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Cois Abha M\u00f3ire agus Cois Bhr\u00edde (ogham:GSD5000056)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000061_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "U\u00edbh Eirc (ogham:GSD5000061)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000033_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An L\u00e9im Thuaidh (ogham:GSD5000033)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000337_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Port L\u00e1irge (ogham:GSD5000337)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000078_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Bar\u00f3idigh (ogham:GSD5000078)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000035_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Caisle\u00e1n Cnucha (ogham:GSD5000035)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000068_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "D\u00e9ise Uachtarach (ogham:GSD5000068)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000084_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Damhliag \u00cdochtarach (ogham:GSD5000084)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000094_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Damhliag Uachtarach (ogham:GSD5000094)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000076_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Gabhalmhaigh (ogham:GSD5000076)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000073_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "U\u00ed Ch\u00e9ithigh agus Uachtar Fhine (ogham:GSD5000073)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000096_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Ceanannas \u00cdochtarach (ogham:GSD5000096)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000099_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Ceanannas Uachtarach (ogham:GSD5000099)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000088_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Cill Ch\u00e1 agus Maoin (ogham:GSD5000088)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000079_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Maigh Fionnr\u00e1ithe \u00cdochtarach (ogham:GSD5000079)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000074_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An Fhorrach agus an R\u00e9ab\u00e1n Thoir (ogham:GSD5000074)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000082_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An Uaimh \u00cdochtarach (ogham:GSD5000082)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000013_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "An Daingean Uachtarach (ogham:GSD5000013)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000090_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Baile Shl\u00e1ine \u00cdochtarach (ogham:GSD5000090)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000037_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Baile Shl\u00e1ine Uachtarach (ogham:GSD5000037)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000075_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Tigh Moling \u00cdochtarach (ogham:GSD5000075)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000093_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Baile an Talb\u00f3idigh \u00cdochtarach (ogham:GSD5000093)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000072_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Baile an Talb\u00f3idigh Uachtarach (ogham:GSD5000072)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000067_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Corcaigh (ogham:GSD5000067)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000339_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Corcaigh (ogham:GSD5000339)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000340_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Baile \u00c1tha Cliath (ogham:GSD5000340)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000341_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Gaillimh (ogham:GSD5000341)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000091_suniv2_",
+        "parent": "http://ontologies.geohive.ie/osi#Barony",
+        "type": "geoinstance",
+        "text": "Coill na Tal\u00fan (ogham:GSD5000091)",
+        "data": {}
+      },
+      {
+        "id": "http://ontologies.geohive.ie/osi#Barony",
+        "parent": "#",
+        "type": "halfgeoclass",
+        "text": "Barony (Barony) [343]",
+        "data": {
+          "to": {
+            "http://ontology.ogham.link/exactMatch": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/creator": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/license": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/rightsHolder": {
+              "instancecount": 2
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.opengis.net/ont/geosparql#hasGeometry": {
+              "instancecount": 1,
+              "http://www.opengis.net/ont/sf#MultiPolygon": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 3
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 2
+            },
+            "http://www.w3.org/ns/prov#wasAttributedTo": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#wasDerivedFrom": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#wasGeneratedBy": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/prov#Activity": 1
+            }
+          },
+          "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2,
+              "http://www.w3.org/2004/02/skos/core#Collection": 1,
+              "http://www.w3.org/ns/ldp#Resource": 2,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 2
+            }
+          }
+        },
+        "instancecount": 15
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000299_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000299_geom (ogham:GSD5000299_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000300_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000300_geom (ogham:GSD5000300_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000302_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000302_geom (ogham:GSD5000302_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000304_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000304_geom (ogham:GSD5000304_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000305_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000305_geom (ogham:GSD5000305_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000306_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000306_geom (ogham:GSD5000306_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000307_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000307_geom (ogham:GSD5000307_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000308_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000308_geom (ogham:GSD5000308_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000309_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000309_geom (ogham:GSD5000309_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000310_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000310_geom (ogham:GSD5000310_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000311_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000311_geom (ogham:GSD5000311_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000313_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000313_geom (ogham:GSD5000313_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000314_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000314_geom (ogham:GSD5000314_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000315_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000315_geom (ogham:GSD5000315_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000316_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000316_geom (ogham:GSD5000316_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000317_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000317_geom (ogham:GSD5000317_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000318_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000318_geom (ogham:GSD5000318_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000319_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000319_geom (ogham:GSD5000319_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000320_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000320_geom (ogham:GSD5000320_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000321_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000321_geom (ogham:GSD5000321_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000322_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000322_geom (ogham:GSD5000322_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000043_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000043_geom (ogham:GSD5000043_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000052_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000052_geom (ogham:GSD5000052_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000059_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000059_geom (ogham:GSD5000059_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000056_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000056_geom (ogham:GSD5000056_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000061_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000061_geom (ogham:GSD5000061_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000033_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000033_geom (ogham:GSD5000033_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000337_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000337_geom (ogham:GSD5000337_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000078_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000078_geom (ogham:GSD5000078_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000035_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000035_geom (ogham:GSD5000035_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000068_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000068_geom (ogham:GSD5000068_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000084_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000084_geom (ogham:GSD5000084_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000094_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000094_geom (ogham:GSD5000094_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000076_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000076_geom (ogham:GSD5000076_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000073_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000073_geom (ogham:GSD5000073_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000096_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000096_geom (ogham:GSD5000096_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000099_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000099_geom (ogham:GSD5000099_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000088_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000088_geom (ogham:GSD5000088_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000079_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000079_geom (ogham:GSD5000079_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000074_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000074_geom (ogham:GSD5000074_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000082_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000082_geom (ogham:GSD5000082_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000013_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000013_geom (ogham:GSD5000013_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000090_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000090_geom (ogham:GSD5000090_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000037_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000037_geom (ogham:GSD5000037_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000075_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000075_geom (ogham:GSD5000075_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000093_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000093_geom (ogham:GSD5000093_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000072_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000072_geom (ogham:GSD5000072_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000067_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000067_geom (ogham:GSD5000067_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000339_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000339_geom (ogham:GSD5000339_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000340_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000340_geom (ogham:GSD5000340_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000341_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000341_geom (ogham:GSD5000341_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/GSD5000091_geom",
+        "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "type": "geoinstance",
+        "text": "GSD5000091_geom (ogham:GSD5000091_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "parent": "#",
+        "type": "geoclass",
+        "text": "MultiPolygon (sf:MultiPolygon) [348]",
+        "data": {
+          "to": {
+            "http://ontology.ogham.link/hasEPSG": {
+              "instancecount": 1
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.opengis.net/ont/geosparql#asWKT": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            }
+          },
+          "from": {
+            "http://www.opengis.net/ont/geosparql#hasGeometry": {
+              "instancecount": 0,
+              "http://ontology.ogham.link/Barony": 1,
+              "http://www.opengis.net/ont/geosparql#Feature": 1,
+              "http://ontologies.geohive.ie/osi#Barony": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.opengis.net/ont/geosparql#GeometryCollection": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            }
+          }
+        },
+        "instancecount": 4
+      },
+      {
+        "id": "http://lod.ogham.link/data/Activity_collection",
+        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "type": "instance",
+        "text": "Activity Instances Collection (ogham:Activity_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.w3.org/2004/02/skos/core#Collection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "Collection (skos:Collection) [28]",
+        "data": {
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 3
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 1553,
+              "http://www.w3.org/ns/prov#Activity": 53
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 1560
+      },
+      {
+        "id": "http://lod.ogham.link/data/Barony_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "Barony Instances Collection (ogham:Barony_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/Feature_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "Feature Instances Collection (ogham:Feature_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "type": "collectionclass",
+        "text": "FeatureCollection (gsp:FeatureCollection) [14]",
+        "data": {
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 3
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 348,
+              "http://ontology.ogham.link/Barony": 52,
+              "http://www.opengis.net/ont/geosparql#Feature": 52,
+              "http://ontologies.geohive.ie/osi#Barony": 52
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 354
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
+        "data": {}
+      },
+      {
+        "id": "http://lod.ogham.link/data/MultiPolygon_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "geocollection",
+        "text": "MultiPolygon Instances Collection (ogham:MultiPolygon_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "type": "collectionclass",
+        "text": "GeometryCollection (gsp:GeometryCollection) [8]",
+        "data": {
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 3
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 348,
+              "http://www.opengis.net/ont/sf#MultiPolygon": 52
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 354
+      },
+      {
         "id": "http://lod.ogham.link/data/GSD5000108_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPolygon",
         "type": "geoinstance",
@@ -722,47 +2829,6 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://www.opengis.net/ont/sf#MultiPolygon",
-        "parent": "#",
-        "type": "geoclass",
-        "text": "MultiPolygon (sf:MultiPolygon) [296]",
-        "data": {
-          "to": {
-            "http://ontology.ogham.link/hasEPSG": {
-              "instancecount": 1
-            },
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.opengis.net/ont/geosparql#asWKT": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            }
-          },
-          "from": {
-            "http://www.opengis.net/ont/geosparql#hasGeometry": {
-              "instancecount": 0,
-              "http://ontology.ogham.link/Barony": 1,
-              "http://www.opengis.net/ont/geosparql#Feature": 1,
-              "http://ontologies.geohive.ie/osi#Barony": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#GeometryCollection": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            }
-          }
-        },
-        "instancecount": 4
-      },
-      {
         "id": "http://lod.ogham.link/data/GSD5000108_activity",
         "parent": "http://www.w3.org/ns/prov#Activity",
         "type": "instance",
@@ -1435,50 +3501,6 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://www.w3.org/ns/prov#Activity",
-        "parent": "#",
-        "type": "class",
-        "text": "Activity (prov:Activity) [5035]",
-        "data": {
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#endedAtTime": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#startedAtTime": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#wasAssociatedWith": {
-              "instancecount": 1
-            }
-          },
-          "from": {
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.w3.org/ns/prov#wasGeneratedBy": {
-              "instancecount": 0,
-              "http://ontology.ogham.link/Barony": 1,
-              "http://www.opengis.net/ont/geosparql#Feature": 1,
-              "http://ontologies.geohive.ie/osi#Barony": 1
-            }
-          }
-        },
-        "instancecount": 5
-      },
-      {
         "id": "http://lod.ogham.link/data/GSD5000109_suniv0_",
         "parent": "http://ontology.ogham.link/Barony",
         "type": "geoinstance",
@@ -2148,13 +4170,6 @@ var tree={
         "parent": "http://ontology.ogham.link/Barony",
         "type": "geoinstance",
         "text": "Cill Liath\u00e1in (ogham:GSD5000298)",
-        "data": {}
-      },
-      {
-        "id": "http://ontology.ogham.link/Barony",
-        "parent": "#",
-        "type": "halfgeoclass",
-        "text": "Barony (oghamonto:Barony) [291]",
         "data": {}
       },
       {
@@ -2830,13 +4845,6 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://www.opengis.net/ont/geosparql#Feature",
-        "parent": "#",
-        "type": "halfgeoclass",
-        "text": "Feature (gsp:Feature) [296]",
-        "data": {}
-      },
-      {
         "id": "http://lod.ogham.link/data/GSD5000109_suniv2_",
         "parent": "http://ontologies.geohive.ie/osi#Barony",
         "type": "geoinstance",
@@ -3509,105 +5517,10 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://ontologies.geohive.ie/osi#Barony",
-        "parent": "#",
-        "type": "halfgeoclass",
-        "text": "Barony (Barony) [291]",
-        "data": {
-          "to": {
-            "http://ontology.ogham.link/exactMatch": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/creator": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/license": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/rightsHolder": {
-              "instancecount": 2
-            },
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.opengis.net/ont/geosparql#hasGeometry": {
-              "instancecount": 1,
-              "http://www.opengis.net/ont/sf#MultiPolygon": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 2
-            },
-            "http://www.w3.org/ns/prov#wasAttributedTo": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#wasDerivedFrom": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#wasGeneratedBy": {
-              "instancecount": 1,
-              "http://www.w3.org/ns/prov#Activity": 1
-            }
-          },
-          "from": {
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2,
-              "http://www.w3.org/2004/02/skos/core#Collection": 1,
-              "http://www.w3.org/ns/ldp#Resource": 2,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 2
-            }
-          }
-        },
-        "instancecount": 15
-      },
-      {
         "id": "http://lod.ogham.link/data/MultiPolygon_collection",
         "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
         "type": "geocollection",
         "text": "MultiPolygon Instances Collection (ogham:MultiPolygon_collection)",
-        "data": {}
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
-        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "type": "collectionclass",
-        "text": "GeometryCollection (gsp:GeometryCollection) [7]",
-        "data": {
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 296,
-              "http://www.opengis.net/ont/sf#MultiPolygon": 97
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 302
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
         "data": {}
       },
       {
@@ -3616,35 +5529,6 @@ var tree={
         "type": "instance",
         "text": "Activity Instances Collection (ogham:Activity_collection)",
         "data": {}
-      },
-      {
-        "id": "http://www.w3.org/2004/02/skos/core#Collection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "Collection (skos:Collection) [27]",
-        "data": {
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 1596,
-              "http://www.w3.org/ns/prov#Activity": 96
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 1603
       },
       {
         "id": "http://lod.ogham.link/data/Barony_collection",
@@ -3659,39 +5543,6 @@ var tree={
         "type": "featurecollection",
         "text": "Feature Instances Collection (ogham:Feature_collection)",
         "data": {}
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "type": "collectionclass",
-        "text": "FeatureCollection (gsp:FeatureCollection) [12]",
-        "data": {
-          "to": {
-            "http://rdfs.org/ns/void#inDataset": {
-              "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 4
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 291,
-              "http://ontology.ogham.link/Barony": 97,
-              "http://www.opengis.net/ont/geosparql#Feature": 97,
-              "http://ontologies.geohive.ie/osi#Barony": 97,
-              "http://www.w3.org/ns/ldp#Resource": 1,
-              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 298
       },
       {
         "id": "http://lod.ogham.link/data/GSD5000180_geom",
@@ -17786,8 +19637,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -40891,8 +42742,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -41023,8 +42874,10 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
               "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 3
@@ -41052,7 +42905,9 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 3
+              "http://www.w3.org/2004/02/skos/core#Collection": 3,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             }
           }
         },
@@ -41914,8 +43769,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -41926,7 +43781,7 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#altLabel": {
-              "instancecount": 8
+              "instancecount": 4
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 2
@@ -41945,11 +43800,13 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 3
+              "http://www.w3.org/2004/02/skos/core#Collection": 3,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             }
           }
         },
-        "instancecount": 27
+        "instancecount": 23
       },
       {
         "id": "http://lod.ogham.link/data/Word_collection",
@@ -50330,7 +52187,10 @@ var tree={
         "text": "Location (Location) [595]",
         "data": {
           "to": {
-            "http://ontology.ogham.link/sitetype": {
+            "http://ontology.ogham.link/irishGrid": {
+              "instancecount": 1
+            },
+            "http://ontology.ogham.link/sitecode": {
               "instancecount": 1
             },
             "http://purl.org/dc/terms/creator": {
@@ -50344,8 +52204,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -50377,7 +52237,7 @@ var tree={
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 14
       },
       {
         "id": "http://lod.ogham.link/data/OL6958697_geom",
@@ -54556,8 +56416,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -81054,8 +82914,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -92360,6 +94220,9 @@ var tree={
             "http://ontology.ogham.link/preservation": {
               "instancecount": 1
             },
+            "http://ontology.ogham.link/preservation_note": {
+              "instancecount": 1
+            },
             "http://ontology.ogham.link/t_status": {
               "instancecount": 1
             },
@@ -92367,9 +94230,6 @@ var tree={
               "instancecount": 1
             },
             "http://ontology.ogham.link/w_status": {
-              "instancecount": 1
-            },
-            "http://ontology.ogham.link/width": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/identifier": {
@@ -92386,8 +94246,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -93590,8 +95450,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -96336,8 +98196,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/ldp#Resource": 1,
               "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
@@ -99693,8 +101553,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
